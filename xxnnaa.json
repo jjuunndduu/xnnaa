@@ -1,0 +1,290 @@
+[
+ {
+   "amtiet": "a",
+   "huongdan": "Mồm há to, lưỡi xuống thấp. Là nguyên âm dài, không tròn môi. Cách phát âm gần giống “a” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/a1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/a2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/a3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/a4.mp3"
+ },
+ {
+   "amtiet": "o",
+   "huongdan": "Lưỡi rút về phía sau, gốc lưỡi nâng cao ở vị trí giữa, hai môi tròn và nhô ra một tí. Là nguyên âm dài, tròn môi. Cách phát âm hơi giống “ua” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/o1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/o2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/o3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/o4.mp3"
+ },
+ {
+   "amtiet": "e",
+   "huongdan": "Lưỡi rút về phía sau, gốc lưỡi nâng cao ở vị trí giữa, mồm há vừa. Là nguyên âm dài, không tròn môi. Cách phát âm hơi giống “ơ” và “ưa” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/e1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/e2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/e3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/e4.mp3"
+ },
+ {
+   "amtiet": "i",
+   "huongdan": "Đầu lưỡi dính với răng dưới, phía trước mặt lưỡi nâng sát ngạc cứng, hai môi giẹp, bành ra. Là nguyên âm dài, không tròn môi. Cách phát âm hơi giống “i” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/yi1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/yi2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/yi3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/yi4.mp3"
+ },
+ {
+   "amtiet": "u",
+   "huongdan": "Gốc lưỡi nâng cao, lưỡi rút về phía sau, hai môi tròn, nhô ra trước. Là nguyên âm dài, tròn môi. Cách phát âm hơi giống “u” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/wu1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/wu2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/wu3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/wu4.mp3"
+ },
+ {
+   "amtiet": "ü",
+   "huongdan": "Đầu lưỡi dính với răng dưới, phía trước mặt lưỡi nâng sát ngạc cứng, hai môi tròn, nhô ra trước. Là nguyên âm dài, tròn môi. Cách phát âm hơi giống “uy” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/yu1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/yu2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/yu3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/yu4.mp3"
+ },
+ {
+   "amtiet": "ai",
+   "huongdan": "Phát nguyên âm “a” trước, sau đó dần dần chuyển sang phát nguyên âm “i”. Cách phát âm gần giống âm “ai” trong tiếng Việt",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/ai1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/ai2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/ai3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/ai4.mp3"
+ },
+ {
+   "amtiet": "ei",
+   "huongdan": "Phát nguyên âm “e” trước, sau đó lập tức chuyển sang phát nguyên âm “i”. Cách phát âm gần giống âm “ây” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/ei1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/ei2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/ei3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/ei4.mp3"
+ },
+ {
+   "amtiet": "ao",
+   "huongdan": "Phát nguyên âm “a” trước, sau đó dần dần chuyển sang phát nguyên âm “o”. Cách phát âm gần giống âm “ao” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/ao1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/ao2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/ao3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/ao4.mp3"
+ },
+ {
+   "amtiet": "ou",
+   "huongdan": "Phát nguyên âm “o” trước, sau đó lập tức chuyển sang phát nguyên âm “u”. Cách phát âm gần giống âm “âu” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/ou1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/ou2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/ou3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/ou4.mp3"
+ },
+ {
+   "amtiet": "ie",
+   "huongdan": "Phát nguyên âm “i” trước, sau đó lập tức chuyển sang phát nguyên âm “e”. Cách phát âm gần giống âm “ia” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/ye1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/ye2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/ye3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/ye4.mp3"
+ },
+ {
+   "amtiet": "üe",
+   "huongdan": "Phát nguyên âm “ü” trước, sau đó dần dần chuyển sang phát nguyên âm “e”. Cách phát âm gần giống âm “uê” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/yue1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/yue2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/yue3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/yue4.mp3"
+ },
+ {
+   "amtiet": "an",
+   "huongdan": "Phát nguyên âm a trước, sau đó, chuyển sang phát phụ âm n. Cách phát âm gần giống “an” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/an1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/an2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/an3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/an4.mp3"
+ },
+ {
+   "amtiet": "en",
+   "huongdan": "Phát nguyên âm “e” trước, sau đó chuyển sang phát phụ âm “n”. Cách phát âm gần giống âm “ân” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/en1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/en2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/en3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/en4.mp3"
+ },
+ {
+   "amtiet": "in",
+   "huongdan": "Phát nguyên âm “i” trước, sau đó chuyển sang phát phụ âm “n”. Cách phát âm gần giống âm “in” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/yin1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/yin2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/yin3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/yin4.mp3"
+ },
+ {
+   "amtiet": "un (uen)",
+   "huongdan": "Phát nguyên âm “u” trước, sau đó chuyển sang phát phụ âm “en”. Cách phát âm gần giống âm “uân” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/wen1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/wen2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/wen3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/wen4.mp3"
+ },
+ {
+   "amtiet": "ün",
+   "huongdan": "Phát nguyên âm “ü” trước, sau đó chuyển sang phát phụ âm “n”. Cách phát âm na ná âm “uyn” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/yun1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/yun2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/yun3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/yun4.mp3"
+ },
+ {
+   "amtiet": "ang",
+   "huongdan": "Phát nguyên âm “a” trước, sau đó, chuyển sang phát âm “ng”. Cách phát âm gần giống “ang” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/ang1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/ang2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/ang3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/ang4.mp3"
+ },
+ {
+   "amtiet": "eng",
+   "huongdan": "Phát nguyên âm “e” trước, sau đó, chuyển sang phát âm “ng”. Cách phát âm gần giống “âng” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/eng1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/eng2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/eng3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/eng4.mp3"
+ },
+ {
+   "amtiet": "ing",
+   "huongdan": "Phát nguyên âm “i” trước, sau đó, chuyển sang phát âm “ng”. Cách phát âm gần giống “inh” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/ying1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/ying2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/ying3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/ying4.mp3"
+ },
+ {
+   "amtiet": "ong",
+   "huongdan": "Phát nguyên âm “o” trước, sau đó, chuyển sang phát âm “ng”. Cách phát âm na ná “ung” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/dong1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/dong2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/dong3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/dong4.mp3"
+ },
+ {
+   "amtiet": "er",
+   "huongdan": "Phát nguyên âm “e” trước, sau đó, lưỡi dần dần cuốn lên. “er” Là một nguyên âm đặc biệt. “er” Là một âm tiết riêng, không thể ghép với bất cứ nguyên âm và phụ âm nào.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/er1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/er2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/er3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/er4.mp3"
+ },
+ {
+   "amtiet": "ia",
+   "huongdan": "Phát nguyên âm “i” trước, sau đó lập tức chuyển sang phát nguyên âm “a”. Trong tiếng Việt không có âm tương tự nhưng phát âm hơi na ná âm ia.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/ya1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/ya2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/ya3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/ya4.mp3"
+ },
+ {
+   "amtiet": "iao",
+   "huongdan": "Phát nguyên âm “i” trước, sau đó lập tức chuyển sang phát nguyên âm kép “ao”. Cách phát âm gần giống âm “eo” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/yao1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/yao2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/yao3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/yao4.mp3"
+ },
+ {
+   "amtiet": "iu (iou)",
+   "huongdan": "Phát nguyên âm “i” trước, sau đó lập tức chuyển sang phát nguyên âm kép “ou”. Cách phát âm na ná âm “yêu” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/you1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/you2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/you3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/you4.mp3"
+ },
+ {
+   "amtiet": "ian",
+   "huongdan": "Phát nguyên âm “i” trước, sau đó chuyển sang phát nguyên âm mũi “an”. Cách phát âm gần giống âm “iên” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/yan1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/yan2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/yan3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/yan4.mp3"
+ },
+ {
+   "amtiet": "iang",
+   "huongdan": "Phát nguyên âm “i” trước, sau đó, chuyển sang phát nguyên âm mũi “ang”. Cách phát âm gần giống “eng” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/yang1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/yang2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/yang3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/yang4.mp3"
+ },
+ {
+   "amtiet": "iong",
+   "huongdan": "Phát nguyên âm “i” trước, sau đó, chuyển sang phát nguyên âm mũi “ung”. Cách phát âm giống với âm “ung” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/yong1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/yong2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/yong3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/yong4.mp3"
+ },
+ {
+   "amtiet": "ua",
+   "huongdan": "Phát nguyên âm “u” trước, sau đó lập tức chuyển sang phát nguyên âm “a”. Cách phát âm gần giống âm “oa” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/wa1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/wa2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/wa3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/wa4.mp3"
+ },
+ {
+   "amtiet": "uo",
+   "huongdan": "Phát nguyên âm “u” trước, sau đó dần dần chuyển sang phát nguyên âm “o”. Cách phát âm gần giống âm “ua” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/wo1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/wo2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/wo3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/wo4.mp3"
+ },
+ {
+   "amtiet": "uai",
+   "huongdan": "Phát nguyên âm “u” trước, sau đó lập tức chuyển sang phát nguyên âm kép “ai”. Cách phát âm gần giống âm “oai” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/wai1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/wai2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/wai3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/wai4.mp3"
+ },
+ {
+   "amtiet": "ui (uei)",
+   "huongdan": "Phát nguyên âm “u” trước, sau đó lập tức chuyển sang phát nguyên âm kép “ei”. Cách phát âm na ná âm “uây” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/wei1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/wei2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/wei3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/wei4.mp3"
+ },
+ {
+   "amtiet": "uan",
+   "huongdan": "Phát nguyên âm “u” trước, sau đó chuyển sang phát nguyên âm mũi “an”. Cách phát âm gần giống âm “oan” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/wan1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/wan2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/wan3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/wan4.mp3"
+ },
+ {
+   "amtiet": "uang",
+   "huongdan": "Phát nguyên âm “u” trước, sau đó, chuyển sang phát nguyên âm mũi “ang”. Cách phát âm gần giống “oang” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/wang1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/wang2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/wang3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/wang4.mp3"
+ },
+ {
+   "amtiet": "ueng",
+   "huongdan": "Phát nguyên âm “u” trước, sau đó, chuyển sang phát nguyên âm mũi “eng”. Cách phát âm na ná “uâng” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/weng1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/weng2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/weng3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/weng4.mp3"
+ },
+ {
+   "amtiet": "üan",
+   "huongdan": "Phát nguyên âm “ü” trước, sau đó chuyển sang phát nguyên âm mũi “an”. Cách phát âm gần giống âm “oen” trong tiếng Việt.",
+   "A": "https://cdn.yoyochinese.com/audio/pychart/yuan1.mp3",
+   "B": "https://cdn.yoyochinese.com/audio/pychart/yuan2.mp3",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/yuan3.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/yuan4.mp3"
+ }
+]
