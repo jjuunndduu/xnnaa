@@ -1,0 +1,191 @@
+[
+ {
+   "amtiet": "b",
+   "huongdan": "Âm môi môi - giống như âm p trong tiếng Việt",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/bo1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/bo2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/bo3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/bo4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/b.mp4"
+ },
+ {
+   "amtiet": "p",
+   "huongdan": "Âm môi môi - giống như âm p trong tiếng Việt nhưng bật hơi",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/po1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/po2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/po3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/po4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/p.mp4"
+ },
+ {
+   "amtiet": "m",
+   "huongdan": "Âm môi môi - giống như âm m trong tiếng Việt",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/mo1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/mo2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/mo3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/mo4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/m.mp4"
+ },
+ {
+   "amtiet": "f",
+   "huongdan": "Âm môi răng - giống âm ph trong tiếng Việt",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/fo1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/fo2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/fo3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/fo4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/f.mp4"
+ },
+ {
+   "amtiet": "d",
+   "huongdan": "Âm đầu lưỡi - đầu lưỡi áp sát mặt sau của lợi hàm răng trên. Sau đó phát âm giống âm t trong tiếng Việt",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/de1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/de2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/de3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/de4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/d.mp4"
+ },
+ {
+   "amtiet": "t",
+   "huongdan": "Âm đầu lưỡi - đầu lưỡi áp sát mặt sau của lợi hàm răng trên. Sau đó phát âm giống âm th trong tiếng Việt nhưng bật hơi",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/te1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/te2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/te3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/te4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/t.mp4"
+ },
+ {
+   "amtiet": "n",
+   "huongdan": "Âm đầu lưỡi - đầu lưỡi áp sát mặt sau của lợi hàm răng trên. Sau đó phát âm giống âm n trong tiếng Việt",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/ne1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/ne2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/ne3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/ne4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/n.mp4"
+ },
+ {
+   "amtiet": "l",
+   "huongdan": "Âm đầu lưỡi - đầu lưỡi áp sát mặt sau của lợi hàm răng trên. Sau đó phát âm giống âm l trong tiếng Việt",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/le1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/le2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/le3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/le4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/l.mp4"
+ },
+ {
+   "amtiet": "g",
+   "huongdan": "Âm cuống lưỡi - Khi phát âm một từ, mặt trước của gốc lưỡi ép vào vòm miệng mềm để chặn luồng không khí, cho phép luồng không khí thoát ra khỏi sự cản trở của gốc lưỡi và phát ra âm thanh. Giống âm c trong tiếng Việt",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/ge1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/ge2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/ge3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/ge4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/g.mp4"
+ },
+ {
+   "amtiet": "k",
+   "huongdan": "Âm cuống lưỡi - Khi phát âm một từ, mặt trước của gốc lưỡi ép vào vòm miệng mềm để chặn luồng không khí, cho phép luồng không khí thoát ra khỏi sự cản trở của gốc lưỡi và phát ra âm thanh. Giống âm kh trong tiếng Việt nhưng bật hơi",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/ke1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/ke2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/ke3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/ke4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/k.mp4"
+ },
+ {
+   "amtiet": "h",
+   "huongdan": "Âm cuống lưỡi - giao thoa giữa âm kh và âm h trong tiếng Việt",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/he1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/he2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/he3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/he4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/h.mp4"
+ },
+ {
+   "amtiet": "j",
+   "huongdan": "Âm mặt lưỡi. mặt lưỡi áp nhẹ vào ngạc cứng, sau đó tách ra, luồng không khí từ giữa thoát ra. Là một âm bán tắc, vô thanh, không bật hơi. Cách phát âm gần giống “ch” trong tiếng Việt",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/ji1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/ji2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/ji3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/ji4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/j.mp4"
+ },
+ {
+   "amtiet": "q",
+   "huongdan": "Âm mặt lưỡi. mặt lưỡi áp nhẹ vào ngạc cứng, sau đó tách ra, luồng không khí từ giữa thoát ra. Là một âm bán tắc, vô thanh, bật hơi",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/qi1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/qi2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/qi3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/qi4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/q.mp4"
+ },
+ {
+   "amtiet": "x",
+   "huongdan": "Âm mặt lưỡi. Mặt lưỡi nâng cao sát ngạc cứng, luồng không khí từ giữa thoát ra. Là một âm xát, vô thanh. Cách phát âm gần giống “x” trong tiếng Việt.",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/xi1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/xi2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/xi3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/xi4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/x.mp4"
+ },
+ {
+   "amtiet": "z",
+   "huongdan": "Âm đầu lưỡi trước. Đầu lưỡi chạm vào lợi trên, sau đó tách ra một tí, luồng không khí từ giữa thoát ra. Là một âm bán tắc, vô thanh, không bật hơi. Cách phát âm gần giống “ch” trong tiếng Việt.",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/zi1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/zi2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/zi3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/zi4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/z.mp4"
+ },
+ {
+   "amtiet": "c",
+   "huongdan": "Âm đầu lưỡi trước. Đầu lưỡi chạm vào lợi trên, sau đó tách ra một tí, luồng không khí từ giữa thoát ra. Là một âm bán tắc, vô thanh, bật hơi.",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/ci1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/ci2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/ci3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/ci4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/c.mp4"
+ },
+ {
+   "amtiet": "s",
+   "huongdan": "Âm đầu lưỡi trước. Đầu lưỡi nâng sát lợi trên, luồng không khí từ giữa thoát ra. Là một âm xát, vô thanh. Cách phát âm hơi giống “x” trong tiếng Việt.",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/si1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/si2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/si3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/si4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/s.mp4"
+ },
+ {
+   "amtiet": "r",
+   "huongdan": "Âm đầu lưỡi sau. Đầu lưỡi nâng sát ngạc cứng trước, luồng không khí thoát ra mồm theo một đường nhỏ và hẹp. Là một âm xát, hữu thanh, lúc phát âm phải uốn lưỡi. Cách phát âm hơi giống “r” trong tiếng Việt.",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/ri1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/ri2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/ri3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/ri4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/r.mp4"
+ },
+ {
+   "amtiet": "zh",
+   "huongdan": "Âm đầu lưỡi sau. Đầu lưỡi áp vào ngạc cứng trước, sau đó tách ra một tí, luồng không khí thoát ra hang miệng. Là một âm bán tắc, vô thanh, không bật hơi, lúc phát âm phải uốn lưỡi. Cách phát âm hơi giống “tr” trong tiếng Việt.",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/zhi1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/zhi2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/zhi3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/zhi4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/zh.mp4"
+ },
+ {
+   "amtiet": "ch",
+   "huongdan": "Âm đầu lưỡi sau. Đầu lưỡi áp vào ngạc cứng trước, sau đó tách ra một tí, luồng không khí thoát ra hang mồm. Là một âm bán tắc, vô thanh, có bật hơi, lúc phát âm phải uốn lưỡi.",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/chi1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/chi2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/chi3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/chi4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/ch.mp4"
+ },
+ {
+   "amtiet": "sh",
+   "huongdan": "Âm đầu lưỡi sau. Đầu lưỡi áp vào ngạc cứng trước, luồng không khí thoát ra mồm theo một đường nhỏ và hẹp. Là một âm xát, vô thanh, lúc phát âm phải uốn lưỡi. Cách phát âm hơi giống “s” trong tiếng Việt.",
+   "C": "https://cdn.yoyochinese.com/audio/pychart/shi1.mp3",
+   "D": "https://cdn.yoyochinese.com/audio/pychart/shi2.mp3",
+   "E": "https://cdn.yoyochinese.com/audio/pychart/shi3.mp3",
+   "F": "https://cdn.yoyochinese.com/audio/pychart/shi4.mp3",
+   "video": "https://www.ilc.cuhk.edu.hk/workshop/Chinese/Putonghua/PLW/articulation/video/eng/sh.mp4"
+ }
+]
