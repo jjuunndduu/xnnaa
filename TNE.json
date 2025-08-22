@@ -1,0 +1,6740 @@
+[
+ {
+   "A": "hanzi",
+   "B": "pinyin",
+   "C": "vietnamese",
+   "D": "meaning"
+ },
+ {
+   "A": "日",
+   "B": "Rì",
+   "C": "NHẬT",
+   "D": "Biểu tượng mặt trời, thông điệp về năng lượng và sự rạng rỡ"
+ },
+ {
+   "A": "日",
+   "B": "Rì",
+   "C": "NHỰT",
+   "D": "Biểu tượng ngày mới, thông điệp về hy vọng và khởi đầu"
+ },
+ {
+   "A": "甲",
+   "B": "Jiǎ",
+   "C": "GIÁP",
+   "D": "Biểu tượng can Giáp (đầu tiên), thông điệp về sự dẫn đầu"
+ },
+ {
+   "A": "丁",
+   "B": "Dīng",
+   "C": "ĐINH",
+   "D": "Biểu tượng can Đinh, thông điệp về sự vững chắc"
+ },
+ {
+   "A": "亥",
+   "B": "Hài",
+   "C": "HỢI",
+   "D": "Biểu tượng chi Hợi, thông điệp về sự phong phú"
+ },
+ {
+   "A": "己",
+   "B": "Jǐ",
+   "C": "KỶ",
+   "D": "Biểu tượng can Kỷ, thông điệp về bản ngã"
+ },
+ {
+   "A": "壬",
+   "B": "Rén",
+   "C": "NHÂM",
+   "D": "Biểu tượng can Nhâm, thông điệp về trách nhiệm"
+ },
+ {
+   "A": "一",
+   "B": "Yī",
+   "C": "NHẤT",
+   "D": "Biểu tượng số một, thông điệp về sự độc đáo"
+ },
+ {
+   "A": "子",
+   "B": "Zǐ",
+   "C": "TỬ",
+   "D": "Biểu tượng con cái, thông điệp về tương lai"
+ },
+ {
+   "A": "子",
+   "B": "Zǐ",
+   "C": "TÝ",
+   "D": "Biểu tượng chi Tý, thông điệp về sự khởi nguyên"
+ },
+ {
+   "A": "寅",
+   "B": "Yín",
+   "C": "DẦN",
+   "D": "Biểu tượng chi Dần, thông điệp về sức mạnh"
+ },
+ {
+   "A": "申",
+   "B": "Shēn",
+   "C": "THÂN",
+   "D": "Biểu tượng chi Thân, thông điệp về sự linh hoạt"
+ },
+ {
+   "A": "酉",
+   "B": "Yǒu",
+   "C": "DẬU",
+   "D": "Biểu tượng chi Dậu, thông điệp về sự đúng giờ"
+ },
+ {
+   "A": "辛",
+   "B": "Xīn",
+   "C": "TÂN",
+   "D": "Biểu tượng can Tân, thông điệp về sự kiên trì"
+ },
+ {
+   "A": "龙",
+   "B": "Lóng",
+   "C": "LONG",
+   "D": "Biểu tượng rồng, thông điệp về quyền lực"
+ },
+ {
+   "A": "艾",
+   "B": "Ài",
+   "C": "NGẢI",
+   "D": "Biểu tượng ngải cứu, thông điệp về sức khỏe"
+ },
+ {
+   "A": "安",
+   "B": "Ān",
+   "C": "AN",
+   "D": "Biểu tượng an toàn, thông điệp về bình yên"
+ },
+ {
+   "A": "安",
+   "B": "Ān",
+   "C": "YÊN",
+   "D": "Biểu tượng yên ổn, thông điệp về hạnh phúc"
+ },
+ {
+   "A": "谙",
+   "B": "Ān",
+   "C": "AN",
+   "D": "Biểu tượng am hiểu, thông điệp về tri thức"
+ },
+ {
+   "A": "敖",
+   "B": "Áo",
+   "C": "NGAO",
+   "D": "Biểu tượng kiêu hãnh, thông điệp về khí phách"
+ },
+ {
+   "A": "鰲",
+   "B": "Áo",
+   "C": "NGAO",
+   "D": "Biểu tượng rùa lớn, thông điệp về sự bền vững"
+ },
+ {
+   "A": "八",
+   "B": "Bā",
+   "C": "BÁT",
+   "D": "Biểu tượng số tám, thông điệp về phát đạt"
+ },
+ {
+   "A": "巴",
+   "B": "Bā",
+   "C": "BA",
+   "D": "Biểu tượng mong đợi, thông điệp về hy vọng"
+ },
+ {
+   "A": "白",
+   "B": "Bái",
+   "C": "BẠCH",
+   "D": "Biểu tượng màu trắng, thông điệp về sự thuần khiết"
+ },
+ {
+   "A": "百",
+   "B": "Bǎi",
+   "C": "BÁCH",
+   "D": "Biểu tượng trăm, thông điệp về sự phong phú"
+ },
+ {
+   "A": "柏",
+   "B": "Bǎi",
+   "C": "BÁ",
+   "D": "Biểu tượng cây bách, thông điệp về sức sống"
+ },
+ {
+   "A": "班",
+   "B": "Bān",
+   "C": "BAN",
+   "D": "Biểu tượng nhóm, thông điệp về tập thể"
+ },
+ {
+   "A": "棒",
+   "B": "Bàng",
+   "C": "CỪ",
+   "D": "Biểu tượng cây gậy, thông điệp về sự hỗ trợ"
+ },
+ {
+   "A": "包",
+   "B": "Bāo",
+   "C": "BAO",
+   "D": "Biểu tượng bao bọc, thông điệp về sự che chở"
+ },
+ {
+   "A": "薄",
+   "B": "Báo",
+   "C": "BẠC",
+   "D": "Biểu tượng mỏng manh, thông điệp về sự tinh tế"
+ },
+ {
+   "A": "宝",
+   "B": "Bǎo",
+   "C": "BẢO",
+   "D": "Biểu tượng bảo vật, thông điệp về giá trị"
+ },
+ {
+   "A": "宝",
+   "B": "Bǎo",
+   "C": "BỬU",
+   "D": "Biểu tượng quý giá, thông điệp về sự trân trọng"
+ },
+ {
+   "A": "保",
+   "B": "Bǎo",
+   "C": "BẢO",
+   "D": "Biểu tượng bảo vệ, thông điệp về sự an toàn"
+ },
+ {
+   "A": "葆",
+   "B": "Bǎo",
+   "C": "BẢO",
+   "D": "Biểu tượng giữ gìn, thông điệp về bảo tồn"
+ },
+ {
+   "A": "鲍",
+   "B": "Bào",
+   "C": "BÀO",
+   "D": "Biểu tượng bào ngư, thông điệp về sự sang trọng"
+ },
+ {
+   "A": "暴",
+   "B": "Bào",
+   "C": "BẠO",
+   "D": "Biểu tượng mạnh mẽ, thông điệp về sức mạnh"
+ },
+ {
+   "A": "北",
+   "B": "Běi",
+   "C": "BẮC",
+   "D": "Biểu tượng phương Bắc, thông điệp về sự kiên định"
+ },
+ {
+   "A": "贝",
+   "B": "Bèi",
+   "C": "BỐI",
+   "D": "Biểu tượng vỏ sò, thông điệp về của cải"
+ },
+ {
+   "A": "背",
+   "B": "Bèi",
+   "C": "BỘI",
+   "D": "Biểu tượng lưng, thông điệp về sự nâng đỡ"
+ },
+ {
+   "A": "杉",
+   "B": "Shān",
+   "C": "SAM",
+   "D": "Biểu tượng cây sam, thông điệp về sự thẳng thắn"
+ },
+ {
+   "A": "贲",
+   "B": "Bēn",
+   "C": "BÔN",
+   "D": "Biểu tượng trang trí, thông điệp về vẻ đẹp"
+ },
+ {
+   "A": "本",
+   "B": "Běn",
+   "C": "BẢN",
+   "D": "Biểu tượng gốc rễ, thông điệp về nguồn cội"
+ },
+ {
+   "A": "毕",
+   "B": "Bì",
+   "C": "TẤT",
+   "D": "Biểu tượng hoàn thành, thông điệp về sự viên mãn"
+ },
+ {
+   "A": "閉",
+   "B": "Bì",
+   "C": "BÉ",
+   "D": "Biểu tượng đóng lại, thông điệp về sự tập trung"
+ },
+ {
+   "A": "碧",
+   "B": "Bì",
+   "C": "BÍCH",
+   "D": "Biểu tượng ngọc bích, thông điệp về vẻ đẹp"
+ },
+ {
+   "A": "边",
+   "B": "Biān",
+   "C": "BIÊN",
+   "D": "Biểu tượng biên giới, thông điệp về sự mở rộng"
+ },
+ {
+   "A": "卞",
+   "B": "Biàn",
+   "C": "BIỆN",
+   "D": "Biểu tượng nhanh nhẹn, thông điệp về sự linh hoạt"
+ },
+ {
+   "A": "别",
+   "B": "Bié",
+   "C": "BIỆT",
+   "D": "Biểu tượng chia ly, thông điệp về sự độc lập"
+ },
+ {
+   "A": "冰",
+   "B": "Bīng",
+   "C": "BĂNG",
+   "D": "Biểu tượng băng, thông điệp về sự trong trắng"
+ },
+ {
+   "A": "兵",
+   "B": "Bīng",
+   "C": "BINH",
+   "D": "Biểu tượng binh lính, thông điệp về kỷ luật"
+ },
+ {
+   "A": "邴",
+   "B": "Bǐng",
+   "C": "BÍNH",
+   "D": "Biểu tượng địa danh, thông điệp về nguồn gốc rõ ràng"
+ },
+ {
+   "A": "柄",
+   "B": "Bǐng",
+   "C": "BÍNH",
+   "D": "Biểu tượng cán (đồ vật), thông điệp về sự nắm giữ quyền lực"
+ },
+ {
+   "A": "波",
+   "B": "Bō",
+   "C": "BA",
+   "D": "Biểu tượng sóng nước, thông điệp về sự linh hoạt và biến chuyển"
+ },
+ {
+   "A": "伯",
+   "B": "Bó",
+   "C": "BÁ",
+   "D": "Biểu tượng bậc trưởng bối, thông điệp về sự đứng đầu và kinh nghiệm"
+ },
+ {
+   "A": "博",
+   "B": "Bó",
+   "C": "BÁC",
+   "D": "Biểu tượng uyên bác, thông điệp về tri thức rộng lớn"
+ },
+ {
+   "A": "卜",
+   "B": "Bǔ",
+   "C": "BỐC",
+   "D": "Biểu tượng bói toán, thông điệp về sự tiên tri và thông thái"
+ },
+ {
+   "A": "步",
+   "B": "Bù",
+   "C": "BỘ",
+   "D": "Biểu tượng bước đi, thông điệp về sự tiến bộ từng bước"
+ },
+ {
+   "A": "才",
+   "B": "Cái",
+   "C": "TÀI",
+   "D": "Biểu tượng tài năng, thông điệp về năng lực thiên phú"
+ },
+ {
+   "A": "財",
+   "B": "Cái",
+   "C": "TÀI",
+   "D": "Biểu tượng tài sản, thông điệp về sự giàu có và thịnh vượng"
+ },
+ {
+   "A": "彩",
+   "B": "Cǎi",
+   "C": "THÁI",
+   "D": "Biểu tượng màu sắc, thông điệp về cuộc sống rực rỡ"
+ },
+ {
+   "A": "蔡",
+   "B": "Cài",
+   "C": "THÁI",
+   "D": "Biểu tượng họ Thái, thông điệp về dòng dõi cao quý"
+ },
+ {
+   "A": "蔡",
+   "B": "Cài",
+   "C": "SÁI",
+   "D": "Biểu tượng cây cỏ, thông điệp về sức sống mãnh liệt"
+ },
+ {
+   "A": "苍",
+   "B": "Cāng",
+   "C": "THƯƠNG",
+   "D": "Biểu tượng màu xanh, thông điệp về sự tươi mới và hy vọng"
+ },
+ {
+   "A": "鸧",
+   "B": "Cāng",
+   "C": "THƯƠNG",
+   "D": "Biểu tượng chim hạc, thông điệp về sự thanh cao"
+ },
+ {
+   "A": "藏",
+   "B": "Cáng",
+   "C": "TÀNG",
+   "D": "Biểu tượng cất giấu, thông điệp về sự sâu sắc và bí ẩn"
+ },
+ {
+   "A": "曹",
+   "B": "Cáo",
+   "C": "TÀO",
+   "D": "Biểu tượng họ Tào, thông điệp về truyền thống gia tộc"
+ },
+ {
+   "A": "草",
+   "B": "Cǎo",
+   "C": "THẢO",
+   "D": "Biểu tượng cỏ cây, thông điệp về sự giản dị và khiêm tốn"
+ },
+ {
+   "A": "岑",
+   "B": "Cén",
+   "C": "SẦM",
+   "D": "Biểu tượng núi nhỏ, thông điệp về sự vững chãi nhưng không kém phần thanh nhã"
+ },
+ {
+   "A": "曾",
+   "B": "Céng",
+   "C": "TĂNG",
+   "D": "Biểu tượng họ Tăng, thông điệp về nguồn gốc lâu đời"
+ },
+ {
+   "A": "茶",
+   "B": "Chá",
+   "C": "TRÀ",
+   "D": "Biểu tượng trà, thông điệp về sự thanh tao và tinh tế"
+ },
+ {
+   "A": "查",
+   "B": "Chá",
+   "C": "TRA",
+   "D": "Biểu tượng tìm kiếm, thông điệp về sự ham học hỏi"
+ },
+ {
+   "A": "釵",
+   "B": "Chāi",
+   "C": "THOA",
+   "D": "Biểu tượng trâm cài, thông điệp về vẻ đẹp nữ tính"
+ },
+ {
+   "A": "柴",
+   "B": "Chái",
+   "C": "SÀI",
+   "D": "Biểu tượng củi, thông điệp về sự chịu khó và cần cù"
+ },
+ {
+   "A": "禅",
+   "B": "Chán",
+   "C": "THIỀN",
+   "D": "Biểu tượng thiền định, thông điệp về sự an nhiên tự tại"
+ },
+ {
+   "A": "常",
+   "B": "Cháng",
+   "C": "THƯỜNG",
+   "D": "Biểu tượng thường xuyên, thông điệp về sự ổn định và bền vững"
+ },
+ {
+   "A": "嫦",
+   "B": "Cháng",
+   "C": "HI",
+   "D": "Biểu tượng Hằng Nga, thông điệp về vẻ đẹp vĩnh hằng"
+ },
+ {
+   "A": "曦",
+   "B": "Xī",
+   "C": "HI",
+   "D": "Biểu tượng ánh bình minh, thông điệp về sự khởi đầu tươi sáng"
+ },
+ {
+   "A": "巢",
+   "B": "Cháo",
+   "C": "SÀO",
+   "D": "Biểu tượng tổ ấm, thông điệp về mái ấm gia đình"
+ },
+ {
+   "A": "朝",
+   "B": "Cháo",
+   "C": "TRIỀU",
+   "D": "Biểu tượng triều đại, thông điệp về quyền lực và uy nghiêm"
+ },
+ {
+   "A": "沉",
+   "B": "Chén",
+   "C": "TRẦM",
+   "D": "Biểu tượng chìm sâu, thông điệp về sự thâm trầm và sâu sắc"
+ },
+ {
+   "A": "陈",
+   "B": "Chén",
+   "C": "TRẦN",
+   "D": "Biểu tượng họ Trần, thông điệp về truyền thống lâu đời"
+ },
+ {
+   "A": "陳",
+   "B": "Chén",
+   "C": "TRẦN",
+   "D": "Biểu tượng sắp xếp, thông điệp về sự ngăn nắp và có tổ chức"
+ },
+ {
+   "A": "晨",
+   "B": "Chén",
+   "C": "THẦN",
+   "D": "Biểu tượng buổi sáng, thông điệp về sự tươi mới và hy vọng"
+ },
+ {
+   "A": "芙",
+   "B": "Fú",
+   "C": "PHÙ",
+   "D": "Biểu tượng hoa sen, thông điệp về vẻ đẹp thuần khiết"
+ },
+ {
+   "A": "成",
+   "B": "Chéng",
+   "C": "THÀNH",
+   "D": "Biểu tượng thành công, thông điệp về sự hoàn thành và đạt được mục tiêu"
+ },
+ {
+   "A": "诚",
+   "B": "Chéng",
+   "C": "THÀNH",
+   "D": "Biểu tượng thành thật, thông điệp về sự chân thành và đáng tin cậy"
+ },
+ {
+   "A": "城",
+   "B": "Chéng",
+   "C": "THÀNH",
+   "D": "Biểu tượng thành trì, thông điệp về sự bảo vệ và an toàn"
+ },
+ {
+   "A": "程",
+   "B": "Chéng",
+   "C": "TRÌNH",
+   "D": "Biểu tượng hành trình, thông điệp về con đường phát triển"
+ },
+ {
+   "A": "崢",
+   "B": "Zhēng",
+   "C": "TRANH",
+   "D": "Biểu tượng núi cao, thông điệp về chí khí cao vời"
+ },
+ {
+   "A": "池",
+   "B": "Chí",
+   "C": "TRÌ",
+   "D": "Biểu tượng ao hồ, thông điệp về sự bình yên và tĩnh lặng"
+ },
+ {
+   "A": "充",
+   "B": "Chōng",
+   "C": "SUNG",
+   "D": "Biểu tượng đầy đủ, thông điệp về sự viên mãn và trọn vẹn"
+ },
+ {
+   "A": "仇",
+   "B": "Chóu",
+   "C": "CỪU",
+   "D": "Biểu tượng thù hận, thông điệp về sự cảnh giác (ít dùng đặt tên)"
+ },
+ {
+   "A": "绸",
+   "B": "Chóu",
+   "C": "LỤA",
+   "D": "Biểu tượng lụa, thông điệp về sự mềm mại và quý phái"
+ },
+ {
+   "A": "初",
+   "B": "Chū",
+   "C": "THƠ",
+   "D": "Biểu tượng khởi đầu, thông điệp về sự mới mẻ và tiềm năng"
+ },
+ {
+   "A": "储",
+   "B": "Chǔ",
+   "C": "TRỮ",
+   "D": "Biểu tượng tích trữ, thông điệp về sự chuẩn bị chu đáo"
+ },
+ {
+   "A": "褚",
+   "B": "Chǔ",
+   "C": "CHỬ",
+   "D": "Biểu tượng họ Chử, thông điệp về dòng dõi quý tộc"
+ },
+ {
+   "A": "川",
+   "B": "Chuān",
+   "C": "XUYÊN",
+   "D": "Biểu tượng sông ngòi, thông điệp về sự lưu chuyển và thích nghi"
+ },
+ {
+   "A": "串",
+   "B": "Chuàn",
+   "C": "XUYẾN",
+   "D": "Biểu tượng chuỗi, thông điệp về sự kết nối và liên tục"
+ },
+ {
+   "A": "创",
+   "B": "Chuàng",
+   "C": "SANG",
+   "D": "Biểu tượng sáng tạo, thông điệp về đổi mới và phát kiến"
+ },
+ {
+   "A": "创",
+   "B": "Chuàng",
+   "C": "SÁNG",
+   "D": "Biểu tượng khởi nghiệp, thông điệp về tinh thần doanh nhân"
+ },
+ {
+   "A": "怆",
+   "B": "Chuàng",
+   "C": "THƯƠNG",
+   "D": "Biểu tượng nỗi buồn, thông điệp về sự đồng cảm (ít dùng đặt tên)"
+ },
+ {
+   "A": "垂",
+   "B": "Chuí",
+   "C": "THÙY",
+   "D": "Biểu tượng rủ xuống, thông điệp về sự khiêm nhường"
+ },
+ {
+   "A": "春",
+   "B": "Chūn",
+   "C": "XUÂN",
+   "D": "Biểu tượng mùa xuân, thông điệp về sự tươi mới và hy vọng"
+ },
+ {
+   "A": "淳",
+   "B": "Chún",
+   "C": "THUẦN",
+   "D": "Biểu tượng thuần khiết, thông điệp về sự chân chất mộc mạc"
+ },
+ {
+   "A": "葱",
+   "B": "Cōng",
+   "C": "THÔNG",
+   "D": "Biểu tượng hành lá, thông điệp về sức sống mãnh liệt"
+ },
+ {
+   "A": "聪",
+   "B": "Cōng",
+   "C": "THÔNG",
+   "D": "Biểu tượng thông minh, thông điệp về trí tuệ sáng suốt"
+ },
+ {
+   "A": "从",
+   "B": "Cóng",
+   "C": "TÒNG",
+   "D": "Biểu tượng đi theo, thông điệp về sự hòa hợp"
+ },
+ {
+   "A": "从",
+   "B": "Cóng",
+   "C": "TÙNG",
+   "D": "Biểu tượng thuận theo, thông điệp về tính cách dễ hòa đồng"
+ },
+ {
+   "A": "崔",
+   "B": "Cuī",
+   "C": "THÔI",
+   "D": "Biểu tượng núi cao, thông điệp về sự vững chãi"
+ },
+ {
+   "A": "翠",
+   "B": "Cuì",
+   "C": "THÚY",
+   "D": "Biểu tượng màu ngọc bích, thông điệp về vẻ đẹp tinh tế"
+ },
+ {
+   "A": "达",
+   "B": "Dá",
+   "C": "ĐẠT",
+   "D": "Biểu tượng đạt được, thông điệp về thành công"
+ },
+ {
+   "A": "達",
+   "B": "Dá",
+   "C": "ĐẠT",
+   "D": "Biểu tượng thông suốt, thông điệp về sự am hiểu"
+ },
+ {
+   "A": "大",
+   "B": "Dà",
+   "C": "ĐẠI",
+   "D": "Biểu tượng to lớn, thông điệp về sự vĩ đại"
+ },
+ {
+   "A": "戴",
+   "B": "Dài",
+   "C": "ĐỚI",
+   "D": "Biểu tượng mang theo, thông điệp về sự gánh vác"
+ },
+ {
+   "A": "丹",
+   "B": "Dān",
+   "C": "ĐAN",
+   "D": "Biểu tượng màu đỏ, thông điệp về lòng nhiệt huyết"
+ },
+ {
+   "A": "担",
+   "B": "Dān",
+   "C": "ĐAM",
+   "D": "Biểu tượng gánh vác, thông điệp về trách nhiệm"
+ },
+ {
+   "A": "担",
+   "B": "Dān",
+   "C": "ĐẢM",
+   "D": "Biểu tượng đảm đương, thông điệp về sự tin cậy"
+ },
+ {
+   "A": "单",
+   "B": "Dān",
+   "C": "ĐAN",
+   "D": "Biểu tượng đơn độc, thông điệp về sự độc lập"
+ },
+ {
+   "A": "单",
+   "B": "Dān",
+   "C": "THIỀN",
+   "D": "Biểu tượng giản đơn, thông điệp về lối sống mộc mạc"
+ },
+ {
+   "A": "淡",
+   "B": "Dàn",
+   "C": "ĐẠM",
+   "D": "Biểu tượng nhạt nhòa, thông điệp về sự thanh tao"
+ },
+ {
+   "A": "澹",
+   "B": "Dàn",
+   "C": "ĐAM",
+   "D": "Biểu tượng yên tĩnh, thông điệp về tâm hồn bình thản"
+ },
+ {
+   "A": "台",
+   "B": "Tái",
+   "C": "ĐÀI",
+   "D": "Biểu tượng đài các, thông điệp về địa vị cao"
+ },
+ {
+   "A": "党",
+   "B": "Dǎng",
+   "C": "ĐẢNG",
+   "D": "Biểu tượng chính đảng, thông điệp về tinh thần tập thể"
+ },
+ {
+   "A": "岛",
+   "B": "Dǎo",
+   "C": "ĐẢO",
+   "D": "Biểu tượng hòn đảo, thông điệp về sự độc lập"
+ },
+ {
+   "A": "道",
+   "B": "Dào",
+   "C": "ĐẠO",
+   "D": "Biểu tượng con đường, thông điệp về chân lý cuộc đời"
+ },
+ {
+   "A": "得",
+   "B": "Dé",
+   "C": "ĐẮC",
+   "D": "Biểu tượng đạt được, thông điệp về sự thành công"
+ },
+ {
+   "A": "得",
+   "B": "Dé",
+   "C": "ĐƯỢC",
+   "D": "Biểu tượng hài lòng, thông điệp về sự mãn nguyện"
+ },
+ {
+   "A": "德",
+   "B": "Dé",
+   "C": "ĐỨC",
+   "D": "Biểu tượng đạo đức, thông điệp về nhân cách cao quý"
+ },
+ {
+   "A": "灯",
+   "B": "Dēng",
+   "C": "ĐĂNG",
+   "D": "Biểu tượng ngọn đèn, thông điệp về ánh sáng tri thức"
+ },
+ {
+   "A": "登",
+   "B": "Dēng",
+   "C": "ĐĂNG",
+   "D": "Biểu tượng leo lên, thông điệp về sự thăng tiến"
+ },
+ {
+   "A": "等",
+   "B": "Děng",
+   "C": "ĐẲNG",
+   "D": "Biểu tượng chờ đợi, thông điệp về sự kiên nhẫn"
+ },
+ {
+   "A": "邓",
+   "B": "Dèng",
+   "C": "ĐẶNG",
+   "D": "Biểu tượng họ Đặng, thông điệp về dòng họ lớn"
+ },
+ {
+   "A": "鄧",
+   "B": "Dèng",
+   "C": "ĐẶNG",
+   "D": "Biểu tượng họ Đặng (phồn thể), thông điệp về gia tộc"
+ },
+ {
+   "A": "狄",
+   "B": "Dí",
+   "C": "ĐỊCH",
+   "D": "Biểu tượng dân tộc thiểu số, thông điệp về sự hòa hợp"
+ },
+ {
+   "A": "嫡",
+   "B": "Dí",
+   "C": "ĐÍCH",
+   "D": "Biểu tượng chính thất, thông điệp về sự chính thống"
+ },
+ {
+   "A": "五",
+   "B": "Wǔ",
+   "C": "NGŨ",
+   "D": "Biểu tượng số năm, thông điệp về sự cân bằng"
+ },
+ {
+   "A": "典",
+   "B": "Diǎn",
+   "C": "ĐIỂN",
+   "D": "Biểu tượng kinh điển, thông điệp về sự uyên bác"
+ },
+ {
+   "A": "点",
+   "B": "Diǎn",
+   "C": "ĐIỂM",
+   "D": "Biểu tượng điểm nhấn, thông điệp về sự tinh tế"
+ },
+ {
+   "A": "电",
+   "B": "Diàn",
+   "C": "ĐIỆN",
+   "D": "Biểu tượng điện lực, thông điệp về năng lượng"
+ },
+ {
+   "A": "刁",
+   "B": "Diāo",
+   "C": "ĐIÊU",
+   "D": "Biểu tượng xảo quyệt, thông điệp về sự khôn ngoan (ít dùng đặt tên)"
+ },
+ {
+   "A": "蝶",
+   "B": "Dié",
+   "C": "ĐIỆP",
+   "D": "Biểu tượng bướm, thông điệp về vẻ đẹp tự do"
+ },
+ {
+   "A": "订",
+   "B": "Dìng",
+   "C": "ĐÍNH",
+   "D": "Biểu tượng đặt hàng, thông điệp về sự chuẩn bị"
+ },
+ {
+   "A": "定",
+   "B": "Dìng",
+   "C": "ĐỊNH",
+   "D": "Biểu tượng ổn định, thông điệp về sự bền vững"
+ },
+ {
+   "A": "东",
+   "B": "Dōng",
+   "C": "ĐÔNG",
+   "D": "Biểu tượng phương Đông, thông điệp về sự khởi đầu"
+ },
+ {
+   "A": "阁",
+   "B": "Gé",
+   "C": "CÁC",
+   "D": "Biểu tượng lầu các, thông điệp về địa vị cao"
+ },
+ {
+   "A": "门",
+   "B": "Mén",
+   "C": "MÔN",
+   "D": "Biểu tượng cửa, thông điệp về cơ hội"
+ },
+ {
+   "A": "冬",
+   "B": "Dōng",
+   "C": "ĐÔNG",
+   "D": "Biểu tượng mùa đông, thông điệp về sự kiên cường"
+ },
+ {
+   "A": "君",
+   "B": "Jūn",
+   "C": "QUÂN",
+   "D": "Biểu tượng quân tử, thông điệp về phẩm cách cao quý"
+ },
+ {
+   "A": "董",
+   "B": "Dǒng",
+   "C": "ĐỔNG",
+   "D": "Biểu tượng họ Đổng, thông điệp về sự uyên bác"
+ },
+ {
+   "A": "洞",
+   "B": "Dòng",
+   "C": "ĐỘNG",
+   "D": "Biểu tượng hang động, thông điệp về chiều sâu nội tâm"
+ },
+ {
+   "A": "都",
+   "B": "Dū",
+   "C": "ĐÔ",
+   "D": "Biểu tượng đô thị, thông điệp về sự phồn hoa"
+ },
+ {
+   "A": "钭",
+   "B": "Dǒu",
+   "C": "THẨU",
+   "D": "Biểu tượng cái muôi, thông điệp về sự chu toàn"
+ },
+ {
+   "A": "斗",
+   "B": "Dǒu",
+   "C": "ĐẤU",
+   "D": "Biểu tượng đấu tranh, thông điệp về tinh thần chiến đấu"
+ },
+ {
+   "A": "窦",
+   "B": "Dòu",
+   "C": "ĐẬU",
+   "D": "Biểu tượng họ Đậu, thông điệp về nguồn gốc gia tộc"
+ },
+ {
+   "A": "独",
+   "B": "Dú",
+   "C": "ĐỘC",
+   "D": "Biểu tượng độc lập, thông điệp về sự tự chủ"
+ },
+ {
+   "A": "孤",
+   "B": "Gū",
+   "C": "CÔ",
+   "D": "Biểu tượng cô độc, thông điệp về sự mạnh mẽ tự lập"
+ },
+ {
+   "A": "堵",
+   "B": "Dǔ",
+   "C": "ĐỔ",
+   "D": "Biểu tượng ngăn chặn, thông điệp về sự bảo vệ"
+ },
+ {
+   "A": "杜",
+   "B": "Dù",
+   "C": "ĐỖ",
+   "D": "Biểu tượng họ Đỗ, thông điệp về sự kiên định"
+ },
+ {
+   "A": "度",
+   "B": "Dù",
+   "C": "ĐỘ",
+   "D": "Biểu tượng mức độ, thông điệp về sự điều tiết hợp lý"
+ },
+ {
+   "A": "端",
+   "B": "Duān",
+   "C": "ĐOAN",
+   "D": "Biểu tượng ngay thẳng, thông điệp về sự chính trực"
+ },
+ {
+   "A": "木",
+   "B": "Mù",
+   "C": "MỘC",
+   "D": "Biểu tượng cây gỗ, thông điệp về sự"
+ },
+ {
+   "A": "段",
+   "B": "Duàn",
+   "C": "ĐOÀN",
+   "D": "Biểu tượng đoạn đường, thông điệp về hành trình cuộc đời"
+ },
+ {
+   "A": "段",
+   "B": "Duàn",
+   "C": "ĐOẠN",
+   "D": "Biểu tượng phân khúc, thông điệp về sự rõ ràng"
+ },
+ {
+   "A": "兑",
+   "B": "Duì",
+   "C": "ĐOÀI",
+   "D": "Biểu tượng trao đổi, thông điệp về sự công bằng"
+ },
+ {
+   "A": "惇",
+   "B": "Dūn",
+   "C": "ĐÔN",
+   "D": "Biểu tượng thành thật, thông điệp về sự chân thành"
+ },
+ {
+   "A": "娥",
+   "B": "É",
+   "C": "NGA",
+   "D": "Biểu tượng vẻ đẹp, thông điệp về sự duyên dáng"
+ },
+ {
+   "A": "娥",
+   "B": "É",
+   "C": "NINH",
+   "D": "Biểu tượng Hằng Nga, thông điệp về vẻ đẹp vĩnh hằng"
+ },
+ {
+   "A": "鹅",
+   "B": "É",
+   "C": "NGA",
+   "D": "Biểu tượng con ngỗng, thông điệp về sự thanh cao"
+ },
+ {
+   "A": "鄂",
+   "B": "È",
+   "C": "NGẠC",
+   "D": "Biểu tượng tỉnh Hồ Bắc, thông điệp về địa phương"
+ },
+ {
+   "A": "恩",
+   "B": "Ēn",
+   "C": "ÂN",
+   "D": "Biểu tượng ân huệ, thông điệp về lòng biết ơn"
+ },
+ {
+   "A": "儿",
+   "B": "Ér",
+   "C": "NHI",
+   "D": "Biểu tượng trẻ em, thông điệp về tương lai"
+ },
+ {
+   "A": "發",
+   "B": "Fā",
+   "C": "PHÁT",
+   "D": "Biểu tượng phát triển, thông điệp về sự thịnh vượng"
+ },
+ {
+   "A": "法",
+   "B": "Fǎ",
+   "C": "PHÁP",
+   "D": "Biểu tượng pháp luật, thông điệp về công lý"
+ },
+ {
+   "A": "番",
+   "B": "Fān",
+   "C": "PHAN",
+   "D": "Biểu tượng phiên hiệu, thông điệp về sự đa dạng"
+ },
+ {
+   "A": "藩",
+   "B": "Fān",
+   "C": "PHAN",
+   "D": "Biểu tượng lãnh địa, thông điệp về quyền lực"
+ },
+ {
+   "A": "翻",
+   "B": "Fān",
+   "C": "PHAN",
+   "D": "Biểu tượng lật trang, thông điệp về sự đổi mới"
+ },
+ {
+   "A": "樊",
+   "B": "Fán",
+   "C": "PHÀN",
+   "D": "Biểu tượng hàng rào, thông điệp về sự bảo vệ"
+ },
+ {
+   "A": "范",
+   "B": "Fàn",
+   "C": "PHẠM",
+   "D": "Biểu tượng họ Phạm, thông điệp về khuôn mẫu"
+ },
+ {
+   "A": "方",
+   "B": "Fāng",
+   "C": "PHƯƠNG",
+   "D": "Biểu tượng phương hướng, thông điệp về mục tiêu rõ ràng"
+ },
+ {
+   "A": "芳",
+   "B": "Fāng",
+   "C": "PHƯƠNG",
+   "D": "Biểu tượng hương thơm, thông điệp về vẻ đẹp thanh khiết"
+ },
+ {
+   "A": "房",
+   "B": "Fáng",
+   "C": "PHÒNG",
+   "D": "Biểu tượng căn nhà, thông điệp về tổ ấm gia đình"
+ },
+ {
+   "A": "飞",
+   "B": "Fēi",
+   "C": "PHI",
+   "D": "Biểu tượng bay cao, thông điệp về khát vọng"
+ },
+ {
+   "A": "菲",
+   "B": "Fēi",
+   "C": "PHI",
+   "D": "Biểu tượng hoa cỏ, thông điệp về vẻ đẹp mỏng manh"
+ },
+ {
+   "A": "扉",
+   "B": "Fēi",
+   "C": "PHI",
+   "D": "Biểu tượng cánh cửa, thông điệp về cơ hội mới"
+ },
+ {
+   "A": "费",
+   "B": "Fèi",
+   "C": "PHÍ",
+   "D": "Biểu tượng chi phí, thông điệp về sự đầu tư"
+ },
+ {
+   "A": "丰",
+   "B": "Fēng",
+   "C": "PHONG",
+   "D": "Biểu tượng phong phú, thông điệp về sự giàu có"
+ },
+ {
+   "A": "风",
+   "B": "Fēng",
+   "C": "PHONG",
+   "D": "Biểu tượng gió, thông điệp về sự tự do"
+ },
+ {
+   "A": "封",
+   "B": "Fēng",
+   "C": "PHONG",
+   "D": "Biểu tượng phong ấn, thông điệp về quyền lực"
+ },
+ {
+   "A": "風",
+   "B": "Fēng",
+   "C": "PHONG",
+   "D": "Biểu tượng phong cách, thông điệp về cá tính"
+ },
+ {
+   "A": "峰",
+   "B": "Fēng",
+   "C": "PHONG",
+   "D": "Biểu tượng đỉnh núi, thông điệp về đỉnh cao thành công"
+ },
+ {
+   "A": "冯",
+   "B": "Féng",
+   "C": "BẰNG",
+   "D": "Biểu tượng họ Phùng, thông điệp về sự vượt khó"
+ },
+ {
+   "A": "冯",
+   "B": "Féng",
+   "C": "PHÙNG",
+   "D": "Biểu tượng vượt qua, thông điệp về nghị lực"
+ },
+ {
+   "A": "逢",
+   "B": "Féng",
+   "C": "PHÙNG",
+   "D": "Biểu tượng gặp gỡ, thông điệp về nhân duyên"
+ },
+ {
+   "A": "馮",
+   "B": "Féng",
+   "C": "PHÙNG",
+   "D": "Biểu tượng họ Phùng (phồn thể), thông điệp về truyền thống"
+ },
+ {
+   "A": "凤",
+   "B": "Fèng",
+   "C": "PHỤNG",
+   "D": "Biểu tượng phượng hoàng, thông điệp về sự tái sinh"
+ },
+ {
+   "A": "凤",
+   "B": "Fèng",
+   "C": "PHƯỢNG",
+   "D": "Biểu tượng hoàng hậu, thông điệp về địa vị cao quý"
+ },
+ {
+   "A": "奉",
+   "B": "Fèng",
+   "C": "PHỤNG",
+   "D": "Biểu tượng phụng sự, thông điệp về sự tận tâm"
+ },
+ {
+   "A": "奉",
+   "B": "Fèng",
+   "C": "PHƯỢNG",
+   "D": "Biểu tượng kính trọng, thông điệp về lòng tôn kính"
+ },
+ {
+   "A": "伏",
+   "B": "Fú",
+   "C": "PHỤC",
+   "D": "Biểu tượng ẩn mình, thông điệp về sự kiên nhẫn"
+ },
+ {
+   "A": "扶",
+   "B": "Fú",
+   "C": "PHÙ",
+   "D": "Biểu tượng nâng đỡ, thông điệp về tinh thần tương trợ"
+ },
+ {
+   "A": "符",
+   "B": "Fú",
+   "C": "PHÙ",
+   "D": "Biểu tượng bùa chú, thông điệp về sự may mắn và bảo vệ"
+ },
+ {
+   "A": "福",
+   "B": "Fú",
+   "C": "PHÚC",
+   "D": "Biểu tượng phúc lộc, thông điệp về cuộc sống hạnh phúc"
+ },
+ {
+   "A": "福",
+   "B": "Fú",
+   "C": "PHƯỚC",
+   "D": "Biểu tượng điềm lành, thông điệp về những điều tốt đẹp"
+ },
+ {
+   "A": "付",
+   "B": "Fù",
+   "C": "PHÓ",
+   "D": "Biểu tượng thanh toán, thông điệp về sự chu toàn trách nhiệm"
+ },
+ {
+   "A": "副",
+   "B": "Fù",
+   "C": "PHÓ",
+   "D": "Biểu tượng phó, thông điệp về vai trò hỗ trợ quan trọng"
+ },
+ {
+   "A": "傅",
+   "B": "Fù",
+   "C": "PHÓ",
+   "D": "Biểu tượng người thầy, thông điệp về sự uyên bác và truyền dạy"
+ },
+ {
+   "A": "富",
+   "B": "Fù",
+   "C": "PHÚ",
+   "D": "Biểu tượng giàu có, thông điệp về sự thịnh vượng và sung túc"
+ },
+ {
+   "A": "腹",
+   "B": "Fù",
+   "C": "PHÚC",
+   "D": "Biểu tượng bụng, thông điệp về sự bao dung và độ lượng"
+ },
+ {
+   "A": "馥",
+   "B": "Fù",
+   "C": "NGÁT",
+   "D": "Biểu tượng hương thơm, thông điệp về vẻ đẹp thanh cao"
+ },
+ {
+   "A": "盖",
+   "B": "Gài",
+   "C": "CÁI",
+   "D": "Biểu tượng che phủ, thông điệp về sự bảo vệ toàn diện"
+ },
+ {
+   "A": "甘",
+   "B": "Gān",
+   "C": "CAM",
+   "D": "Biểu tượng ngọt ngào, thông điệp về cuộc sống êm dịu"
+ },
+ {
+   "A": "干",
+   "B": "Gān",
+   "C": "CAN",
+   "D": "Biểu tượng can thiệp, thông điệp về tinh thần chủ động"
+ },
+ {
+   "A": "矼",
+   "B": "Gāng",
+   "C": "KHANG",
+   "D": "Biểu tượng cứng rắn, thông điệp về sự kiên định"
+ },
+ {
+   "A": "杠",
+   "B": "Gàng",
+   "C": "GIANG",
+   "D": "Biểu tượng đòn gánh, thông điệp về sự cân bằng"
+ },
+ {
+   "A": "高",
+   "B": "Gāo",
+   "C": "CAO",
+   "D": "Biểu tượng cao lớn, thông điệp về địa vị và tầm nhìn"
+ },
+ {
+   "A": "朗",
+   "B": "Lǎng",
+   "C": "LÃNG",
+   "D": "Biểu tượng trong sáng, thông điệp về sự rõ ràng minh bạch"
+ },
+ {
+   "A": "郜",
+   "B": "Gào",
+   "C": "CỐC",
+   "D": "Biểu tượng họ Cao, thông điệp về nguồn gốc gia tộc"
+ },
+ {
+   "A": "戈",
+   "B": "Gē",
+   "C": "QUA",
+   "D": "Biểu tượng vũ khí, thông điệp về tinh thần chiến đấu"
+ },
+ {
+   "A": "歌",
+   "B": "Gē",
+   "C": "CA",
+   "D": "Biểu tượng bài hát, thông điệp về niềm vui cuộc sống"
+ },
+ {
+   "A": "葛",
+   "B": "Gé",
+   "C": "CÁT",
+   "D": "Biểu tượng họ Cát, thông điệp về sự bền bỉ như dây leo"
+ },
+ {
+   "A": "耿",
+   "B": "Gěng",
+   "C": "CẢNH",
+   "D": "Biểu tượng sáng rõ, thông điệp về tính cách ngay thẳng"
+ },
+ {
+   "A": "工",
+   "B": "Gōng",
+   "C": "CÔNG",
+   "D": "Biểu tượng lao động, thông điệp về sự chăm chỉ"
+ },
+ {
+   "A": "工",
+   "B": "Gōng",
+   "C": "CUNG",
+   "D": "Biểu tượng kỹ năng, thông điệp về tay nghề điêu luyện"
+ },
+ {
+   "A": "弓",
+   "B": "Gōng",
+   "C": "CUNG",
+   "D": "Biểu tượng cây cung, thông điệp về sự chuẩn bị kỹ lưỡng"
+ },
+ {
+   "A": "公",
+   "B": "Gōng",
+   "C": "CÔNG",
+   "D": "Biểu tượng công bằng, thông điệp về sự chính trực"
+ },
+ {
+   "A": "西",
+   "B": "Xī",
+   "C": "TÂY",
+   "D": "Biểu tượng phương Tây, thông điệp về sự cởi mở"
+ },
+ {
+   "A": "冶",
+   "B": "Yě",
+   "C": "DÃ",
+   "D": "Biểu tượng luyện kim, thông điệp về sự rèn giũa bản thân"
+ },
+ {
+   "A": "功",
+   "B": "Gōng",
+   "C": "CÔNG",
+   "D": "Biểu tượng công lao, thông điệp về thành tựu đạt được"
+ },
+ {
+   "A": "攻",
+   "B": "Gōng",
+   "C": "CÔNG",
+   "D": "Biểu tượng tấn công, thông điệp về tinh thần tiên phong"
+ },
+ {
+   "A": "宫",
+   "B": "Gōng",
+   "C": "CUNG",
+   "D": "Biểu tượng cung điện, thông điệp về địa vị cao quý"
+ },
+ {
+   "A": "龚",
+   "B": "Gōng",
+   "C": "CUNG",
+   "D": "Biểu tượng họ Cung, thông điệp về sự tôn kính"
+ },
+ {
+   "A": "巩",
+   "B": "Gǒng",
+   "C": "CỦNG",
+   "D": "Biểu tượng củng cố, thông điệp về sự vững chắc"
+ },
+ {
+   "A": "贡",
+   "B": "Gòng",
+   "C": "CỐNG",
+   "D": "Biểu tượng cống hiến, thông điệp về sự hy sinh vì đại nghĩa"
+ },
+ {
+   "A": "勾",
+   "B": "Gōu",
+   "C": "CÂU",
+   "D": "Biểu tượng móc nối, thông điệp về khả năng kết nối"
+ },
+ {
+   "A": "古",
+   "B": "Gǔ",
+   "C": "CỔ",
+   "D": "Biểu tượng cổ xưa, thông điệp về truyền thống lâu đời"
+ },
+ {
+   "A": "谷",
+   "B": "Gǔ",
+   "C": "CỐC",
+   "D": "Biểu tượng thung lũng, thông điệp về sự khiêm tốn"
+ },
+ {
+   "A": "粱",
+   "B": "Liáng",
+   "C": "LƯƠNG",
+   "D": "Biểu tượng lương thực, thông điệp về sự no đủ"
+ },
+ {
+   "A": "顾",
+   "B": "Gù",
+   "C": "CỐ",
+   "D": "Biểu tượng quan tâm, thông điệp về sự chu đáo"
+ },
+ {
+   "A": "乖",
+   "B": "Guāi",
+   "C": "NGOAN",
+   "D": "Biểu tượng ngoan ngoãn, thông điệp về tính cách dễ mến"
+ },
+ {
+   "A": "关",
+   "B": "Guān",
+   "C": "QUAN",
+   "D": "Biểu tượng quan hệ, thông điệp về sự kết nối quan trọng"
+ },
+ {
+   "A": "關",
+   "B": "Guān",
+   "C": "QUAN",
+   "D": "Biểu tượng cửa ải, thông điệp về ranh giới và cơ hội"
+ },
+ {
+   "A": "管",
+   "B": "Guǎn",
+   "C": "QUẢN",
+   "D": "Biểu tượng quản lý, thông điệp về năng lực lãnh đạo"
+ },
+ {
+   "A": "毌",
+   "B": "Guàn",
+   "C": "QUÁN",
+   "D": "Biểu tượng xuyên qua, thông điệp về sự kiên trì"
+ },
+ {
+   "A": "丘",
+   "B": "Qiū",
+   "C": "KHÂU",
+   "D": "Biểu tượng gò đất, thông điệp về sự khiêm tốn"
+ },
+ {
+   "A": "光",
+   "B": "Guāng",
+   "C": "QUANG",
+   "D": "Biểu tượng ánh sáng, thông điệp về trí tuệ và hy vọng"
+ },
+ {
+   "A": "瑶",
+   "B": "Yáo",
+   "C": "DAO",
+   "D": "Biểu tượng ngọc quý, thông điệp về vẻ đẹp cao quý"
+ },
+ {
+   "A": "广",
+   "B": "Guǎng",
+   "C": "QUẢNG",
+   "D": "Biểu tượng rộng lớn, thông điệp về tầm nhìn bao quát"
+ },
+ {
+   "A": "圭",
+   "B": "Guī",
+   "C": "KHUÊ",
+   "D": "Biểu tượng ngọc khuê, thông điệp về chuẩn mực đạo đức"
+ },
+ {
+   "A": "闺",
+   "B": "Guī",
+   "C": "KHUÊ",
+   "D": "Biểu tượng phòng khuê, thông điệp về vẻ đẹp nữ tính"
+ },
+ {
+   "A": "瑰",
+   "B": "Guī",
+   "C": "KHÔI",
+   "D": "Biểu tượng ngọc đẹp, thông điệp về sự quý giá độc đáo"
+ },
+ {
+   "A": "贵",
+   "B": "Guì",
+   "C": "QUÝ",
+   "D": "Biểu tượng quý giá, thông điệp về địa vị cao và sự trân trọng"
+ },
+ {
+   "A": "桂",
+   "B": "Guì",
+   "C": "QUẾ",
+   "D": "Biểu tượng cây quế, thông điệp về vẻ đẹp thanh cao"
+ },
+ {
+   "A": "郭",
+   "B": "Guō",
+   "C": "QUÁCH",
+   "D": "Biểu tượng thành quách, thông điệp về sự bảo vệ vững chắc"
+ },
+ {
+   "A": "国",
+   "B": "Guó",
+   "C": "QUỐC",
+   "D": "Biểu tượng đất nước, thông điệp về lòng yêu nước"
+ },
+ {
+   "A": "海",
+   "B": "Hǎi",
+   "C": "HẢI",
+   "D": "Biểu tượng biển cả, thông điệp về sự bao dung rộng lớn"
+ },
+ {
+   "A": "含",
+   "B": "Hán",
+   "C": "HÀM",
+   "D": "Biểu tượng hàm chứa, thông điệp về sự sâu sắc nội tâm"
+ },
+ {
+   "A": "韩",
+   "B": "Hán",
+   "C": "HÀN",
+   "D": "Biểu tượng họ Hàn, thông điệp về dòng dõi cao quý"
+ },
+ {
+   "A": "韩",
+   "B": "Hán",
+   "C": "HÀNG",
+   "D": "Biểu tượng triều đại, thông điệp về truyền thống lịch sử"
+ },
+ {
+   "A": "汉",
+   "B": "Hàn",
+   "C": "HÁN",
+   "D": "Biểu tượng dân tộc Hán, thông điệp về văn hóa lâu đời"
+ },
+ {
+   "A": "行",
+   "B": "Xíng",
+   "C": "HÀNH",
+   "D": "Biểu tượng hành động, thông điệp về sự năng động"
+ },
+ {
+   "A": "行",
+   "B": "Háng",
+   "C": "HẠNH",
+   "D": "Biểu tượng ngành nghề, thông điệp về sự chuyên nghiệp"
+ },
+ {
+   "A": "杭",
+   "B": "Háng",
+   "C": "HÀN",
+   "D": "Biểu tượng thành phố Hàng Châu, thông điệp về vẻ đẹp"
+ },
+ {
+   "A": "杭",
+   "B": "Háng",
+   "C": "HÀNG",
+   "D": "Biểu tượng chèo thuyền, thông điệp về sự tiến lên"
+ },
+ {
+   "A": "豪",
+   "B": "Háo",
+   "C": "HÀO",
+   "D": "Biểu tượng hào hiệp, thông điệp về khí phách anh hùng"
+ },
+ {
+   "A": "健",
+   "B": "Jiàn",
+   "C": "KIỆN",
+   "D": "Biểu tượng khỏe mạnh, thông điệp về sức sống dồi dào"
+ },
+ {
+   "A": "好",
+   "B": "Hǎo",
+   "C": "HẢO",
+   "D": "Biểu tượng tốt đẹp, thông điệp về sự hoàn hảo"
+ },
+ {
+   "A": "好",
+   "B": "Hào",
+   "C": "KHỎE",
+   "D": "Biểu tượng yêu thích, thông điệp về đam mê"
+ },
+ {
+   "A": "郝",
+   "B": "Hǎo",
+   "C": "HẮC",
+   "D": "Biểu tượng họ Hách, thông điệp về nguồn gốc gia tộc"
+ },
+ {
+   "A": "郝",
+   "B": "Hè",
+   "C": "HÁCH",
+   "D": "Biểu tượng lớn lao, thông điệp về sự vĩ đại"
+ },
+ {
+   "A": "赫",
+   "B": "Hè",
+   "C": "HÁCH",
+   "D": "Biểu tượng rực rỡ, thông điệp về danh tiếng lừng lẫy"
+ },
+ {
+   "A": "昊",
+   "B": "Hào",
+   "C": "HẠO",
+   "D": "Biểu tượng bầu trời, thông điệp về tầm nhìn rộng lớn"
+ },
+ {
+   "A": "晧",
+   "B": "Hào",
+   "C": "TRIỀU",
+   "D": "Biểu tượng ánh sáng, thông điệp về trí tuệ sáng ngời"
+ },
+ {
+   "A": "皓",
+   "B": "Hào",
+   "C": "HẠO",
+   "D": "Biểu tượng trong trắng, thông điệp về sự thuần khiết"
+ },
+ {
+   "A": "轩",
+   "B": "Xuān",
+   "C": "HIÊN",
+   "D": "Biểu tượng xe cao, thông điệp về địa vị cao quý"
+ },
+ {
+   "A": "合",
+   "B": "Hé",
+   "C": "HỢP",
+   "D": "Biểu tượng hợp nhất, thông điệp về sự hài hòa"
+ },
+ {
+   "A": "何",
+   "B": "Hé",
+   "C": "HÀ",
+   "D": "Biểu tượng họ Hà, thông điệp về nguồn gốc gia tộc"
+ },
+ {
+   "A": "和",
+   "B": "Hé",
+   "C": "HÒA",
+   "D": "Biểu tượng hòa bình, thông điệp về sự hòa thuận"
+ },
+ {
+   "A": "河",
+   "B": "Hé",
+   "C": "HÀ",
+   "D": "Biểu tượng dòng sông, thông điệp về sự lưu chuyển"
+ },
+ {
+   "A": "荷",
+   "B": "Hé",
+   "C": "HÀ",
+   "D": "Biểu tượng hoa sen, thông điệp về vẻ đẹp thanh khiết"
+ },
+ {
+   "A": "贺",
+   "B": "Hè",
+   "C": "HẠ",
+   "D": "Biểu tượng chúc mừng, thông điệp về niềm vui"
+ },
+ {
+   "A": "拔",
+   "B": "Bá",
+   "C": "BẠT",
+   "D": "Biểu tượng vượt trội, thông điệp về tài năng xuất chúng"
+ },
+ {
+   "A": "鹤",
+   "B": "Hè",
+   "C": "HẠC",
+   "D": "Biểu tượng chim hạc, thông điệp về tuổi thọ"
+ },
+ {
+   "A": "恒",
+   "B": "Héng",
+   "C": "HẰNG",
+   "D": "Biểu tượng vĩnh cửu, thông điệp về sự bền bỉ"
+ },
+ {
+   "A": "姮",
+   "B": "Héng",
+   "C": "HẰNG",
+   "D": "Biểu tượng Hằng Nga, thông điệp về vẻ đẹp vĩnh hằng"
+ },
+ {
+   "A": "横",
+   "B": "Héng",
+   "C": "HOÀNH",
+   "D": "Biểu tượng ngang dọc, thông điệp về sự đa dạng"
+ },
+ {
+   "A": "衡",
+   "B": "Héng",
+   "C": "HOÀNH",
+   "D": "Biểu tượng cân bằng, thông điệp về sự hài hòa"
+ },
+ {
+   "A": "弘",
+   "B": "Hóng",
+   "C": "HOẰNG",
+   "D": "Biểu tượng mở rộng, thông điệp về tầm ảnh hưởng"
+ },
+ {
+   "A": "红",
+   "B": "Hóng",
+   "C": "HỒNG",
+   "D": "Biểu tượng màu đỏ, thông điệp về may mắn"
+ },
+ {
+   "A": "红",
+   "B": "Hóng",
+   "C": "HƯỜNG",
+   "D": "Biểu tượng thành công, thông điệp về thịnh vượng"
+ },
+ {
+   "A": "洪",
+   "B": "Hóng",
+   "C": "HỒNG",
+   "D": "Biểu tượng lũ lớn, thông điệp về sức mạnh"
+ },
+ {
+   "A": "紅",
+   "B": "Hóng",
+   "C": "HỒNG",
+   "D": "Biểu tượng màu đỏ (phồn thể), thông điệp về nhiệt huyết"
+ },
+ {
+   "A": "紅",
+   "B": "Hóng",
+   "C": "HƯỜNG",
+   "D": "Biểu tượng sắc đỏ, thông điệp về đam mê"
+ },
+ {
+   "A": "侯",
+   "B": "Hóu",
+   "C": "HẦU",
+   "D": "Biểu tượng tước vị, thông điệp về địa vị cao"
+ },
+ {
+   "A": "后",
+   "B": "Hòu",
+   "C": "HẬU",
+   "D": "Biểu tượng hoàng hậu, thông điệp về quyền lực"
+ },
+ {
+   "A": "厚",
+   "B": "Hòu",
+   "C": "HẬU",
+   "D": "Biểu tượng dày dặn, thông điệp về sự sâu sắc"
+ },
+ {
+   "A": "呼",
+   "B": "Hū",
+   "C": "HÔ",
+   "D": "Biểu tượng hô hào, thông điệp về sự truyền cảm"
+ },
+ {
+   "A": "延",
+   "B": "Yán",
+   "C": "DIÊN",
+   "D": "Biểu tượng kéo dài, thông điệp về sự bền vững"
+ },
+ {
+   "A": "狐",
+   "B": "Hú",
+   "C": "HỒ",
+   "D": "Biểu tượng con cáo, thông điệp về sự khôn ngoan"
+ },
+ {
+   "A": "胡",
+   "B": "Hú",
+   "C": "HỒ",
+   "D": "Biểu tượng họ Hồ, thông điệp về nguồn gốc đa văn hóa"
+ },
+ {
+   "A": "湖",
+   "B": "Hú",
+   "C": "HỒ",
+   "D": "Biểu tượng hồ nước, thông điệp về sự bình yên"
+ },
+ {
+   "A": "瑚",
+   "B": "Hú",
+   "C": "HỒ",
+   "D": "Biểu tượng ngọc san hô, thông điệp về vẻ đẹp quý giá"
+ },
+ {
+   "A": "蝴",
+   "B": "Hú",
+   "C": "HỒ",
+   "D": "Biểu tượng con bướm, thông điệp về sự chuyển hóa và tự do"
+ },
+ {
+   "A": "許",
+   "B": "Xǔ",
+   "C": "HỨA",
+   "D": "Biểu tượng họ Hứa (phồn thể), thông điệp về sự bao dung"
+ },
+ {
+   "A": "扈",
+   "B": "Hù",
+   "C": "HỘ",
+   "D": "Biểu tượng hộ tống, thông điệp về sự bảo vệ chu đáo"
+ },
+ {
+   "A": "花",
+   "B": "Huā",
+   "C": "HOA",
+   "D": "Biểu tượng hoa, thông điệp về vẻ đẹp và sự nở rộ"
+ },
+ {
+   "A": "华",
+   "B": "Huá",
+   "C": "HOA",
+   "D": "Biểu tượng rực rỡ, thông điệp về sự huy hoàng"
+ },
+ {
+   "A": "滑",
+   "B": "Huá",
+   "C": "HOẠT",
+   "D": "Biểu tượng trơn tru, thông điệp về sự linh hoạt"
+ },
+ {
+   "A": "化",
+   "B": "Huà",
+   "C": "HÓA",
+   "D": "Biểu tượng biến hóa, thông điệp về khả năng thích nghi"
+ },
+ {
+   "A": "话",
+   "B": "Huà",
+   "C": "THOẠI",
+   "D": "Biểu tượng lời nói, thông điệp về giao tiếp khéo léo"
+ },
+ {
+   "A": "婳",
+   "B": "Huà",
+   "C": "HỌA",
+   "D": "Biểu tượng vẻ đẹp, thông điệp về sự duyên dáng nữ tính"
+ },
+ {
+   "A": "祎",
+   "B": "Yī",
+   "C": "Y",
+   "D": "Biểu tượng tốt lành, thông điệp về những điều may mắn"
+ },
+ {
+   "A": "怀",
+   "B": "Huái",
+   "C": "HOÀI",
+   "D": "Biểu tượng ôm ấp, thông điệp về tấm lòng nhân ái"
+ },
+ {
+   "A": "欢",
+   "B": "Huān",
+   "C": "HOAN",
+   "D": "Biểu tượng vui vẻ, thông điệp về niềm hạnh phúc"
+ },
+ {
+   "A": "环",
+   "B": "Huán",
+   "C": "HOÀN",
+   "D": "Biểu tượng vòng tròn, thông điệp về sự viên mãn"
+ },
+ {
+   "A": "桓",
+   "B": "Huán",
+   "C": "HOÀN",
+   "D": "Biểu tượng cây cổ thụ, thông điệp về sự bền vững"
+ },
+ {
+   "A": "奂",
+   "B": "Huàn",
+   "C": "HOÁN",
+   "D": "Biểu tượng rực rỡ, thông điệp về vẻ đẹp lộng lẫy"
+ },
+ {
+   "A": "宦",
+   "B": "Huàn",
+   "C": "HOẠN",
+   "D": "Biểu tượng quan lại, thông điệp về địa vị xã hội"
+ },
+ {
+   "A": "皇",
+   "B": "Huáng",
+   "C": "HOÀNG",
+   "D": "Biểu tượng hoàng đế, thông điệp về quyền uy tối thượng"
+ },
+ {
+   "A": "甫",
+   "B": "Fǔ",
+   "C": "PHỦ",
+   "D": "Biểu tượng bắt đầu, thông điệp về khởi đầu tốt đẹp"
+ },
+ {
+   "A": "黄",
+   "B": "Huáng",
+   "C": "HOÀNG",
+   "D": "Biểu tượng màu vàng, thông điệp về sự cao quý"
+ },
+ {
+   "A": "黄",
+   "B": "Huáng",
+   "C": "HUỲNH",
+   "D": "Biểu tượng họ Hoàng, thông điệp về dòng dõi hoàng tộc"
+ },
+ {
+   "A": "凰",
+   "B": "Huáng",
+   "C": "HOÀNG",
+   "D": "Biểu tượng phượng hoàng, thông điệp về sự tái sinh"
+ },
+ {
+   "A": "煌",
+   "B": "Huáng",
+   "C": "HOÀNG",
+   "D": "Biểu tượng rực sáng, thông điệp về ánh hào quang"
+ },
+ {
+   "A": "辉",
+   "B": "Huī",
+   "C": "HUY",
+   "D": "Biểu tượng ánh sáng, thông điệp về vinh quang rực rỡ"
+ },
+ {
+   "A": "暉",
+   "B": "Huī",
+   "C": "HUY",
+   "D": "Biểu tượng ánh dương (phồn thể), thông điệp về hy vọng"
+ },
+ {
+   "A": "輝",
+   "B": "Huī",
+   "C": "HUY",
+   "D": "Biểu tượng hào quang (phồn thể), thông điệp về thành tựu"
+ },
+ {
+   "A": "麾",
+   "B": "Huī",
+   "C": "HUY",
+   "D": "Biểu tượng cờ lệnh, thông điệp về quyền chỉ huy"
+ },
+ {
+   "A": "徽",
+   "B": "Huī",
+   "C": "HUY",
+   "D": "Biểu tượng huy hiệu, thông điệp về danh dự và phẩm giá"
+ },
+ {
+   "A": "回",
+   "B": "Huí",
+   "C": "HỒI",
+   "D": "Biểu tượng quay về, thông điệp về sự trở lại đầy ý nghĩa"
+ },
+ {
+   "A": "悔",
+   "B": "Huǐ",
+   "C": "HỐI",
+   "D": "Biểu tượng hối hận, thông điệp về bài học cuộc sống"
+ },
+ {
+   "A": "会",
+   "B": "Huì",
+   "C": "HỘI",
+   "D": "Biểu tượng gặp gỡ, thông điệp về cơ hội và kết nối"
+ },
+ {
+   "A": "荟",
+   "B": "Huì",
+   "C": "HỘI",
+   "D": "Biểu tượng tụ hội, thông điệp về sự phong phú đa dạng"
+ },
+ {
+   "A": "绘",
+   "B": "Huì",
+   "C": "HỘI",
+   "D": "Biểu tượng hội họa, thông điệp về nghệ thuật sáng tạo"
+ },
+ {
+   "A": "惠",
+   "B": "Huì",
+   "C": "HUỆ",
+   "D": "Biểu tượng ân huệ, thông điệp về lòng nhân ái"
+ },
+ {
+   "A": "喙",
+   "B": "Huì",
+   "C": "HUẾ",
+   "D": "Biểu tượng mỏ chim, thông điệp về sự sắc sảo"
+ },
+ {
+   "A": "缋",
+   "B": "Huì",
+   "C": "HỘI",
+   "D": "Biểu tượng thêu hoa, thông điệp về sự tinh xảo"
+ },
+ {
+   "A": "僡",
+   "B": "Huì",
+   "C": "HUỆ",
+   "D": "Biểu tượng nhân từ, thông điệp về đức tính tốt"
+ },
+ {
+   "A": "慧",
+   "B": "Huì",
+   "C": "TUỆ",
+   "D": "Biểu tượng trí tuệ, thông điệp về sự thông thái"
+ },
+ {
+   "A": "活",
+   "B": "Huó",
+   "C": "HOẠT",
+   "D": "Biểu tượng sự sống, thông điệp về năng lượng tích cực"
+ },
+ {
+   "A": "火",
+   "B": "Huǒ",
+   "C": "HỎA",
+   "D": "Biểu tượng lửa, thông điệp về nhiệt huyết và đam mê"
+ },
+ {
+   "A": "获",
+   "B": "Huò",
+   "C": "HOẠCH",
+   "D": "Biểu tượng thu hoạch, thông điệp về thành quả lao động"
+ },
+ {
+   "A": "霍",
+   "B": "Huò",
+   "C": "HOẮC",
+   "D": "Biểu tượng nhanh chóng, thông điệp về sự quyết đoán"
+ },
+ {
+   "A": "姬",
+   "B": "Jī",
+   "C": "CƠ",
+   "D": "Biểu tượng mỹ nữ, thông điệp về vẻ đẹp cổ điển"
+ },
+ {
+   "A": "嵇",
+   "B": "Jī",
+   "C": "KÊ",
+   "D": "Biểu tượng họ Kê, thông điệp về nguồn gốc thanh cao"
+ },
+ {
+   "A": "吉",
+   "B": "Jí",
+   "C": "CÁT",
+   "D": "Biểu tượng may mắn, thông điệp về điềm lành"
+ },
+ {
+   "A": "汲",
+   "B": "Jí",
+   "C": "CẤP",
+   "D": "Biểu tượng múc nước, thông điệp về sự chăm chỉ"
+ },
+ {
+   "A": "籍",
+   "B": "Jí",
+   "C": "TỊCH",
+   "D": "Biểu tượng sổ sách, thông điệp về truyền thống gia tộc"
+ },
+ {
+   "A": "计",
+   "B": "Jì",
+   "C": "KẾ",
+   "D": "Biểu tượng tính toán, thông điệp về sự thông minh"
+ },
+ {
+   "A": "纪",
+   "B": "Jì",
+   "C": "KỶ",
+   "D": "Biểu tượng kỷ luật, thông điệp về nguyên tắc sống"
+ },
+ {
+   "A": "季",
+   "B": "Jì",
+   "C": "QUÝ",
+   "D": "Biểu tượng mùa, thông điệp về sự luân chuyển của thời gian"
+ },
+ {
+   "A": "蓟",
+   "B": "Jì",
+   "C": "KẾ",
+   "D": "Biểu tượng cây kế, thông điệp về sự kiên cường vượt khó"
+ },
+ {
+   "A": "暨",
+   "B": "Jì",
+   "C": "KỊ",
+   "D": "Biểu tượng cùng với, thông điệp về sự kết nối hài hòa"
+ },
+ {
+   "A": "冀",
+   "B": "Jì",
+   "C": "KÝ",
+   "D": "Biểu tượng hy vọng, thông điệp về ước mơ và khát vọng"
+ },
+ {
+   "A": "佳",
+   "B": "Jiā",
+   "C": "GIAI",
+   "D": "Biểu tượng tốt đẹp, thông điệp về sự hoàn hảo và xuất sắc"
+ },
+ {
+   "A": "家",
+   "B": "Jiā",
+   "C": "GIA",
+   "D": "Biểu tượng gia đình, thông điệp về tổ ấm và sự yêu thương"
+ },
+ {
+   "A": "嘉",
+   "B": "Jiā",
+   "C": "GIA",
+   "D": "Biểu tượng tốt lành, thông điệp về những điều may mắn"
+ },
+ {
+   "A": "郏",
+   "B": "Jiá",
+   "C": "HIỆP",
+   "D": "Biểu tượng họ Giáp, thông điệp về nguồn gốc gia tộc"
+ },
+ {
+   "A": "贾",
+   "B": "Jiǎ",
+   "C": "GIẢ",
+   "D": "Biểu tượng họ Giả, thông điệp về tài năng kinh doanh"
+ },
+ {
+   "A": "坚",
+   "B": "Jiān",
+   "C": "KIÊN",
+   "D": "Biểu tượng kiên cường, thông điệp về ý chí bền bỉ"
+ },
+ {
+   "A": "简",
+   "B": "Jiǎn",
+   "C": "GIẢN",
+   "D": "Biểu tượng giản dị, thông điệp về lối sống thanh cao"
+ },
+ {
+   "A": "建",
+   "B": "Jiàn",
+   "C": "KIẾN",
+   "D": "Biểu tượng xây dựng, thông điệp về sự phát triển bền vững"
+ },
+ {
+   "A": "牮",
+   "B": "Jiàn",
+   "C": "TIẾN",
+   "D": "Biểu tượng cột chống, thông điệp về sự nâng đỡ vững chắc"
+ },
+ {
+   "A": "江",
+   "B": "Jiāng",
+   "C": "GIANG",
+   "D": "Biểu tượng sông lớn, thông điệp về dòng chảy cuộc đời"
+ },
+ {
+   "A": "姜",
+   "B": "Jiāng",
+   "C": "KHƯƠNG",
+   "D": "Biểu tượng họ Khương, thông điệp về sự mạnh mẽ"
+ },
+ {
+   "A": "彊",
+   "B": "Jiāng",
+   "C": "CƯỜNG",
+   "D": "Biểu tượng mạnh mẽ, thông điệp về sức mạnh nội tại"
+ },
+ {
+   "A": "疆",
+   "B": "Jiāng",
+   "C": "CƯƠNG",
+   "D": "Biểu tượng biên giới, thông điệp về sự bảo vệ lãnh thổ"
+ },
+ {
+   "A": "蒋",
+   "B": "Jiǎng",
+   "C": "TƯỞNG",
+   "D": "Biểu tượng họ Tưởng, thông điệp về dòng dõi quý tộc"
+ },
+ {
+   "A": "交",
+   "B": "Jiāo",
+   "C": "GIAO",
+   "D": "Biểu tượng giao lưu, thông điệp về mối quan hệ xã hội"
+ },
+ {
+   "A": "娇",
+   "B": "Jiāo",
+   "C": "KIỀU",
+   "D": "Biểu tượng kiều diễm, thông điệp về vẻ đẹp nữ tính"
+ },
+ {
+   "A": "焦",
+   "B": "Jiāo",
+   "C": "TIÊU",
+   "D": "Biểu tượng tập trung, thông điệp về sự chuyên tâm"
+ },
+ {
+   "A": "杰",
+   "B": "Jié",
+   "C": "KIỆT",
+   "D": "Biểu tượng tài năng, thông điệp về sự xuất chúng"
+ },
+ {
+   "A": "洁",
+   "B": "Jié",
+   "C": "KHIẾT",
+   "D": "Biểu tượng trong sạch, thông điệp về sự thanh khiết"
+ },
+ {
+   "A": "结",
+   "B": "Jié",
+   "C": "KẾT",
+   "D": "Biểu tượng kết nối, thông điệp về mối quan hệ bền chặt"
+ },
+ {
+   "A": "捷",
+   "B": "Jié",
+   "C": "TIỆP",
+   "D": "Biểu tượng nhanh nhẹn, thông điệp về sự thành công nhanh chóng"
+ },
+ {
+   "A": "解",
+   "B": "Jiě",
+   "C": "GIẢI",
+   "D": "Biểu tượng giải quyết, thông điệp về khả năng phân tích"
+ },
+ {
+   "A": "界",
+   "B": "Jiè",
+   "C": "GIỚI",
+   "D": "Biểu tượng ranh giới, thông điệp về sự phân định rõ ràng"
+ },
+ {
+   "A": "今",
+   "B": "Jīn",
+   "C": "KIM",
+   "D": "Biểu tượng hiện tại, thông điệp về trân trọng hiện tại"
+ },
+ {
+   "A": "金",
+   "B": "Jīn",
+   "C": "KIM",
+   "D": "Biểu tượng vàng, thông điệp về sự quý giá và giàu có"
+ },
+ {
+   "A": "锦",
+   "B": "Jǐn",
+   "C": "CẨM",
+   "D": "Biểu tượng gấm vóc, thông điệp về tương lai tươi sáng"
+ },
+ {
+   "A": "锦",
+   "B": "Jǐn",
+   "C": "GẤM",
+   "D": "Biểu tượng hoa văn, thông điệp về vẻ đẹp tinh tế"
+ },
+ {
+   "A": "谨",
+   "B": "Jǐn",
+   "C": "CẨN",
+   "D": "Biểu tượng cẩn trọng, thông điệp về sự chu đáo"
+ },
+ {
+   "A": "瑾",
+   "B": "Jǐn",
+   "C": "CẨN",
+   "D": "Biểu tượng ngọc quý, thông điệp về phẩm chất cao quý"
+ },
+ {
+   "A": "錦",
+   "B": "Jǐn",
+   "C": "GẤM",
+   "D": "Biểu tượng gấm hoa (phồn thể), thông điệp về thành công rực rỡ"
+ },
+ {
+   "A": "进",
+   "B": "Jìn",
+   "C": "TIẾN",
+   "D": "Biểu tượng tiến lên, thông điệp về sự phát triển"
+ },
+ {
+   "A": "近",
+   "B": "Jìn",
+   "C": "CẬN",
+   "D": "Biểu tượng gần gũi, thông điệp về mối quan hệ thân thiết"
+ },
+ {
+   "A": "晋",
+   "B": "Jìn",
+   "C": "TẤN",
+   "D": "Biểu tượng thăng tiến, thông điệp về sự nghiệp phát đạt"
+ },
+ {
+   "A": "浸",
+   "B": "Jìn",
+   "C": "XÂM",
+   "D": "Biểu tượng thấm nhuần, thông điệp về ảnh hưởng sâu sắc"
+ },
+ {
+   "A": "進",
+   "B": "Jìn",
+   "C": "TIẾN",
+   "D": "Biểu tượng tiến bộ (phồn thể), thông điệp về sự cải thiện"
+ },
+ {
+   "A": "靳",
+   "B": "Jìn",
+   "C": "CẬN",
+   "D": "Biểu tượng họ Cận, thông điệp về sự quý giá"
+ },
+ {
+   "A": "经",
+   "B": "Jīng",
+   "C": "KINH",
+   "D": "Biểu tượng kinh điển, thông điệp về tri thức uyên thâm"
+ },
+ {
+   "A": "荆",
+   "B": "Jīng",
+   "C": "KINH",
+   "D": "Biểu tượng cây gai, thông điệp về sức sống mãnh liệt"
+ },
+ {
+   "A": "井",
+   "B": "Jǐng",
+   "C": "TỈNH",
+   "D": "Biểu tượng giếng nước, thông điệp về nguồn sống dồi dào"
+ },
+ {
+   "A": "景",
+   "B": "Jǐng",
+   "C": "CẢNH",
+   "D": "Biểu tượng phong cảnh, thông điệp về tầm nhìn rộng mở"
+ },
+ {
+   "A": "仪",
+   "B": "Yí",
+   "C": "NGHI",
+   "D": "Biểu tượng nghi thức, thông điệp về sự lịch thiệp"
+ },
+ {
+   "A": "净",
+   "B": "Jìng",
+   "C": "TỊNH",
+   "D": "Biểu tượng sạch sẽ, thông điệp về sự thuần khiết"
+ },
+ {
+   "A": "婧",
+   "B": "Jìng",
+   "C": "TỊNH",
+   "D": "Biểu tượng tài nữ, thông điệp về vẻ đẹp tài hoa"
+ },
+ {
+   "A": "琪",
+   "B": "Qí",
+   "C": "KỲ",
+   "D": "Biểu tượng ngọc đẹp, thông điệp về sự quý phái"
+ },
+ {
+   "A": "敬",
+   "B": "Jìng",
+   "C": "KÍNH",
+   "D": "Biểu tượng tôn kính, thông điệp về sự kính trọng"
+ },
+ {
+   "A": "静",
+   "B": "Jìng",
+   "C": "TỊNH",
+   "D": "Biểu tượng tĩnh lặng, thông điệp về sự bình an nội tâm"
+ },
+ {
+   "A": "靜",
+   "B": "Jìng",
+   "C": "TĨNH",
+   "D": "Biểu tượng yên tĩnh (phồn thể), thông điệp về tâm hồn an nhiên"
+ },
+ {
+   "A": "九",
+   "B": "Jiǔ",
+   "C": "CỬU",
+   "D": "Biểu tượng số chín, thông điệp về sự trường thọ và may mắn"
+ },
+ {
+   "A": "居",
+   "B": "Jū",
+   "C": "CỨ",
+   "D": "Biểu tượng cư trú, thông điệp về mái ấm gia đình"
+ },
+ {
+   "A": "鞠",
+   "B": "Jū",
+   "C": "CÚC",
+   "D": "Biểu tượng cúi đầu, thông điệp về sự khiêm tốn"
+ },
+ {
+   "A": "菊",
+   "B": "Jú",
+   "C": "CÚC",
+   "D": "Biểu tượng hoa cúc, thông điệp về sự thanh cao"
+ },
+ {
+   "A": "娟",
+   "B": "Juān",
+   "C": "QUYÊN",
+   "D": "Biểu tượng xinh đẹp, thông điệp về vẻ đẹp dịu dàng"
+ },
+ {
+   "A": "鹃",
+   "B": "Juān",
+   "C": "QUYÊN",
+   "D": "Biểu tượng chim đỗ quyên, thông điệp về mùa xuân"
+ },
+ {
+   "A": "蠲",
+   "B": "Juān",
+   "C": "QUYÊN",
+   "D": "Biểu tượng trong sạch, thông điệp về sự thuần khiết"
+ },
+ {
+   "A": "决",
+   "B": "Jué",
+   "C": "QUYẾT",
+   "D": "Biểu tượng quyết định, thông điệp về sự quyết đoán"
+ },
+ {
+   "A": "军",
+   "B": "Jūn",
+   "C": "QUÂN",
+   "D": "Biểu tượng quân đội, thông điệp về kỷ luật"
+ },
+ {
+   "A": "俊",
+   "B": "Jùn",
+   "C": "TUẤN",
+   "D": "Biểu tượng tuấn tú, thông điệp về tài năng xuất chúng"
+ },
+ {
+   "A": "峻",
+   "B": "Jùn",
+   "C": "TUẤN",
+   "D": "Biểu tượng núi cao, thông điệp về chí khí cao vời"
+ },
+ {
+   "A": "珺",
+   "B": "Jùn",
+   "C": "QUÂN",
+   "D": "Biểu tượng ngọc đẹp, thông điệp về phẩm chất cao quý"
+ },
+ {
+   "A": "竣",
+   "B": "Jùn",
+   "C": "THOAN",
+   "D": "Biểu tượng hoàn thành, thông điệp về sự viên mãn"
+ },
+ {
+   "A": "凯",
+   "B": "Kǎi",
+   "C": "KHẢI",
+   "D": "Biểu tượng khải hoàn, thông điệp về chiến thắng"
+ },
+ {
+   "A": "泽",
+   "B": "Zé",
+   "C": "TRẠCH",
+   "D": "Biểu tượng ân huệ, thông điệp về lòng nhân ái"
+ },
+ {
+   "A": "楷",
+   "B": "Kǎi",
+   "C": "GIAI",
+   "D": "Biểu tượng mẫu mực, thông điệp về chuẩn mực"
+ },
+ {
+   "A": "阚",
+   "B": "Kàn",
+   "C": "KHÁM",
+   "D": "Biểu tượng họ Khám, thông điệp về sự quan sát tinh tế"
+ },
+ {
+   "A": "康",
+   "B": "Kāng",
+   "C": "KHANG",
+   "D": "Biểu tượng khỏe mạnh, thông điệp về cuộc sống an lành"
+ },
+ {
+   "A": "裕",
+   "B": "Yù",
+   "C": "DỤ",
+   "D": "Biểu tượng dư dả, thông điệp về sự sung túc"
+ },
+ {
+   "A": "珂",
+   "B": "Kē",
+   "C": "KHA",
+   "D": "Biểu tượng ngọc đẹp, thông điệp về giá trị cao quý"
+ },
+ {
+   "A": "玥",
+   "B": "Yuè",
+   "C": "NGUYỆT",
+   "D": "Biểu tượng ngọc quý, thông điệp về vẻ đẹp tinh khiết"
+ },
+ {
+   "A": "柯",
+   "B": "Kē",
+   "C": "KHA",
+   "D": "Biểu tượng cành cây, thông điệp về sự vững chãi"
+ },
+ {
+   "A": "轲",
+   "B": "Kē",
+   "C": "KHA",
+   "D": "Biểu tượng xe lớn, thông điệp về hành trình vững vàng"
+ },
+ {
+   "A": "科",
+   "B": "Kē",
+   "C": "KHOA",
+   "D": "Biểu tượng khoa học, thông điệp về tri thức"
+ },
+ {
+   "A": "可",
+   "B": "Kě",
+   "C": "KHẢ",
+   "D": "Biểu tượng khả năng, thông điệp về tiềm năng vô hạn"
+ },
+ {
+   "A": "铿",
+   "B": "Kēng",
+   "C": "KHANH",
+   "D": "Biểu tượng âm thanh, thông điệp về sự rõ ràng"
+ },
+ {
+   "A": "空",
+   "B": "Kōng",
+   "C": "KHÔNG",
+   "D": "Biểu tượng không gian, thông điệp về sự tự do"
+ },
+ {
+   "A": "孔",
+   "B": "Kǒng",
+   "C": "KHỔNG",
+   "D": "Biểu tượng họ Khổng, thông điệp về trí tuệ uyên thâm"
+ },
+ {
+   "A": "口",
+   "B": "Kǒu",
+   "C": "KHẨU",
+   "D": "Biểu tượng miệng, thông điệp về giao tiếp"
+ },
+ {
+   "A": "寇",
+   "B": "Kòu",
+   "C": "KHẤU",
+   "D": "Biểu tượng giặc, thông điệp về sự cảnh giác (ít dùng đặt tên)"
+ },
+ {
+   "A": "姱",
+   "B": "Kuā",
+   "C": "KHOA",
+   "D": "Biểu tượng xinh đẹp, thông điệp về vẻ đẹp kiêu sa"
+ },
+ {
+   "A": "蒯",
+   "B": "Kuǎi",
+   "C": "KHOÁI",
+   "D": "Biểu tượng họ Khoái, thông điệp về sự nhanh nhẹn"
+ },
+ {
+   "A": "匡",
+   "B": "Kuāng",
+   "C": "KHUÔNG",
+   "D": "Biểu tượng sửa chữa, thông điệp về khả năng cải thiện"
+ },
+ {
+   "A": "奎",
+   "B": "Kuí",
+   "C": "KHUÊ",
+   "D": "Biểu tượng sao Khuê, thông điệp về văn chương"
+ },
+ {
+   "A": "魁",
+   "B": "Kuí",
+   "C": "KHÔI",
+   "D": "Biểu tượng đứng đầu, thông điệp về tài năng lãnh đạo"
+ },
+ {
+   "A": "傀",
+   "B": "Kuǐ",
+   "C": "KHÔI",
+   "D": "Biểu tượng bù nhìn, thông điệp về sự độc lập (ít dùng đặt tên)"
+ },
+ {
+   "A": "媿",
+   "B": "Kuì",
+   "C": "QUỲ",
+   "D": "Biểu tượng xấu hổ, thông điệp về sự khiêm tốn"
+ },
+ {
+   "A": "昆",
+   "B": "Kūn",
+   "C": "CÔN",
+   "D": "Biểu tượng anh em, thông điệp về tình cảm gia đình"
+ },
+ {
+   "A": "来",
+   "B": "Lái",
+   "C": "LAI",
+   "D": "Biểu tượng tương lai, thông điệp về hy vọng"
+ },
+ {
+   "A": "赖",
+   "B": "Lài",
+   "C": "LAI",
+   "D": "Biểu tượng họ Lại, thông điệp về sự tin cậy"
+ },
+ {
+   "A": "赖",
+   "B": "Lài",
+   "C": "LẠI",
+   "D": "Biểu tượng ỷ lại, thông điệp về sự tự lập (nghĩa kép)"
+ },
+ {
+   "A": "賴",
+   "B": "Lài",
+   "C": "LẠI",
+   "D": "Biểu tượng họ Lại (phồn thể), thông điệp về nguồn gốc"
+ },
+ {
+   "A": "兰",
+   "B": "Lán",
+   "C": "LAN",
+   "D": "Biểu tượng hoa lan, thông điệp về vẻ đẹp thanh cao"
+ },
+ {
+   "A": "岚",
+   "B": "Lán",
+   "C": "LAM",
+   "D": "Biểu tượng sương mù, thông điệp về vẻ đẹp huyền ảo"
+ },
+ {
+   "A": "蓝",
+   "B": "Lán",
+   "C": "LAM",
+   "D": "Biểu tượng màu xanh, thông điệp về sự bình yên"
+ },
+ {
+   "A": "郎",
+   "B": "Láng",
+   "C": "LANG",
+   "D": "Biểu tượng chàng trai, thông điệp về tuổi trẻ"
+ },
+ {
+   "A": "诣",
+   "B": "Yì",
+   "C": "NGHỆ",
+   "D": "Biểu tượng thông thạo, thông điệp về trình độ cao"
+ },
+ {
+   "A": "劳",
+   "B": "Láo",
+   "C": "LAO",
+   "D": "Biểu tượng lao động, thông điệp về sự chăm chỉ"
+ },
+ {
+   "A": "乐",
+   "B": "Lè",
+   "C": "LẠC",
+   "D": "Biểu tượng niềm vui, thông điệp về cuộc sống hạnh phúc"
+ },
+ {
+   "A": "乐",
+   "B": "Yuè",
+   "C": "NHẠC",
+   "D": "Biểu tượng âm nhạc, thông điệp về nghệ thuật"
+ },
+ {
+   "A": "雷",
+   "B": "Léi",
+   "C": "LÔI",
+   "D": "Biểu tượng sấm sét, thông điệp về uy lực và sức mạnh"
+ },
+ {
+   "A": "冷",
+   "B": "Lěng",
+   "C": "LÃNH",
+   "D": "Biểu tượng lạnh lẽo, thông điệp về sự điềm tĩnh"
+ },
+ {
+   "A": "骊",
+   "B": "Lí",
+   "C": "LY",
+   "D": "Biểu tượng ngựa đen, thông điệp về sự quý phái"
+ },
+ {
+   "A": "璃",
+   "B": "Lí",
+   "C": "LY",
+   "D": "Biểu tượng thủy tinh, thông điệp về sự trong suốt"
+ },
+ {
+   "A": "犛",
+   "B": "Máo",
+   "C": "LI",
+   "D": "Biểu tượng bò Tây Tạng, thông điệp về sức mạnh"
+ },
+ {
+   "A": "黎",
+   "B": "Lí",
+   "C": "LÊ",
+   "D": "Biểu tượng bình minh, thông điệp về khởi đầu mới"
+ },
+ {
+   "A": "礼",
+   "B": "Lǐ",
+   "C": "LỄ",
+   "D": "Biểu tượng lễ nghi, thông điệp về sự lịch thiệp"
+ },
+ {
+   "A": "李",
+   "B": "Lǐ",
+   "C": "MẬN",
+   "D": "Biểu tượng họ Lý, thông điệp về cây trái sum suê"
+ },
+ {
+   "A": "李",
+   "B": "Lǐ",
+   "C": "LÝ",
+   "D": "Biểu tượng mận, thông điệp về sự phong nhiêu"
+ },
+ {
+   "A": "力",
+   "B": "Lì",
+   "C": "LỰC",
+   "D": "Biểu tượng sức mạnh, thông điệp về nghị lực"
+ },
+ {
+   "A": "历",
+   "B": "Lì",
+   "C": "LỊCH",
+   "D": "Biểu tượng lịch sử, thông điệp về kinh nghiệm"
+ },
+ {
+   "A": "厉",
+   "B": "Lì",
+   "C": "LỆ",
+   "D": "Biểu tượng nghiêm khắc, thông điệp về kỷ luật"
+ },
+ {
+   "A": "立",
+   "B": "Lì",
+   "C": "LẬP",
+   "D": "Biểu tượng đứng vững, thông điệp về sự kiên định"
+ },
+ {
+   "A": "丽",
+   "B": "Lì",
+   "C": "LỆ",
+   "D": "Biểu tượng xinh đẹp, thông điệp về vẻ đẹp rực rỡ"
+ },
+ {
+   "A": "利",
+   "B": "Lì",
+   "C": "LỢI",
+   "D": "Biểu tượng lợi ích, thông điệp về thành công"
+ },
+ {
+   "A": "郦",
+   "B": "Lì",
+   "C": "LỆ",
+   "D": "Biểu tượng họ Lịch, thông điệp về dòng dõi"
+ },
+ {
+   "A": "俐",
+   "B": "Lì",
+   "C": "LỢI",
+   "D": "Biểu tượng lanh lợi, thông điệp về sự thông minh"
+ },
+ {
+   "A": "连",
+   "B": "Lián",
+   "C": "LIÊN",
+   "D": "Biểu tượng kết nối, thông điệp về mối quan hệ bền chặt"
+ },
+ {
+   "A": "莲",
+   "B": "Lián",
+   "C": "LIÊN",
+   "D": "Biểu tượng hoa sen, thông điệp về sự thanh khiết"
+ },
+ {
+   "A": "莲",
+   "B": "Lián",
+   "C": "SEN",
+   "D": "Biểu tượng Phật giáo, thông điệp về giác ngộ"
+ },
+ {
+   "A": "廉",
+   "B": "Lián",
+   "C": "LIÊM",
+   "D": "Biểu tượng liêm khiết, thông điệp về sự chính trực"
+ },
+ {
+   "A": "縺",
+   "B": "Lián",
+   "C": "LEN",
+   "D": "Biểu tượng kết nối, thông điệp về sự gắn bó"
+ },
+ {
+   "A": "恋",
+   "B": "Liàn",
+   "C": "LUYẾN",
+   "D": "Biểu tượng tình yêu, thông điệp về sự say đắm"
+ },
+ {
+   "A": "良",
+   "B": "Liáng",
+   "C": "LƯƠNG",
+   "D": "Biểu tượng tốt lành, thông điệp về phẩm chất cao quý"
+ },
+ {
+   "A": "梁",
+   "B": "Liáng",
+   "C": "LƯƠNG",
+   "D": "Biểu tượng cây cầu, thông điệp về sự kết nối"
+ },
+ {
+   "A": "亮",
+   "B": "Liàng",
+   "C": "LƯỢNG",
+   "D": "Biểu tượng sáng sủa, thông điệp về trí tuệ"
+ },
+ {
+   "A": "廖",
+   "B": "Liào",
+   "C": "LIÊU",
+   "D": "Biểu tượng họ Liệu, thông điệp về sự rộng lớn"
+ },
+ {
+   "A": "廖",
+   "B": "Liào",
+   "C": "LIỆU",
+   "D": "Biểu tượng xa xôi, thông điệp về tầm nhìn xa"
+ },
+ {
+   "A": "廖",
+   "B": "Liào",
+   "C": "LÌU",
+   "D": "Biểu tượng mênh mông, thông điệp về không gian bao la"
+ },
+ {
+   "A": "林",
+   "B": "Lín",
+   "C": "LÂM",
+   "D": "Biểu tượng rừng cây, thông điệp về sức sống dồi dào"
+ },
+ {
+   "A": "粼",
+   "B": "Lín",
+   "C": "LÂN",
+   "D": "Biểu tượng nước trong, thông điệp về sự tinh khiết"
+ },
+ {
+   "A": "麟",
+   "B": "Lín",
+   "C": "LÂN",
+   "D": "Biểu tượng kỳ lân, thông điệp về điềm lành"
+ },
+ {
+   "A": "蔺",
+   "B": "Lìn",
+   "C": "LẬN",
+   "D": "Biểu tượng họ Lận, thông điệp về sự kiên cường"
+ },
+ {
+   "A": "灵",
+   "B": "Líng",
+   "C": "LINH",
+   "D": "Biểu tượng linh thiêng, thông điệp về trí tuệ sáng suốt"
+ },
+ {
+   "A": "泠",
+   "B": "Líng",
+   "C": "LINH",
+   "D": "Biểu tượng mát mẻ, thông điệp về sự thanh thản"
+ },
+ {
+   "A": "凌",
+   "B": "Líng",
+   "C": "LĂNG",
+   "D": "Biểu tượng vượt lên, thông điệp về khát vọng"
+ },
+ {
+   "A": "陵",
+   "B": "Líng",
+   "C": "LĂNG",
+   "D": "Biểu tượng lăng mộ, thông điệp về sự tôn kính"
+ },
+ {
+   "A": "羚",
+   "B": "Líng",
+   "C": "LINH",
+   "D": "Biểu tượng linh dương, thông điệp về sự nhanh nhẹn"
+ },
+ {
+   "A": "霝",
+   "B": "Líng",
+   "C": "LINH",
+   "D": "Biểu tượng mưa, thông điệp về sự nuôi dưỡng"
+ },
+ {
+   "A": "领",
+   "B": "Lǐng",
+   "C": "LÃNH",
+   "D": "Biểu tượng lãnh đạo, thông điệp về khả năng dẫn dắt"
+ },
+ {
+   "A": "令",
+   "B": "Lìng",
+   "C": "LÀNH",
+   "D": "Biểu tượng mệnh lệnh, thông điệp về uy quyền"
+ },
+ {
+   "A": "令",
+   "B": "Lìng",
+   "C": "LỆNH",
+   "D": "Biểu tượng xuất sắc, thông điệp về sự ưu tú"
+ },
+ {
+   "A": "刘",
+   "B": "Liú",
+   "C": "LƯU",
+   "D": "Biểu tượng họ Lưu, thông điệp về dòng dõi vương giả"
+ },
+ {
+   "A": "留",
+   "B": "Liú",
+   "C": "LƯU",
+   "D": "Biểu tượng lưu giữ, thông điệp về sự trân quý"
+ },
+ {
+   "A": "流",
+   "B": "Liú",
+   "C": "LƯU",
+   "D": "Biểu tượng dòng chảy, thông điệp về sự linh hoạt"
+ },
+ {
+   "A": "柳",
+   "B": "Liǔ",
+   "C": "LIỄU",
+   "D": "Biểu tượng cây liễu, thông điệp về sự mềm mại"
+ },
+ {
+   "A": "隆",
+   "B": "Lóng",
+   "C": "LONG",
+   "D": "Biểu tượng hưng thịnh, thông điệp về sự phát triển"
+ },
+ {
+   "A": "瀧",
+   "B": "Lóng",
+   "C": "SANG",
+   "D": "Biểu tượng thác nước, thông điệp về sức mạnh"
+ },
+ {
+   "A": "娄",
+   "B": "Lóu",
+   "C": "LÂU",
+   "D": "Biểu tượng họ Lâu, thông điệp về sự cần mẫn"
+ },
+ {
+   "A": "卢",
+   "B": "Lú",
+   "C": "LÔ",
+   "D": "Biểu tượng họ Lô, thông điệp về nồi đất (nghĩa gốc)"
+ },
+ {
+   "A": "芦",
+   "B": "Lú",
+   "C": "LÔ",
+   "D": "Biểu tượng cây sậy, thông điệp về sự kiên cường"
+ },
+ {
+   "A": "鲁",
+   "B": "Lǔ",
+   "C": "LỖ",
+   "D": "Biểu tượng họ Lỗ, thông điệp về sự chất phác"
+ },
+ {
+   "A": "甪",
+   "B": "Lù",
+   "C": "LỘC",
+   "D": "Biểu tượng kỳ lân, thông điệp về điềm lành"
+ },
+ {
+   "A": "里",
+   "B": "Lǐ",
+   "C": "LÝ",
+   "D": "Biểu tượng làng quê, thông điệp về nguồn cội"
+ },
+ {
+   "A": "陆",
+   "B": "Lù",
+   "C": "LỤC",
+   "D": "Biểu tượng đất liền, thông điệp về sự vững chãi"
+ },
+ {
+   "A": "陸",
+   "B": "Lù",
+   "C": "LỤC",
+   "D": "Biểu tượng lục địa (phồn thể), thông điệp về sự ổn định"
+ },
+ {
+   "A": "鹿",
+   "B": "Lù",
+   "C": "LỘC",
+   "D": "Biểu tượng con hươu, thông điệp về sự nhanh nhẹn"
+ },
+ {
+   "A": "逯",
+   "B": "Lù",
+   "C": "LỤC",
+   "D": "Biểu tượng họ Lục, thông điệp về con đường"
+ },
+ {
+   "A": "逯",
+   "B": "Lù",
+   "C": "LỘC",
+   "D": "Biểu tượng thong dong, thông điệp về sự ung dung"
+ },
+ {
+   "A": "禄",
+   "B": "Lù",
+   "C": "LỘC",
+   "D": "Biểu tượng bổng lộc, thông điệp về phúc lộc"
+ },
+ {
+   "A": "祿",
+   "B": "Lù",
+   "C": "LỘC",
+   "D": "Biểu tượng phúc lộc (phồn thể), thông điệp về may mắn"
+ },
+ {
+   "A": "路",
+   "B": "Lù",
+   "C": "LỘ",
+   "D": "Biểu tượng con đường, thông điệp về hành trình"
+ },
+ {
+   "A": "露",
+   "B": "Lù",
+   "C": "LỘ",
+   "D": "Biểu tượng giọt sương, thông điệp về sự tinh khiết"
+ },
+ {
+   "A": "栾",
+   "B": "Luán",
+   "C": "LOAN",
+   "D": "Biểu tượng cây ngô đồng, thông điệp về sự cao quý"
+ },
+ {
+   "A": "鸾",
+   "B": "Luán",
+   "C": "LOAN",
+   "D": "Biểu tượng chim loan, thông điệp về sự hòa hợp"
+ },
+ {
+   "A": "伦",
+   "B": "Lún",
+   "C": "LUÂN",
+   "D": "Biểu tượng luân lý, thông điệp về đạo đức"
+ },
+ {
+   "A": "轮",
+   "B": "Lún",
+   "C": "LUÂN",
+   "D": "Biểu tượng bánh xe, thông điệp về sự luân chuyển"
+ },
+ {
+   "A": "圇",
+   "B": "Lún",
+   "C": "LUÂN",
+   "D": "Biểu tượng trọn vẹn, thông điệp về sự hoàn chỉnh"
+ },
+ {
+   "A": "论",
+   "B": "Lùn",
+   "C": "LUẬN",
+   "D": "Biểu tượng bàn luận, thông điệp về tri thức"
+ },
+ {
+   "A": "論",
+   "B": "Lùn",
+   "C": "LUẬN",
+   "D": "Biểu tượng thảo luận (phồn thể), thông điệp về học thuật"
+ },
+ {
+   "A": "罗",
+   "B": "Luó",
+   "C": "LA",
+   "D": "Biểu tượng họ La, thông điệp về lưới bắt (nghĩa gốc)"
+ },
+ {
+   "A": "骆",
+   "B": "Luò",
+   "C": "LẠC",
+   "D": "Biểu tượng họ Lạc, thông điệp về ngựa ô (nghĩa gốc)"
+ },
+ {
+   "A": "闾",
+   "B": "Lǘ",
+   "C": "LƯ",
+   "D": "Biểu tượng cổng làng, thông điệp về cộng đồng"
+ },
+ {
+   "A": "吕",
+   "B": "Lǚ",
+   "C": "LÃ",
+   "D": "Biểu tượng họ Lã, thông điệp về âm nhạc (nghĩa gốc)"
+ },
+ {
+   "A": "吕",
+   "B": "Lǚ",
+   "C": "LỮ",
+   "D": "Biểu tượng nốt nhạc, thông điệp về nghệ thuật"
+ },
+ {
+   "A": "麻",
+   "B": "Má",
+   "C": "MA",
+   "D": "Biểu tượng cây gai, thông điệp về sự bền bỉ"
+ },
+ {
+   "A": "马",
+   "B": "Mǎ",
+   "C": "MÃ",
+   "D": "Biểu tượng con ngựa, thông điệp về tốc độ"
+ },
+ {
+   "A": "麦",
+   "B": "Mài",
+   "C": "MẠCH",
+   "D": "Biểu tượng lúa mì, thông điệp về sự no đủ"
+ },
+ {
+   "A": "满",
+   "B": "Mǎn",
+   "C": "MÃN",
+   "D": "Biểu tượng viên mãn, thông điệp về sự trọn vẹn"
+ },
+ {
+   "A": "曼",
+   "B": "Màn",
+   "C": "MẠN",
+   "D": "Biểu tượng duyên dáng, thông điệp về vẻ đẹp"
+ },
+ {
+   "A": "釯",
+   "B": "Máo",
+   "C": "VÒNG",
+   "D": "Biểu tượng mũi nhọn, thông điệp về sự sắc bén"
+ },
+ {
+   "A": "毛",
+   "B": "Máo",
+   "C": "MAO",
+   "D": "Biểu tượng lông, thông điệp về sự tinh tế"
+ },
+ {
+   "A": "茅",
+   "B": "Máo",
+   "C": "MAO",
+   "D": "Biểu tượng cây cỏ tranh, thông điệp về sự giản dị"
+ },
+ {
+   "A": "贸",
+   "B": "Mào",
+   "C": "MẬU",
+   "D": "Biểu tượng thương mại, thông điệp về sự giao lưu"
+ },
+ {
+   "A": "玫",
+   "B": "Méi",
+   "C": "MAI",
+   "D": "Biểu tượng hoa hồng, thông điệp về tình yêu"
+ },
+ {
+   "A": "枚",
+   "B": "Méi",
+   "C": "MAI",
+   "D": "Biểu tượng đơn vị, thông điệp về sự quý giá"
+ },
+ {
+   "A": "梅",
+   "B": "Méi",
+   "C": "MAI",
+   "D": "Biểu tượng hoa mai, thông điệp về sự kiên cường"
+ },
+ {
+   "A": "嵋",
+   "B": "Méi",
+   "C": "MY",
+   "D": "Biểu tượng núi, thông điệp về sự vững chãi"
+ },
+ {
+   "A": "鹛",
+   "B": "Méi",
+   "C": "MI",
+   "D": "Biểu tượng chim, thông điệp về sự tự do"
+ },
+ {
+   "A": "鹛",
+   "B": "Méi",
+   "C": "MY",
+   "D": "Biểu tượng chim họa mi, thông điệp về tiếng hót"
+ },
+ {
+   "A": "美",
+   "B": "Měi",
+   "C": "MỸ",
+   "D": "Biểu tượng cái đẹp, thông điệp về sự hoàn mỹ"
+ },
+ {
+   "A": "琳",
+   "B": "Lín",
+   "C": "LÂM",
+   "D": "Biểu tượng ngọc đẹp, thông điệp về giá trị"
+ },
+ {
+   "A": "蒙",
+   "B": "Méng",
+   "C": "MÔNG",
+   "D": "Biểu tượng che phủ, thông điệp về sự bao bọc"
+ },
+ {
+   "A": "盟",
+   "B": "Méng",
+   "C": "MINH",
+   "D": "Biểu tượng liên minh, thông điệp về hợp tác"
+ },
+ {
+   "A": "猛",
+   "B": "Měng",
+   "C": "MẠNH",
+   "D": "Biểu tượng dũng mãnh, thông điệp về sức mạnh"
+ },
+ {
+   "A": "孟",
+   "B": "Mèng",
+   "C": "MẠNH",
+   "D": "Biểu tượng họ Mạnh, thông điệp về sự khởi đầu"
+ },
+ {
+   "A": "梦",
+   "B": "Mèng",
+   "C": "MƠ",
+   "D": "Biểu tượng giấc mơ, thông điệp về khát vọng"
+ },
+ {
+   "A": "梦",
+   "B": "Mèng",
+   "C": "MỘNG",
+   "D": "Biểu tượng mộng tưởng, thông điệp về sáng tạo"
+ },
+ {
+   "A": "梵",
+   "B": "Fàn",
+   "C": "PHẠN",
+   "D": "Biểu tượng Phật giáo, thông điệp về thanh tịnh"
+ },
+ {
+   "A": "咪",
+   "B": "Mī",
+   "C": "MỊ",
+   "D": "Biểu tượng tiếng mèo, thông điệp về sự đáng yêu"
+ },
+ {
+   "A": "糜",
+   "B": "Mí",
+   "C": "MI",
+   "D": "Biểu tượng lúa nếp, thông điệp về sự no đủ"
+ },
+ {
+   "A": "米",
+   "B": "Mǐ",
+   "C": "MỄ",
+   "D": "Biểu tượng gạo, thông điệp về lương thực dồi dào"
+ },
+ {
+   "A": "芈",
+   "B": "Mǐ",
+   "C": "MỊ",
+   "D": "Biểu tượng họ Mị, thông điệp về dòng dõi quý tộc"
+ },
+ {
+   "A": "宓",
+   "B": "Mì",
+   "C": "MẬT",
+   "D": "Biểu tượng yên tĩnh, thông điệp về sự bình an"
+ },
+ {
+   "A": "幂",
+   "B": "Mì",
+   "C": "MỊCH",
+   "D": "Biểu tượng lũy thừa, thông điệp về sức mạnh nhân lên"
+ },
+ {
+   "A": "绵",
+   "B": "Mián",
+   "C": "MIÊN",
+   "D": "Biểu tượng mềm mại, thông điệp về sự dai dức"
+ },
+ {
+   "A": "缅",
+   "B": "Miǎn",
+   "C": "MẾN",
+   "D": "Biểu tượng nhớ nhung, thông điệp về hoài niệm"
+ },
+ {
+   "A": "面",
+   "B": "Miàn",
+   "C": "DIỆN",
+   "D": "Biểu tượng bề mặt, thông điệp về sự trực diện"
+ },
+ {
+   "A": "苗",
+   "B": "Miáo",
+   "C": "MIÊU",
+   "D": "Biểu tượng mầm non, thông điệp về tiềm năng"
+ },
+ {
+   "A": "妙",
+   "B": "Miào",
+   "C": "DIỆU",
+   "D": "Biểu tượng tuyệt diệu, thông điệp về sự tinh tế"
+ },
+ {
+   "A": "民",
+   "B": "Mín",
+   "C": "DÂN",
+   "D": "Biểu tượng nhân dân, thông điệp về sự bình đẳng"
+ },
+ {
+   "A": "闵",
+   "B": "Mǐn",
+   "C": "MẪN",
+   "D": "Biểu tượng họ Mẫn, thông điệp về lòng trắc ẩn"
+ },
+ {
+   "A": "敏",
+   "B": "Mǐn",
+   "C": "MẪN",
+   "D": "Biểu tượng nhanh nhẹn, thông điệp về sự thông minh"
+ },
+ {
+   "A": "愍",
+   "B": "Mǐn",
+   "C": "MẪN",
+   "D": "Biểu tượng thương xót, thông điệp về lòng nhân ái"
+ },
+ {
+   "A": "僶",
+   "B": "Mǐn",
+   "C": "MẪN",
+   "D": "Biểu tượng chăm chỉ, thông điệp về sự cần cù"
+ },
+ {
+   "A": "名",
+   "B": "Míng",
+   "C": "DANH",
+   "D": "Biểu tượng danh tiếng, thông điệp về sự nổi tiếng"
+ },
+ {
+   "A": "明",
+   "B": "Míng",
+   "C": "MINH",
+   "D": "Biểu tượng sáng suốt, thông điệp về trí tuệ"
+ },
+ {
+   "A": "远",
+   "B": "Yuǎn",
+   "C": "VIỄN",
+   "D": "Biểu tượng xa xôi, thông điệp về tầm nhìn dài hạn"
+ },
+ {
+   "A": "銘",
+   "B": "Míng",
+   "C": "MINH",
+   "D": "Biểu tượng khắc ghi, thông điệp về sự lưu danh"
+ },
+ {
+   "A": "缪",
+   "B": "Miù",
+   "C": "MẬU",
+   "D": "Biểu tượng họ Mậu, thông điệp về sự tinh xảo"
+ },
+ {
+   "A": "莫",
+   "B": "Mò",
+   "C": "MẠC",
+   "D": "Biểu tượng không gì, thông điệp về sự vô hạn"
+ },
+ {
+   "A": "母",
+   "B": "Mǔ",
+   "C": "MẪU",
+   "D": "Biểu tượng mẹ, thông điệp về tình mẫu tử"
+ },
+ {
+   "A": "牧",
+   "B": "Mù",
+   "C": "MỤC",
+   "D": "Biểu tượng chăn nuôi, thông điệp về sự chăm sóc"
+ },
+ {
+   "A": "幕",
+   "B": "Mù",
+   "C": "MẠC",
+   "D": "Biểu tượng màn che, thông điệp về sự bảo vệ"
+ },
+ {
+   "A": "慕",
+   "B": "Mù",
+   "C": "MỘ",
+   "D": "Biểu tượng ngưỡng mộ, thông điệp về sự kính trọng"
+ },
+ {
+   "A": "穆",
+   "B": "Mù",
+   "C": "MỤC",
+   "D": "Biểu tượng trang nghiêm, thông điệp về sự tôn kính"
+ },
+ {
+   "A": "穆",
+   "B": "Mù",
+   "C": "MỘC",
+   "D": "Biểu tượng họ Mục, thông điệp về sự uy nghiêm"
+ },
+ {
+   "A": "那",
+   "B": "Nà",
+   "C": "NA",
+   "D": "Biểu tượng nơi đó, thông điệp về phương xa"
+ },
+ {
+   "A": "娜",
+   "B": "Nà",
+   "C": "NA",
+   "D": "Biểu tượng xinh đẹp, thông điệp về vẻ đẹp nữ tính"
+ },
+ {
+   "A": "纳",
+   "B": "Nà",
+   "C": "NẠP",
+   "D": "Biểu tượng tiếp nhận, thông điệp về sự bao dung"
+ },
+ {
+   "A": "男",
+   "B": "Nán",
+   "C": "NAM",
+   "D": "Biểu tượng nam giới, thông điệp về sự mạnh mẽ"
+ },
+ {
+   "A": "南",
+   "B": "Nán",
+   "C": "NAM",
+   "D": "Biểu tượng phương Nam, thông điệp về hướng đi"
+ },
+ {
+   "A": "能",
+   "B": "Néng",
+   "C": "NĂNG",
+   "D": "Biểu tượng năng lực, thông điệp về tài năng"
+ },
+ {
+   "A": "倪",
+   "B": "Ní",
+   "C": "NỄ",
+   "D": "Biểu tượng họ Nghê, thông điệp về nguồn gốc"
+ },
+ {
+   "A": "倪",
+   "B": "Ní",
+   "C": "NGHÊ",
+   "D": "Biểu tượng nhỏ bé, thông điệp về sự khiêm tốn"
+ },
+ {
+   "A": "娘",
+   "B": "Niáng",
+   "C": "NƯƠNG",
+   "D": "Biểu tượng cô gái, thông điệp về tuổi trẻ"
+ },
+ {
+   "A": "乜",
+   "B": "Niè",
+   "C": "MIẾT",
+   "D": "Biểu tượng họ Niết, thông điệp về sự độc đáo"
+ },
+ {
+   "A": "聂",
+   "B": "Niè",
+   "C": "NHIẾP",
+   "D": "Biểu tượng họ Nhiếp, thông điệp về sự lắng nghe"
+ },
+ {
+   "A": "宁",
+   "B": "Níng",
+   "C": "NING",
+   "D": "Biểu tượng yên bình, thông điệp về sự an lạc"
+ },
+ {
+   "A": "宁",
+   "B": "Nìng",
+   "C": "NINH",
+   "D": "Biểu tượng thà rằng, thông điệp về sự quyết tâm"
+ },
+ {
+   "A": "寧",
+   "B": "Níng",
+   "C": "NINH",
+   "D": "Biểu tượng an ninh (phồn thể), thông điệp về hòa bình"
+ },
+ {
+   "A": "牛",
+   "B": "Niú",
+   "C": "NGƯU",
+   "D": "Biểu tượng con trâu, thông điệp về sự chăm chỉ"
+ },
+ {
+   "A": "钮",
+   "B": "Niǔ",
+   "C": "NỮU",
+   "D": "Biểu tượng nút bấm, thông điệp về sự kết nối"
+ },
+ {
+   "A": "农",
+   "B": "Nóng",
+   "C": "NÔNG",
+   "D": "Biểu tượng nông nghiệp, thông điệp về sự lao động"
+ },
+ {
+   "A": "女",
+   "B": "Nǚ",
+   "C": "NỮ",
+   "D": "Biểu tượng nữ giới, thông điệp về sự dịu dàng"
+ },
+ {
+   "A": "欧",
+   "B": "Ōu",
+   "C": "ÂU",
+   "D": "Biểu tượng họ Âu, thông điệp về châu Âu"
+ },
+ {
+   "A": "阳",
+   "B": "Yáng",
+   "C": "DƯƠNG",
+   "D": "Biểu tượng mặt trời, thông điệp về năng lượng"
+ },
+ {
+   "A": "潘",
+   "B": "Pān",
+   "C": "PHAN",
+   "D": "Biểu tượng họ Phan, thông điệp về dòng nước"
+ },
+ {
+   "A": "庞",
+   "B": "Páng",
+   "C": "BÀNG",
+   "D": "Biểu tượng họ Bàng, thông điệp về sự to lớn"
+ },
+ {
+   "A": "逄",
+   "B": "Páng",
+   "C": "BÀNG",
+   "D": "Biểu tượng họ Bàng (cách viết khác), thông điệp về sự gặp gỡ"
+ },
+ {
+   "A": "裴",
+   "B": "Péi",
+   "C": "BÙI",
+   "D": "Biểu tượng họ Bùi, thông điệp về vẻ đẹp"
+ },
+ {
+   "A": "彭",
+   "B": "Péng",
+   "C": "BÀNH",
+   "D": "Biểu tượng họ Bành, thông điệp về âm thanh trống"
+ },
+ {
+   "A": "蓬",
+   "B": "Péng",
+   "C": "BỒNG",
+   "D": "Biểu tượng cỏ bồng, thông điệp về sức sống"
+ },
+ {
+   "A": "丕",
+   "B": "Pī",
+   "C": "PHI",
+   "D": "Biểu tượng lớn lao, thông điệp về sự vĩ đại"
+ },
+ {
+   "A": "皮",
+   "B": "Pí",
+   "C": "BÌ",
+   "D": "Biểu tượng da, thông điệp về sự bền bỉ"
+ },
+ {
+   "A": "平",
+   "B": "Píng",
+   "C": "BÌNH",
+   "D": "Biểu tượng bằng phẳng, thông điệp về công bằng"
+ },
+ {
+   "A": "泙",
+   "B": "Píng",
+   "C": "BÌNH",
+   "D": "Biểu tượng nước chảy, thông điệp về sự êm đềm"
+ },
+ {
+   "A": "玶",
+   "B": "Píng",
+   "C": "BÌNH",
+   "D": "Biểu tượng ngọc đẹp, thông điệp về giá trị"
+ },
+ {
+   "A": "剖",
+   "B": "Pōu",
+   "C": "MỔ",
+   "D": "Biểu tượng mổ xẻ, thông điệp về phân tích"
+ },
+ {
+   "A": "蒲",
+   "B": "Pú",
+   "C": "BỒ",
+   "D": "Biểu tượng cây sậy, thông điệp về sự mềm mại"
+ },
+ {
+   "A": "濮",
+   "B": "Pú",
+   "C": "BỘC",
+   "D": "Biểu tượng họ Bộc, thông điệp về dòng sông"
+ },
+ {
+   "A": "朴",
+   "B": "Pǔ",
+   "C": "PHÁC",
+   "D": "Biểu tượng mộc mạc, thông điệp về sự giản dị"
+ },
+ {
+   "A": "浦",
+   "B": "Pǔ",
+   "C": "PHỐ",
+   "D": "Biểu tượng bến nước, thông điệp về giao thương"
+ },
+ {
+   "A": "七",
+   "B": "Qī",
+   "C": "BẢY",
+   "D": "Biểu tượng số bảy, thông điệp về may mắn"
+ },
+ {
+   "A": "戚",
+   "B": "Qī",
+   "C": "THÍCH",
+   "D": "Biểu tượng họ Thích, thông điệp về buồn phiền"
+ },
+ {
+   "A": "齐",
+   "B": "Qí",
+   "C": "TỀ",
+   "D": "Biểu tượng chỉnh tề, thông điệp về sự hoàn hảo"
+ },
+ {
+   "A": "祁",
+   "B": "Qí",
+   "C": "KỲ",
+   "D": "Biểu tượng họ Kỳ, thông điệp về sự rộng lớn"
+ },
+ {
+   "A": "淇",
+   "B": "Qí",
+   "C": "KỲ",
+   "D": "Biểu tượng sông Kỳ, thông điệp về dòng chảy"
+ },
+ {
+   "A": "琦",
+   "B": "Qí",
+   "C": "KỲ",
+   "D": "Biểu tượng ngọc đẹp, thông điệp về sự quý giá"
+ },
+ {
+   "A": "棋",
+   "B": "Qí",
+   "C": "KỲ",
+   "D": "Biểu tượng cờ vây, thông điệp về chiến lược"
+ },
+ {
+   "A": "旗",
+   "B": "Qí",
+   "C": "KỲ",
+   "D": "Biểu tượng lá cờ, thông điệp về lý tưởng"
+ },
+ {
+   "A": "启",
+   "B": "Qǐ",
+   "C": "KHẢI",
+   "D": "Biểu tượng khởi đầu, thông điệp về sự mở mang"
+ },
+ {
+   "A": "啓",
+   "B": "Qǐ",
+   "C": "KHẢI",
+   "D": "Biểu tượng khai sáng (phồn thể), thông điệp về giáo dục"
+ },
+ {
+   "A": "谦",
+   "B": "Qiān",
+   "C": "KHIÊM",
+   "D": "Biểu tượng khiêm tốn, thông điệp về đức tính tốt"
+ },
+ {
+   "A": "钱",
+   "B": "Qián",
+   "C": "TIỀN",
+   "D": "Biểu tượng tiền bạc, thông điệp về sự giàu có"
+ },
+ {
+   "A": "羌",
+   "B": "Qiāng",
+   "C": "KHƯƠNG",
+   "D": "Biểu tượng dân tộc Khương, thông điệp về sức mạnh"
+ },
+ {
+   "A": "強",
+   "B": "Qiáng",
+   "C": "CƯỜNG",
+   "D": "Biểu tượng mạnh mẽ (phồn thể), thông điệp về sức mạnh"
+ },
+ {
+   "A": "强",
+   "B": "Qiáng",
+   "C": "CỬ",
+   "D": "Biểu tượng cường tráng, thông điệp về nghị lực"
+ },
+ {
+   "A": "强",
+   "B": "Qiǎng",
+   "C": "CƯỜNG",
+   "D": "Biểu tượng cố gắng, thông điệp về sự nỗ lực"
+ },
+ {
+   "A": "乔",
+   "B": "Qiáo",
+   "C": "KIỀU",
+   "D": "Biểu tượng cao ráo, thông điệp về sự thanh cao"
+ },
+ {
+   "A": "桥",
+   "B": "Qiáo",
+   "C": "KIỀU",
+   "D": "Biểu tượng cây cầu, thông điệp về kết nối"
+ },
+ {
+   "A": "翘",
+   "B": "Qiáo",
+   "C": "KIỀU",
+   "D": "Biểu tượng nổi bật, thông điệp về sự xuất chúng"
+ },
+ {
+   "A": "钦",
+   "B": "Qīn",
+   "C": "KHÂM",
+   "D": "Biểu tượng kính trọng, thông điệp về sự tôn sùng"
+ },
+ {
+   "A": "秦",
+   "B": "Qín",
+   "C": "TẦN",
+   "D": "Biểu tượng nhà Tần, thông điệp về lịch sử"
+ },
+ {
+   "A": "琴",
+   "B": "Qín",
+   "C": "CẦM",
+   "D": "Biểu tượng đàn hạc, thông điệp về nghệ thuật"
+ },
+ {
+   "A": "青",
+   "B": "Qīng",
+   "C": "THANH",
+   "D": "Biểu tượng màu xanh, thông điệp về tuổi trẻ"
+ },
+ {
+   "A": "卿",
+   "B": "Qīng",
+   "C": "KHANH",
+   "D": "Biểu tượng quan lại, thông điệp về địa vị"
+ },
+ {
+   "A": "清",
+   "B": "Qīng",
+   "C": "THANH",
+   "D": "Biểu tượng trong sạch, thông điệp về sự thanh khiết"
+ },
+ {
+   "A": "菡",
+   "B": "Hàn",
+   "C": "HẠM",
+   "D": "Biểu tượng hoa sen, thông điệp về vẻ đẹp thuần khiết"
+ },
+ {
+   "A": "情",
+   "B": "Qíng",
+   "C": "TÌNH",
+   "D": "Biểu tượng tình cảm, thông điệp về yêu thương"
+ },
+ {
+   "A": "晴",
+   "B": "Qíng",
+   "C": "TÌNH",
+   "D": "Biểu tượng nắng đẹp, thông điệp về hy vọng"
+ },
+ {
+   "A": "庆",
+   "B": "Qìng",
+   "C": "KHÁNH",
+   "D": "Biểu tượng chúc mừng, thông điệp về niềm vui"
+ },
+ {
+   "A": "琼",
+   "B": "Qióng",
+   "C": "QUỲNH",
+   "D": "Biểu tượng ngọc đẹp, thông điệp về sự quý giá"
+ },
+ {
+   "A": "丘",
+   "B": "Qiū",
+   "C": "KHƯU",
+   "D": "Biểu tượng gò đất, thông điệp về sự khiêm tốn"
+ },
+ {
+   "A": "邱",
+   "B": "Qiū",
+   "C": "KHƯU",
+   "D": "Biểu tượng họ Khâu, thông điệp về đồi núi"
+ },
+ {
+   "A": "邱",
+   "B": "Qiū",
+   "C": "KHÂU",
+   "D": "Biểu tượng khu đất, thông điệp về sự ổn định"
+ },
+ {
+   "A": "秋",
+   "B": "Qiū",
+   "C": "THU",
+   "D": "Biểu tượng mùa thu, thông điệp về sự chín muồi"
+ },
+ {
+   "A": "萩",
+   "B": "Qiū",
+   "C": "THO",
+   "D": "Biểu tượng cây ngải, thông điệp về sức sống"
+ },
+ {
+   "A": "球",
+   "B": "Qiú",
+   "C": "CẦU",
+   "D": "Biểu tượng quả cầu, thông điệp về sự hoàn hảo"
+ },
+ {
+   "A": "裘",
+   "B": "Qiú",
+   "C": "CẦU",
+   "D": "Biểu tượng áo lông, thông điệp về sự ấm áp"
+ },
+ {
+   "A": "区",
+   "B": "Qū",
+   "C": "ÂU",
+   "D": "Biểu tượng khu vực, thông điệp về sự phân định rõ ràng"
+ },
+ {
+   "A": "屈",
+   "B": "Qū",
+   "C": "KHUẤT",
+   "D": "Biểu tượng họ Khuất, thông điệp về sự kiên cường"
+ },
+ {
+   "A": "瞿",
+   "B": "Qú",
+   "C": "CÙ",
+   "D": "Biểu tượng họ Cù, thông điệp về sự tỉnh táo"
+ },
+ {
+   "A": "曲",
+   "B": "Qū",
+   "C": "KHÚC",
+   "D": "Biểu tượng uốn lượn, thông điệp về sự linh hoạt"
+ },
+ {
+   "A": "圈",
+   "B": "Quān",
+   "C": "KHUYÊN",
+   "D": "Biểu tượng vòng tròn, thông điệp về sự bao bọc"
+ },
+ {
+   "A": "权",
+   "B": "Quán",
+   "C": "QUYỀN",
+   "D": "Biểu tượng quyền lực, thông điệp về sự ảnh hưởng"
+ },
+ {
+   "A": "全",
+   "B": "Quán",
+   "C": "TOÀN",
+   "D": "Biểu tượng toàn vẹn, thông điệp về sự hoàn hảo"
+ },
+ {
+   "A": "泉",
+   "B": "Quán",
+   "C": "TUYỀN",
+   "D": "Biểu tượng suối nước, thông điệp về nguồn sống"
+ },
+ {
+   "A": "拳",
+   "B": "Quán",
+   "C": "QUYỀN",
+   "D": "Biểu tượng nắm tay, thông điệp về sức mạnh"
+ },
+ {
+   "A": "惓",
+   "B": "Quán",
+   "C": "QUYỀN",
+   "D": "Biểu tượng chăm chỉ, thông điệp về sự tận tâm"
+ },
+ {
+   "A": "劝",
+   "B": "Quàn",
+   "C": "KHUYẾN",
+   "D": "Biểu tượng khuyên bảo, thông điệp về sự hướng thiện"
+ },
+ {
+   "A": "阙",
+   "B": "Què",
+   "C": "KHUYẾT",
+   "D": "Biểu tượng cổng thành, thông điệp về sự uy nghiêm"
+ },
+ {
+   "A": "然",
+   "B": "Rán",
+   "C": "NHIÊN",
+   "D": "Biểu tượng tự nhiên, thông điệp về sự thuận theo"
+ },
+ {
+   "A": "冉",
+   "B": "Rǎn",
+   "C": "NHIỄM",
+   "D": "Biểu tượng họ Nhiễm, thông điệp về sự tiến triển"
+ },
+ {
+   "A": "饶",
+   "B": "Ráo",
+   "C": "NHIÊU",
+   "D": "Biểu tượng họ Nhiêu, thông điệp về sự phong phú"
+ },
+ {
+   "A": "人",
+   "B": "Rén",
+   "C": "NHÂN",
+   "D": "Biểu tượng con người, thông điệp về nhân văn"
+ },
+ {
+   "A": "仁",
+   "B": "Rén",
+   "C": "NHÂN",
+   "D": "Biểu tượng nhân ái, thông điệp về đạo đức"
+ },
+ {
+   "A": "任",
+   "B": "Rèn",
+   "C": "NHẬM",
+   "D": "Biểu tượng trách nhiệm, thông điệp về sự đảm đương"
+ },
+ {
+   "A": "任",
+   "B": "Rén",
+   "C": "NHIỆM",
+   "D": "Biểu tượng họ Nhậm, thông điệp về sự tin cậy"
+ },
+ {
+   "A": "任",
+   "B": "Rèn",
+   "C": "NHÂM",
+   "D": "Biểu tượng bổ nhiệm, thông điệp về quyền hạn"
+ },
+ {
+   "A": "戎",
+   "B": "Róng",
+   "C": "NHUNG",
+   "D": "Biểu tượng binh nghiệp, thông điệp về tinh thần chiến đấu"
+ },
+ {
+   "A": "荣",
+   "B": "Róng",
+   "C": "VINH",
+   "D": "Biểu tượng vinh quang, thông điệp về thành tựu"
+ },
+ {
+   "A": "绒",
+   "B": "Róng",
+   "C": "NHUNG",
+   "D": "Biểu tượng nhung lụa, thông điệp về sự mềm mại"
+ },
+ {
+   "A": "容",
+   "B": "Róng",
+   "C": "DUNG",
+   "D": "Biểu tượng dung nạp, thông điệp về lòng bao dung"
+ },
+ {
+   "A": "蓉",
+   "B": "Róng",
+   "C": "DUNG",
+   "D": "Biểu tượng hoa sen, thông điệp về vẻ đẹp thanh khiết"
+ },
+ {
+   "A": "融",
+   "B": "Róng",
+   "C": "DUNG",
+   "D": "Biểu tượng hòa nhập, thông điệp về sự hài hòa"
+ },
+ {
+   "A": "柔",
+   "B": "Róu",
+   "C": "DỊU",
+   "D": "Biểu tượng dịu dàng, thông điệp về sự mềm mỏng"
+ },
+ {
+   "A": "柔",
+   "B": "Róu",
+   "C": "NHU",
+   "D": "Biểu tượng uyển chuyển, thông điệp về sự linh hoạt"
+ },
+ {
+   "A": "如",
+   "B": "Rú",
+   "C": "NHƯ",
+   "D": "Biểu tượng như ý, thông điệp về sự toại nguyện"
+ },
+ {
+   "A": "茹",
+   "B": "Rú",
+   "C": "NHƯ",
+   "D": "Biểu tượng ăn uống, thông điệp về sự nuôi dưỡng"
+ },
+ {
+   "A": "阮",
+   "B": "Ruǎn",
+   "C": "NGUYỄN",
+   "D": "Biểu tượng họ Nguyễn, thông điệp về nguồn gốc"
+ },
+ {
+   "A": "芮",
+   "B": "Ruì",
+   "C": "NHUẾ",
+   "D": "Biểu tượng nhỏ bé, thông điệp về sự tinh tế"
+ },
+ {
+   "A": "瑞",
+   "B": "Ruì",
+   "C": "THỤY",
+   "D": "Biểu tượng điềm lành, thông điệp về may mắn"
+ },
+ {
+   "A": "若",
+   "B": "Ruò",
+   "C": "NHƯỢC",
+   "D": "Biểu tượng như thể, thông điệp về sự thanh tao"
+ },
+ {
+   "A": "桑",
+   "B": "Sāng",
+   "C": "TANG",
+   "D": "Biểu tượng cây dâu, thông điệp về sự chăm chỉ"
+ },
+ {
+   "A": "森",
+   "B": "Sēn",
+   "C": "SÂM",
+   "D": "Biểu tượng rừng rậm, thông điệp về sức sống"
+ },
+ {
+   "A": "沙",
+   "B": "Shā",
+   "C": "SA",
+   "D": "Biểu tượng cát, thông điệp về sự kiên nhẫn"
+ },
+ {
+   "A": "吒",
+   "B": "Zhà",
+   "C": "TRA",
+   "D": "Biểu tượng quát tháo, thông điệp về uy lực"
+ },
+ {
+   "A": "山",
+   "B": "Shān",
+   "C": "SƠN",
+   "D": "Biểu tượng núi, thông điệp về sự vững chãi"
+ },
+ {
+   "A": "嘇",
+   "B": "Shān",
+   "C": "THẮM",
+   "D": "Biểu tượng âm thanh, thông điệp về sự lan tỏa"
+ },
+ {
+   "A": "善",
+   "B": "Shàn",
+   "C": "THIỆN",
+   "D": "Biểu tượng thiện lương, thông điệp về điều tốt"
+ },
+ {
+   "A": "商",
+   "B": "Shāng",
+   "C": "THƯƠNG",
+   "D": "Biểu tượng thương mại, thông điệp về sự phát triển"
+ },
+ {
+   "A": "上",
+   "B": "Shàng",
+   "C": "THƯỢNG",
+   "D": "Biểu tượng phía trên, thông điệp về sự vượt trội"
+ },
+ {
+   "A": "官",
+   "B": "Guān",
+   "C": "QUAN",
+   "D": "Biểu tượng quan chức, thông điệp về địa vị"
+ },
+ {
+   "A": "尚",
+   "B": "Shàng",
+   "C": "THƯỢNG",
+   "D": "Biểu tượng cao quý, thông điệp về sự tôn trọng"
+ },
+ {
+   "A": "韶",
+   "B": "Sháo",
+   "C": "THIỀU",
+   "D": "Biểu tượng âm nhạc, thông điệp về nghệ thuật"
+ },
+ {
+   "A": "卲",
+   "B": "Shào",
+   "C": "THIỆU",
+   "D": "Biểu tượng cao quý, thông điệp về phẩm giá"
+ },
+ {
+   "A": "邵",
+   "B": "Shào",
+   "C": "THIỆU",
+   "D": "Biểu tượng họ Thiệu, thông điệp về truyền thống"
+ },
+ {
+   "A": "劭",
+   "B": "Shào",
+   "C": "THIỆU",
+   "D": "Biểu tượng khuyến khích, thông điệp về sự cổ vũ"
+ },
+ {
+   "A": "绍",
+   "B": "Shào",
+   "C": "THIỆU",
+   "D": "Biểu tượng kế thừa, thông điệp về sự tiếp nối"
+ },
+ {
+   "A": "佘",
+   "B": "Shé",
+   "C": "XÀ",
+   "D": "Biểu tượng họ Xà, thông điệp về sự độc đáo"
+ },
+ {
+   "A": "莘",
+   "B": "Shēn",
+   "C": "TÂN",
+   "D": "Biểu tượng nhiều, thông điệp về sự phong phú"
+ },
+ {
+   "A": "深",
+   "B": "Shēn",
+   "C": "THẮM",
+   "D": "Biểu tượng sâu sắc, thông điệp về trí tuệ"
+ },
+ {
+   "A": "神",
+   "B": "Shén",
+   "C": "THẦN",
+   "D": "Biểu tượng thần linh, thông điệp về sự thiêng liêng"
+ },
+ {
+   "A": "沈",
+   "B": "Shěn",
+   "C": "THẨM",
+   "D": "Biểu tượng họ Thẩm, thông điệp về sự trầm lắng"
+ },
+ {
+   "A": "審",
+   "B": "Shěn",
+   "C": "SẨM",
+   "D": "Biểu tượng xem xét, thông điệp về sự thận trọng"
+ },
+ {
+   "A": "慎",
+   "B": "Shèn",
+   "C": "THẬN",
+   "D": "Biểu tượng cẩn trọng, thông điệp về sự chu đáo"
+ },
+ {
+   "A": "胜",
+   "B": "Shèng",
+   "C": "THẮNG",
+   "D": "Biểu tượng chiến thắng, thông điệp về thành công"
+ },
+ {
+   "A": "晟",
+   "B": "Shèng",
+   "C": "THỊNH",
+   "D": "Biểu tượng ánh sáng, thông điệp về tương lai tươi sáng"
+ },
+ {
+   "A": "楠",
+   "B": "Nán",
+   "C": "NAM",
+   "D": "Biểu tượng cây nam, thông điệp về sự cao quý"
+ },
+ {
+   "A": "盛",
+   "B": "Shèng",
+   "C": "THẠNH",
+   "D": "Biểu tượng hưng thịnh, thông điệp về sự phồn vinh"
+ },
+ {
+   "A": "盛",
+   "B": "Chéng",
+   "C": "THỊNH",
+   "D": "Biểu tượng chứa đựng, thông điệp về sự bao dung"
+ },
+ {
+   "A": "师",
+   "B": "Shī",
+   "C": "SƯ",
+   "D": "Biểu tượng người thầy, thông điệp về tri thức"
+ },
+ {
+   "A": "诗",
+   "B": "Shī",
+   "C": "THI",
+   "D": "Biểu tượng thơ ca, thông điệp về nghệ thuật"
+ },
+ {
+   "A": "诗",
+   "B": "Shī",
+   "C": "THƠ",
+   "D": "Biểu tượng văn chương, thông điệp về sự lãng mạn"
+ },
+ {
+   "A": "诗",
+   "B": "Shī",
+   "C": "THY",
+   "D": "Biểu tượng thi phú, thông điệp về cảm xúc"
+ },
+ {
+   "A": "茵",
+   "B": "Yīn",
+   "C": "NHÂN",
+   "D": "Biểu tượng thảm cỏ, thông điệp về sự tươi mát"
+ },
+ {
+   "A": "施",
+   "B": "Shī",
+   "C": "THI",
+   "D": "Biểu tượng họ Thi, thông điệp về sự ban phát"
+ },
+ {
+   "A": "石",
+   "B": "Shí",
+   "C": "THẠCH",
+   "D": "Biểu tượng đá, thông điệp về sự bền vững"
+ },
+ {
+   "A": "时",
+   "B": "Shí",
+   "C": "THỜI",
+   "D": "Biểu tượng thời gian, thông điệp về sự đúng lúc"
+ },
+ {
+   "A": "史",
+   "B": "Shǐ",
+   "C": "SỬ",
+   "D": "Biểu tượng lịch sử, thông điệp về truyền thống"
+ },
+ {
+   "A": "氏",
+   "B": "Shì",
+   "C": "THỊ",
+   "D": "Biểu tượng họ, thông điệp về gia tộc"
+ },
+ {
+   "A": "世",
+   "B": "Shì",
+   "C": "THẾ",
+   "D": "Biểu tượng thế giới, thông điệp về sự vĩnh cửu"
+ },
+ {
+   "A": "寿",
+   "B": "Shòu",
+   "C": "THỌ",
+   "D": "Biểu tượng trường thọ, thông điệp về sức khỏe"
+ },
+ {
+   "A": "殳",
+   "B": "Shū",
+   "C": "THÙ",
+   "D": "Biểu tượng vũ khí, thông điệp về sự bảo vệ"
+ },
+ {
+   "A": "书",
+   "B": "Shū",
+   "C": "THƯ",
+   "D": "Biểu tượng sách, thông điệp về tri thức"
+ },
+ {
+   "A": "淑",
+   "B": "Shū",
+   "C": "THỤC",
+   "D": "Biểu tượng hiền thục, thông điệp về đức hạnh"
+ },
+ {
+   "A": "舒",
+   "B": "Shū",
+   "C": "THƯ",
+   "D": "Biểu tượng thoải mái, thông điệp về sự nhẹ nhàng"
+ },
+ {
+   "A": "熟",
+   "B": "Shú",
+   "C": "THỤC",
+   "D": "Biểu tượng thuần thục, thông điệp về sự thành thạo"
+ },
+ {
+   "A": "署",
+   "B": "Shǔ",
+   "C": "THÙY",
+   "D": "Biểu tượng cơ quan, thông điệp về tổ chức"
+ },
+ {
+   "A": "束",
+   "B": "Shù",
+   "C": "THÚC",
+   "D": "Biểu tượng bó buộc, thông điệp về kỷ luật"
+ },
+ {
+   "A": "双",
+   "B": "Shuāng",
+   "C": "SONG",
+   "D": "Biểu tượng đôi, thông điệp về sự hài hòa"
+ },
+ {
+   "A": "霜",
+   "B": "Shuāng",
+   "C": "SƯƠNG",
+   "D": "Biểu tượng sương giá, thông điệp về sự trong trắng"
+ },
+ {
+   "A": "水",
+   "B": "Shuǐ",
+   "C": "THỦY",
+   "D": "Biểu tượng nước, thông điệp về sự linh hoạt"
+ },
+ {
+   "A": "顺",
+   "B": "Shùn",
+   "C": "THUẬN",
+   "D": "Biểu tượng thuận lợi, thông điệp về sự suôn sẻ"
+ },
+ {
+   "A": "司",
+   "B": "Sī",
+   "C": "TƯ",
+   "D": "Biểu tượng quản lý, thông điệp về trách nhiệm"
+ },
+ {
+   "A": "徒",
+   "B": "Tú",
+   "C": "ĐỒ",
+   "D": "Biểu tượng môn đồ, thông điệp về sự học hỏi"
+ },
+ {
+   "A": "私",
+   "B": "Sī",
+   "C": "TƯ",
+   "D": "Biểu tượng riêng tư, thông điệp về không gian cá nhân"
+ },
+ {
+   "A": "思",
+   "B": "Sī",
+   "C": "TƯ",
+   "D": "Biểu tượng suy nghĩ, thông điệp về trí tuệ"
+ },
+ {
+   "A": "睿",
+   "B": "Ruì",
+   "C": "DUỆ",
+   "D": "Biểu tượng sáng suốt, thông điệp về sự thông thái"
+ },
+ {
+   "A": "暇",
+   "B": "Xiá",
+   "C": "HẠ",
+   "D": "Biểu tượng nhàn rỗi, thông điệp về sự thư thái"
+ },
+ {
+   "A": "追",
+   "B": "Zhuī",
+   "C": "TRUY",
+   "D": "Biểu tượng theo đuổi, thông điệp về mục tiêu"
+ },
+ {
+   "A": "松",
+   "B": "Sōng",
+   "C": "TÙNG",
+   "D": "Biểu tượng cây tùng, thông điệp về sự kiên cường"
+ },
+ {
+   "A": "宋",
+   "B": "Sòng",
+   "C": "TỐNG",
+   "D": "Biểu tượng nhà Tống, thông điệp về văn hóa"
+ },
+ {
+   "A": "苏",
+   "B": "Sū",
+   "C": "TÔ",
+   "D": "Biểu tượng họ Tô, thông điệp về sự hồi sinh"
+ },
+ {
+   "A": "蘇",
+   "B": "Sū",
+   "C": "TÔ",
+   "D": "Biểu tượng tỉnh Giang Tô, thông điệp về sự phồn thịnh"
+ },
+ {
+   "A": "穗",
+   "B": "Suì",
+   "C": "TUỆ",
+   "D": "Biểu tượng bông lúa, thông điệp về sự no ấm"
+ },
+ {
+   "A": "孙",
+   "B": "Sūn",
+   "C": "TÔN",
+   "D": "Biểu tượng họ Tôn, thông điệp về thế hệ sau"
+ },
+ {
+   "A": "所",
+   "B": "Suǒ",
+   "C": "SỞ",
+   "D": "Biểu tượng nơi chốn, thông điệp về sự thuộc về"
+ },
+ {
+   "A": "逍",
+   "B": "Xiāo",
+   "C": "TIÊU",
+   "D": "Biểu tượng thong dong, thông điệp về sự tự tại"
+ },
+ {
+   "A": "索",
+   "B": "Suǒ",
+   "C": "SÁCH",
+   "D": "Biểu tượng tìm kiếm, thông điệp về sự khám phá"
+ },
+ {
+   "A": "邰",
+   "B": "Tái",
+   "C": "THAI",
+   "D": "Biểu tượng họ Thai, thông điệp về nguồn gốc"
+ },
+ {
+   "A": "太",
+   "B": "Tài",
+   "C": "THÁI",
+   "D": "Biểu tượng thái cực, thông điệp về sự cân bằng"
+ },
+ {
+   "A": "叔",
+   "B": "Shū",
+   "C": "THÚC",
+   "D": "Biểu tượng chú (em trai cha), thông điệp về gia đình"
+ },
+ {
+   "A": "泰",
+   "B": "Tài",
+   "C": "THÁI",
+   "D": "Biểu tượng thái bình, thông điệp về sự an lành"
+ },
+ {
+   "A": "谈",
+   "B": "Tán",
+   "C": "ĐÀM",
+   "D": "Biểu tượng đàm luận, thông điệp về giao tiếp"
+ },
+ {
+   "A": "谭",
+   "B": "Tán",
+   "C": "ĐÀM",
+   "D": "Biểu tượng họ Đàm, thông điệp về sự sâu sắc"
+ },
+ {
+   "A": "潭",
+   "B": "Tán",
+   "C": "THẮM",
+   "D": "Biểu tượng ao sâu, thông điệp về chiều sâu nội tâm"
+ },
+ {
+   "A": "探",
+   "B": "Tàn",
+   "C": "THÁM",
+   "D": "Biểu tượng thăm dò, thông điệp về sự tìm tòi"
+ },
+ {
+   "A": "汤",
+   "B": "Tāng",
+   "C": "THANG",
+   "D": "Biểu tượng canh, thông điệp về sự ấm áp"
+ },
+ {
+   "A": "唐",
+   "B": "Táng",
+   "C": "ĐƯỜNG",
+   "D": "Biểu tượng nhà Đường, thông điệp về sự huy hoàng"
+ },
+ {
+   "A": "洮",
+   "B": "Táo",
+   "C": "THAO",
+   "D": "Biểu tượng dòng sông, thông điệp về sự lưu chuyển"
+ },
+ {
+   "A": "桃",
+   "B": "Táo",
+   "C": "ĐÀO",
+   "D": "Biểu tượng hoa đào, thông điệp về sự trường thọ"
+ },
+ {
+   "A": "陶",
+   "B": "Táo",
+   "C": "ĐÀO",
+   "D": "Biểu tượng gốm sứ, thông điệp về nghệ thuật"
+ },
+ {
+   "A": "滕",
+   "B": "Téng",
+   "C": "ĐẰNG",
+   "D": "Biểu tượng họ Đằng, thông điệp về sự phát triển"
+ },
+ {
+   "A": "天",
+   "B": "Tiān",
+   "C": "THIÊN",
+   "D": "Biểu tượng thiên nhiên, thông điệp về sự cao cả"
+ },
+ {
+   "A": "添",
+   "B": "Tiān",
+   "C": "THIÊM",
+   "D": "Biểu tượng thêm vào, thông điệp về sự phong phú"
+ },
+ {
+   "A": "田",
+   "B": "Tián",
+   "C": "ĐIỀN",
+   "D": "Biểu tượng ruộng đồng, thông điệp về sự chăm chỉ"
+ },
+ {
+   "A": "恬",
+   "B": "Tián",
+   "C": "ĐIỀM",
+   "D": "Biểu tượng yên tĩnh, thông điệp về sự bình an"
+ },
+ {
+   "A": "条",
+   "B": "Tiáo",
+   "C": "ĐIỀU",
+   "D": "Biểu tượng điều khoản, thông điệp về sự rõ ràng"
+ },
+ {
+   "A": "廷",
+   "B": "Tíng",
+   "C": "ĐÌNH",
+   "D": "Biểu tượng triều đình, thông điệp về quyền lực"
+ },
+ {
+   "A": "亭",
+   "B": "Tíng",
+   "C": "ĐÌNH",
+   "D": "Biểu tượng gian nhỏ, thông điệp về sự nghỉ ngơi"
+ },
+ {
+   "A": "庭",
+   "B": "Tíng",
+   "C": "ĐÌNH",
+   "D": "Biểu tượng sân nhà, thông điệp về gia đình"
+ },
+ {
+   "A": "停",
+   "B": "Tíng",
+   "C": "ĐÌNH",
+   "D": "Biểu tượng dừng lại, thông điệp về sự cân nhắc"
+ },
+ {
+   "A": "通",
+   "B": "Tōng",
+   "C": "THÔNG",
+   "D": "Biểu tượng thông suốt, thông điệp về sự am hiểu"
+ },
+ {
+   "A": "仝",
+   "B": "Tóng",
+   "C": "ĐỒNG",
+   "D": "Biểu tượng đồng nhất, thông điệp về sự thống nhất"
+ },
+ {
+   "A": "同",
+   "B": "Tóng",
+   "C": "ĐỒNG",
+   "D": "Biểu tượng giống nhau, thông điệp về sự hòa hợp"
+ },
+ {
+   "A": "童",
+   "B": "Tóng",
+   "C": "ĐỒNG",
+   "D": "Biểu tượng trẻ em, thông điệp về sự ngây thơ"
+ },
+ {
+   "A": "屠",
+   "B": "Tú",
+   "C": "ĐỒ",
+   "D": "Biểu tượng giết mổ, thông điệp về sự quyết đoán"
+ },
+ {
+   "A": "土",
+   "B": "Tǔ",
+   "C": "THỔ",
+   "D": "Biểu tượng đất, thông điệp về sự bền vững"
+ },
+ {
+   "A": "团",
+   "B": "Tuán",
+   "C": "ĐOÀN",
+   "D": "Biểu tượng đoàn thể, thông điệp về sự đoàn kết"
+ },
+ {
+   "A": "拓",
+   "B": "Tuò",
+   "C": "THÁC",
+   "D": "Biểu tượng mở rộng, thông điệp về sự phát triển"
+ },
+ {
+   "A": "跋",
+   "B": "Bá",
+   "C": "BẠT",
+   "D": "Biểu tượng lời bạt, thông điệp về sự bổ sung"
+ },
+ {
+   "A": "湾",
+   "B": "Wān",
+   "C": "LOAN",
+   "D": "Biểu tượng vịnh biển, thông điệp về sự bao bọc"
+ },
+ {
+   "A": "完",
+   "B": "Wán",
+   "C": "HOÀN",
+   "D": "Biểu tượng hoàn thành, thông điệp về sự trọn vẹn"
+ },
+ {
+   "A": "婉",
+   "B": "Wǎn",
+   "C": "UYỂN",
+   "D": "Biểu tượng dịu dàng, thông điệp về vẻ đẹp nữ tính"
+ },
+ {
+   "A": "婷",
+   "B": "Tíng",
+   "C": "ĐÌNH",
+   "D": "Biểu tượng xinh đẹp, thông điệp về sự duyên dáng"
+ },
+ {
+   "A": "瞳",
+   "B": "Tóng",
+   "C": "ĐỒNG",
+   "D": "Biểu tượng đồng tử, thông điệp về tầm nhìn"
+ },
+ {
+   "A": "玗",
+   "B": "Yú",
+   "C": "DƯ",
+   "D": "Biểu tượng ngọc đẹp, thông điệp về sự quý giá"
+ },
+ {
+   "A": "万",
+   "B": "Wàn",
+   "C": "VẠN",
+   "D": "Biểu tượng vạn vật, thông điệp về sự phong phú"
+ },
+ {
+   "A": "俟",
+   "B": "Sì",
+   "C": "SĨ",
+   "D": "Biểu tượng chờ đợi, thông điệp về sự kiên nhẫn"
+ },
+ {
+   "A": "汪",
+   "B": "Wāng",
+   "C": "UÔNG",
+   "D": "Biểu tượng họ Uông, thông điệp về sự rộng lớn"
+ },
+ {
+   "A": "王",
+   "B": "Wáng",
+   "C": "VƯƠNG",
+   "D": "Biểu tượng vua, thông điệp về quyền lực"
+ },
+ {
+   "A": "忘",
+   "B": "Wàng",
+   "C": "VONG",
+   "D": "Biểu tượng quên đi, thông điệp về sự buông bỏ"
+ },
+ {
+   "A": "机",
+   "B": "Jī",
+   "C": "CƠ",
+   "D": "Biểu tượng cơ hội, thông điệp về sự nắm bắt"
+ },
+ {
+   "A": "旺",
+   "B": "Wàng",
+   "C": "VƯỢNG",
+   "D": "Biểu tượng thịnh vượng, thông điệp về sự phát đạt"
+ },
+ {
+   "A": "危",
+   "B": "Wēi",
+   "C": "NGUY",
+   "D": "Biểu tượng nguy hiểm, thông điệp về sự cảnh giác"
+ },
+ {
+   "A": "微",
+   "B": "Wēi",
+   "C": "VI",
+   "D": "Biểu tượng vi mô, thông điệp về sự tinh tế"
+ },
+ {
+   "A": "微",
+   "B": "Wēi",
+   "C": "VY",
+   "D": "Biểu tượng nhỏ bé, thông điệp về sự khiêm tốn"
+ },
+ {
+   "A": "韦",
+   "B": "Wéi",
+   "C": "VI",
+   "D": "Biểu tượng họ Vi, thông điệp về sự bền bỉ"
+ },
+ {
+   "A": "韦",
+   "B": "Wéi",
+   "C": "VY",
+   "D": "Biểu tượng da thuộc, thông điệp về sự dẻo dai"
+ },
+ {
+   "A": "韋",
+   "B": "Wéi",
+   "C": "VI",
+   "D": "Biểu tượng họ Vi (phồn thể), thông điệp về truyền thống"
+ },
+ {
+   "A": "惟",
+   "B": "Wéi",
+   "C": "DUY",
+   "D": "Biểu tượng duy nhất, thông điệp về sự tập trung"
+ },
+ {
+   "A": "维",
+   "B": "Wéi",
+   "C": "DUY",
+   "D": "Biểu tượng duy trì, thông điệp về sự bảo tồn"
+ },
+ {
+   "A": "嵬",
+   "B": "Wéi",
+   "C": "NGÔI",
+   "D": "Biểu tượng núi cao, thông điệp về chí khí"
+ },
+ {
+   "A": "伟",
+   "B": "Wěi",
+   "C": "VĨ",
+   "D": "Biểu tượng vĩ đại, thông điệp về sự phi thường"
+ },
+ {
+   "A": "伟",
+   "B": "Wěi",
+   "C": "VỸ",
+   "D": "Biểu tượng to lớn, thông điệp về tầm vóc"
+ },
+ {
+   "A": "祺",
+   "B": "Qí",
+   "C": "KỲ",
+   "D": "Biểu tượng may mắn, thông điệp về phúc lành"
+ },
+ {
+   "A": "尾",
+   "B": "Wěi",
+   "C": "VĨ",
+   "D": "Biểu tượng đuôi, thông điệp về sự kết thúc"
+ },
+ {
+   "A": "尾",
+   "B": "Wěi",
+   "C": "VỸ",
+   "D": "Biểu tượng phần cuối, thông điệp về sự hoàn thiện"
+ },
+ {
+   "A": "玮",
+   "B": "Wěi",
+   "C": "VĨ",
+   "D": "Biểu tượng ngọc quý, thông điệp về giá trị"
+ },
+ {
+   "A": "玮",
+   "B": "Wěi",
+   "C": "VỸ",
+   "D": "Biểu tượng châu báu, thông điệp về sự trân quý"
+ },
+ {
+   "A": "隗",
+   "B": "Wěi",
+   "C": "NGỖI",
+   "D": "Biểu tượng họ Ngỗi, thông điệp về sự cao lớn"
+ },
+ {
+   "A": "暐",
+   "B": "Wěi",
+   "C": "VĨ",
+   "D": "Biểu tượng ánh sáng, thông điệp về sự rực rỡ"
+ },
+ {
+   "A": "暐",
+   "B": "Wěi",
+   "C": "VỸ",
+   "D": "Biểu tượng hào quang, thông điệp về vinh quang"
+ },
+ {
+   "A": "尉",
+   "B": "Wèi",
+   "C": "Úy",
+   "D": "Biểu tượng quân hàm, thông điệp về cấp bậc"
+ },
+ {
+   "A": "尉",
+   "B": "Yù",
+   "C": "UẤT",
+   "D": "Biểu tượng họ Uý, thông điệp về sự bảo vệ"
+ },
+ {
+   "A": "迟",
+   "B": "Chí",
+   "C": "TRÌ",
+   "D": "Biểu tượng chậm trễ, thông điệp về sự kiên nhẫn"
+ },
+ {
+   "A": "魏",
+   "B": "Wèi",
+   "C": "NGỤY",
+   "D": "Biểu tượng nhà Ngụy, thông điệp về lịch sử"
+ },
+ {
+   "A": "温",
+   "B": "Wēn",
+   "C": "ÔN",
+   "D": "Biểu tượng ấm áp, thông điệp về sự dịu dàng"
+ },
+ {
+   "A": "文",
+   "B": "Wén",
+   "C": "VĂN",
+   "D": "Biểu tượng văn chương, thông điệp về tri thức"
+ },
+ {
+   "A": "闻",
+   "B": "Wén",
+   "C": "VĂN",
+   "D": "Biểu tượng nghe thấy, thông điệp về sự thấu hiểu"
+ },
+ {
+   "A": "问",
+   "B": "Wèn",
+   "C": "VẤN",
+   "D": "Biểu tượng hỏi han, thông điệp về sự tìm tòi"
+ },
+ {
+   "A": "翁",
+   "B": "Wēng",
+   "C": "ÔNG",
+   "D": "Biểu tượng ông lão, thông điệp về sự kính trọng"
+ },
+ {
+   "A": "沃",
+   "B": "Wò",
+   "C": "ỐC",
+   "D": "Biểu tượng màu mỡ, thông điệp về sự phì nhiêu"
+ },
+ {
+   "A": "乌",
+   "B": "Wū",
+   "C": "Ô",
+   "D": "Biểu tượng màu đen, thông điệp về sự huyền bí"
+ },
+ {
+   "A": "巫",
+   "B": "Wū",
+   "C": "VU",
+   "D": "Biểu tượng phù thủy, thông điệp về ma thuật"
+ },
+ {
+   "A": "芜",
+   "B": "Wú",
+   "C": "VU",
+   "D": "Biểu tượng hoang dã, thông điệp về sự tự nhiên"
+ },
+ {
+   "A": "吴",
+   "B": "Wú",
+   "C": "NGÔ",
+   "D": "Biểu tượng họ Ngô, thông điệp về nguồn gốc"
+ },
+ {
+   "A": "吳",
+   "B": "Wú",
+   "C": "NGÔ",
+   "D": "Biểu tượng nước Ngô (phồn thể), thông điệp về lịch sử"
+ },
+ {
+   "A": "伍",
+   "B": "Wǔ",
+   "C": "NGŨ",
+   "D": "Biểu tượng họ Ngũ, thông điệp về sự đoàn kết"
+ },
+ {
+   "A": "武",
+   "B": "Wǔ",
+   "C": "VÕ",
+   "D": "Biểu tượng võ thuật, thông điệp về sức mạnh"
+ },
+ {
+   "A": "武",
+   "B": "Wǔ",
+   "C": "VŨ",
+   "D": "Biểu tượng quân sự, thông điệp về tinh thần chiến đấu"
+ },
+ {
+   "A": "舞",
+   "B": "Wǔ",
+   "C": "VŨ",
+   "D": "Biểu tượng múa, thông điệp về nghệ thuật"
+ },
+ {
+   "A": "悟",
+   "B": "Wù",
+   "C": "NGỘ",
+   "D": "Biểu tượng giác ngộ, thông điệp về sự hiểu biết"
+ },
+ {
+   "A": "郗",
+   "B": "Xī",
+   "C": "HI",
+   "D": "Biểu tượng họ Xi, thông điệp về sự hiếm có"
+ },
+ {
+   "A": "奚",
+   "B": "Xī",
+   "C": "HỀ",
+   "D": "Biểu tượng họ Hề, thông điệp về sự tò mò"
+ },
+ {
+   "A": "熙",
+   "B": "Xī",
+   "C": "HI",
+   "D": "Biểu tượng rực rỡ, thông điệp về sự thịnh vượng"
+ },
+ {
+   "A": "雯",
+   "B": "Wén",
+   "C": "VĂN",
+   "D": "Biểu tượng mây đẹp, thông điệp về vẻ đẹp"
+ },
+ {
+   "A": "习",
+   "B": "Xí",
+   "C": "TẬP",
+   "D": "Biểu tượng học tập, thông điệp về rèn luyện"
+ },
+ {
+   "A": "席",
+   "B": "Xí",
+   "C": "TỊCH",
+   "D": "Biểu tượng chiếu, thông điệp về địa vị"
+ },
+ {
+   "A": "郤",
+   "B": "Xì",
+   "C": "KHÍCH",
+   "D": "Biểu tượng họ Khích, thông điệp về sự khác biệt"
+ },
+ {
+   "A": "侠",
+   "B": "Xiá",
+   "C": "HIỆP",
+   "D": "Biểu tượng hiệp sĩ, thông điệp về tinh thần nghĩa hiệp"
+ },
+ {
+   "A": "夏",
+   "B": "Xià",
+   "C": "HẠ",
+   "D": "Biểu tượng mùa hè, thông điệp về sự rực rỡ"
+ },
+ {
+   "A": "仙",
+   "B": "Xiān",
+   "C": "TIÊN",
+   "D": "Biểu tượng tiên, thông điệp về sự thanh tao"
+ },
+ {
+   "A": "鲜",
+   "B": "Xiān",
+   "C": "TIÊN",
+   "D": "Biểu tượng tươi mới, thông điệp về sự trong lành"
+ },
+ {
+   "A": "闲",
+   "B": "Xián",
+   "C": "NHÀN",
+   "D": "Biểu tượng nhàn hạ, thông điệp về sự thư thái"
+ },
+ {
+   "A": "贤",
+   "B": "Xián",
+   "C": "HIỀN",
+   "D": "Biểu tượng hiền tài, thông điệp về đức hạnh"
+ },
+ {
+   "A": "弦",
+   "B": "Xián",
+   "C": "HUYỀN",
+   "D": "Biểu tượng dây đàn, thông điệp về nghệ thuật"
+ },
+ {
+   "A": "咸",
+   "B": "Xián",
+   "C": "HÀM",
+   "D": "Biểu tượng mặn, thông điệp về sự đậm đà"
+ },
+ {
+   "A": "娴",
+   "B": "Xián",
+   "C": "NHÀN",
+   "D": "Biểu tượng dịu dàng, thông điệp về vẻ đẹp nữ tính"
+ },
+ {
+   "A": "显",
+   "B": "Xiǎn",
+   "C": "HIỂN",
+   "D": "Biểu tượng rõ ràng, thông điệp về sự nổi bật"
+ },
+ {
+   "A": "县",
+   "B": "Xiàn",
+   "C": "HUYỆN",
+   "D": "Biểu tượng địa phương, thông điệp về quê hương"
+ },
+ {
+   "A": "现",
+   "B": "Xiàn",
+   "C": "HIỆN",
+   "D": "Biểu tượng hiện tại, thông điệp về giá trị thực tại"
+ },
+ {
+   "A": "献",
+   "B": "Xiàn",
+   "C": "HIẾN",
+   "D": "Biểu tượng hiến dâng, thông điệp về sự cống hiến"
+ },
+ {
+   "A": "乡",
+   "B": "Xiāng",
+   "C": "HƯƠNG",
+   "D": "Biểu tượng quê nhà, thông điệp về nguồn cội"
+ },
+ {
+   "A": "香",
+   "B": "Xiāng",
+   "C": "HƯƠNG",
+   "D": "Biểu tượng hương thơm, thông điệp về vẻ đẹp thanh cao"
+ },
+ {
+   "A": "香",
+   "B": "Xiāng",
+   "C": "THƠM",
+   "D": "Biểu tượng mùi hương, thông điệp về sự quyến rũ"
+ },
+ {
+   "A": "详",
+   "B": "Xiáng",
+   "C": "TƯỜNG",
+   "D": "Biểu tượng tỉ mỉ, thông điệp về sự cẩn trọng"
+ },
+ {
+   "A": "祥",
+   "B": "Xiáng",
+   "C": "TƯỜNG",
+   "D": "Biểu tượng điềm lành, thông điệp về may mắn"
+ },
+ {
+   "A": "响",
+   "B": "Xiǎng",
+   "C": "HƯỞNG",
+   "D": "Biểu tượng âm thanh, thông điệp về sự vang dội"
+ },
+ {
+   "A": "想",
+   "B": "Xiǎng",
+   "C": "TƯỞNG",
+   "D": "Biểu tượng ước mơ, thông điệp về khát vọng"
+ },
+ {
+   "A": "向",
+   "B": "Xiàng",
+   "C": "HƯỚNG",
+   "D": "Biểu tượng phương hướng, thông điệp về mục tiêu"
+ },
+ {
+   "A": "项",
+   "B": "Xiàng",
+   "C": "HẠNG",
+   "D": "Biểu tượng hạng mục, thông điệp về sự quan trọng"
+ },
+ {
+   "A": "肖",
+   "B": "Xiāo",
+   "C": "TIÊU",
+   "D": "Biểu tượng tương đồng, thông điệp về sự giống nhau"
+ },
+ {
+   "A": "樂",
+   "B": "Lè",
+   "C": "LẠC",
+   "D": "Biểu tượng niềm vui, thông điệp về hạnh phúc"
+ },
+ {
+   "A": "萧",
+   "B": "Xiāo",
+   "C": "TIÊU",
+   "D": "Biểu tượng thanh cao, thông điệp về khí tiết"
+ },
+ {
+   "A": "萧",
+   "B": "Xiāo",
+   "C": "TRIỀU",
+   "D": "Biểu tượng họ Tiêu, thông điệp về nguồn gốc"
+ },
+ {
+   "A": "晓",
+   "B": "Xiǎo",
+   "C": "HIỂU",
+   "D": "Biểu tượng rạng đông, thông điệp về khởi đầu"
+ },
+ {
+   "A": "曉",
+   "B": "Xiǎo",
+   "C": "HIỂU",
+   "D": "Biểu tượng bình minh (phồn thể), thông điệp về hy vọng"
+ },
+ {
+   "A": "溪",
+   "B": "Xī",
+   "C": "KHÊ",
+   "D": "Biểu tượng dòng suối, thông điệp về sự trong trẻo"
+ },
+ {
+   "A": "孝",
+   "B": "Xiào",
+   "C": "HIẾU",
+   "D": "Biểu tượng hiếu thảo, thông điệp về đạo làm con"
+ },
+ {
+   "A": "孝",
+   "B": "Xiào",
+   "C": "HIỂU",
+   "D": "Biểu tượng lòng biết ơn, thông điệp về gia đình"
+ },
+ {
+   "A": "校",
+   "B": "Xiào",
+   "C": "HIỆU",
+   "D": "Biểu tượng trường học, thông điệp về tri thức"
+ },
+ {
+   "A": "协",
+   "B": "Xié",
+   "C": "HIỆP",
+   "D": "Biểu tượng hợp tác, thông điệp về tinh thần đồng đội"
+ },
+ {
+   "A": "谢",
+   "B": "Xiè",
+   "C": "TẠ",
+   "D": "Biểu tượng lòng biết ơn, thông điệp về sự tri ân"
+ },
+ {
+   "A": "謝",
+   "B": "Xiè",
+   "C": "TẠ",
+   "D": "Biểu tượng cảm tạ (phồn thể), thông điệp về lòng biết ơn"
+ },
+ {
+   "A": "心",
+   "B": "Xīn",
+   "C": "TÂM",
+   "D": "Biểu tượng trái tim, thông điệp về tình yêu"
+ },
+ {
+   "A": "昕",
+   "B": "Xīn",
+   "C": "HÂN",
+   "D": "Biểu tượng ánh mai, thông điệp về hy vọng"
+ },
+ {
+   "A": "欣",
+   "B": "Xīn",
+   "C": "HÂN",
+   "D": "Biểu tượng vui mừng, thông điệp về niềm hân hoan"
+ },
+ {
+   "A": "妍",
+   "B": "Yán",
+   "C": "NGHIÊN",
+   "D": "Biểu tượng xinh đẹp, thông điệp về nhan sắc"
+ },
+ {
+   "A": "新",
+   "B": "Xīn",
+   "C": "TÂN",
+   "D": "Biểu tượng đổi mới, thông điệp về sáng tạo"
+ },
+ {
+   "A": "歆",
+   "B": "Xīn",
+   "C": "HÂM",
+   "D": "Biểu tượng yêu thích, thông điệp về sự ngưỡng mộ"
+ },
+ {
+   "A": "馨",
+   "B": "Xīn",
+   "C": "HINH",
+   "D": "Biểu tượng hương thơm, thông điệp về thanh cao"
+ },
+ {
+   "A": "鑫",
+   "B": "Xīn",
+   "C": "HÂM",
+   "D": "Biểu tượng thịnh vượng, thông điệp về tài lộc"
+ },
+ {
+   "A": "鹏",
+   "B": "Péng",
+   "C": "BẰNG",
+   "D": "Biểu tượng đại bàng, thông điệp về chí lớn"
+ },
+ {
+   "A": "信",
+   "B": "Xìn",
+   "C": "TÍN",
+   "D": "Biểu tượng chữ tín, thông điệp về sự đáng tin"
+ },
+ {
+   "A": "星",
+   "B": "Xīng",
+   "C": "TINH",
+   "D": "Biểu tượng ngôi sao, thông điệp về ánh sáng"
+ },
+ {
+   "A": "旭",
+   "B": "Xù",
+   "C": "HÚC",
+   "D": "Biểu tượng bình minh, thông điệp về khởi đầu tươi sáng"
+ },
+ {
+   "A": "邢",
+   "B": "Xíng",
+   "C": "HÌNH",
+   "D": "Biểu tượng họ Hình, thông điệp về nguồn gốc"
+ },
+ {
+   "A": "邢",
+   "B": "Xíng",
+   "C": "NA",
+   "D": "Biểu tượng địa danh, thông điệp về quê hương"
+ },
+ {
+   "A": "兴",
+   "B": "Xīng",
+   "C": "HƯNG",
+   "D": "Biểu tượng hưng thịnh, thông điệp về phát triển"
+ },
+ {
+   "A": "杏",
+   "B": "Xìng",
+   "C": "HẠNH",
+   "D": "Biểu tượng quả mơ, thông điệp về sự dịu dàng"
+ },
+ {
+   "A": "幸",
+   "B": "Xìng",
+   "C": "HẠNH",
+   "D": "Biểu tượng hạnh phúc, thông điệp về may mắn"
+ },
+ {
+   "A": "兄",
+   "B": "Xiōng",
+   "C": "HUYNH",
+   "D": "Biểu tượng anh trai, thông điệp về tình anh em"
+ },
+ {
+   "A": "雄",
+   "B": "Xióng",
+   "C": "HÙNG",
+   "D": "Biểu tượng hùng mạnh, thông điệp về sức mạnh"
+ },
+ {
+   "A": "熊",
+   "B": "Xióng",
+   "C": "HÙNG",
+   "D": "Biểu tượng con gấu, thông điệp về sự kiên cường"
+ },
+ {
+   "A": "休",
+   "B": "Xiū",
+   "C": "HƯU",
+   "D": "Biểu tượng nghỉ ngơi, thông điệp về sự bình yên"
+ },
+ {
+   "A": "修",
+   "B": "Xiū",
+   "C": "TU",
+   "D": "Biểu tượng tu dưỡng, thông điệp về hoàn thiện bản thân"
+ },
+ {
+   "A": "宿",
+   "B": "Sù",
+   "C": "TÚ",
+   "D": "Biểu tượng nơi ở, thông điệp về mái ấm"
+ },
+ {
+   "A": "秀",
+   "B": "Xiù",
+   "C": "TÚ",
+   "D": "Biểu tượng ưu tú, thông điệp về tài năng"
+ },
+ {
+   "A": "零",
+   "B": "Líng",
+   "C": "LINH",
+   "D": "Biểu tượng con số không, thông điệp về khởi đầu mới"
+ },
+ {
+   "A": "绣",
+   "B": "Xiù",
+   "C": "TÚ",
+   "D": "Biểu tượng thêu hoa, thông điệp về sự tinh xảo"
+ },
+ {
+   "A": "吁",
+   "B": "Xū",
+   "C": "DỰ",
+   "D": "Biểu tượng than thở, thông điệp về sự đồng cảm"
+ },
+ {
+   "A": "须",
+   "B": "Xū",
+   "C": "TU",
+   "D": "Biểu tượng râu tóc, thông điệp về sự trưởng thành"
+ },
+ {
+   "A": "胥",
+   "B": "Xū",
+   "C": "TƯ",
+   "D": "Biểu tượng viên chức, thông điệp về sự công bằng"
+ },
+ {
+   "A": "徐",
+   "B": "Xú",
+   "C": "TỪ",
+   "D": "Biểu tượng chậm rãi, thông điệp về sự ổn định"
+ },
+ {
+   "A": "许",
+   "B": "Xǔ",
+   "C": "HỨA",
+   "D": "Biểu tượng họ Hứa, thông điệp về sự bao dung"
+ },
+ {
+   "A": "辕",
+   "B": "Yuán",
+   "C": "VIÊN",
+   "D": "Biểu tượng càng xe, thông điệp về sự vững chãi"
+ },
+ {
+   "A": "宣",
+   "B": "Xuān",
+   "C": "TUYÊN",
+   "D": "Biểu tượng tuyên bố, thông điệp về sự công khai"
+ },
+ {
+   "A": "萱",
+   "B": "Xuān",
+   "C": "HIÊN",
+   "D": "Biểu tượng hoa hiên, thông điệp về lòng hiếu thảo"
+ },
+ {
+   "A": "玄",
+   "B": "Xuán",
+   "C": "HUYỀN",
+   "D": "Biểu tượng huyền bí, thông điệp về trí tuệ sâu sắc"
+ },
+ {
+   "A": "璇",
+   "B": "Xuán",
+   "C": "TUYỀN",
+   "D": "Biểu tượng ngọc quý, thông điệp về giá trị cao quý"
+ },
+ {
+   "A": "璿",
+   "B": "Xuán",
+   "C": "TUYỀN",
+   "D": "Biểu tượng ngọc đẹp, thông điệp về sự hoàn mỹ"
+ },
+ {
+   "A": "薛",
+   "B": "Xuē",
+   "C": "TIẾT",
+   "D": "Biểu tượng họ Tiết, thông điệp về cỏ lau (nghĩa gốc)"
+ },
+ {
+   "A": "学",
+   "B": "Xué",
+   "C": "HỌC",
+   "D": "Biểu tượng học tập, thông điệp về tri thức"
+ },
+ {
+   "A": "雪",
+   "B": "Xuě",
+   "C": "TUYẾT",
+   "D": "Biểu tượng tuyết trắng, thông điệp về sự thuần khiết"
+ },
+ {
+   "A": "勋",
+   "B": "Xūn",
+   "C": "HUÂN",
+   "D": "Biểu tượng công lao, thông điệp về thành tích"
+ },
+ {
+   "A": "荀",
+   "B": "Xún",
+   "C": "TUÂN",
+   "D": "Biểu tượng họ Tuân, thông điệp về cỏ thơm (nghĩa gốc)"
+ },
+ {
+   "A": "恂",
+   "B": "Xún",
+   "C": "TUÂN",
+   "D": "Biểu tượng thành thật, thông điệp về sự chân thành"
+ },
+ {
+   "A": "训",
+   "B": "Xùn",
+   "C": "HUẤN",
+   "D": "Biểu tượng răn dạy, thông điệp về giáo dục"
+ },
+ {
+   "A": "迅",
+   "B": "Xùn",
+   "C": "TẤN",
+   "D": "Biểu tượng nhanh nhẹn, thông điệp về tốc độ"
+ },
+ {
+   "A": "徇",
+   "B": "Xùn",
+   "C": "TUÂN",
+   "D": "Biểu tượng hy sinh, thông điệp về lòng vị tha"
+ },
+ {
+   "A": "雅",
+   "B": "Yǎ",
+   "C": "NHÃ",
+   "D": "Biểu tượng thanh nhã, thông điệp về sự tao nhã"
+ },
+ {
+   "A": "亚",
+   "B": "Yà",
+   "C": "Á",
+   "D": "Biểu tượng thứ hai, thông điệp về sự khiêm tốn"
+ },
+ {
+   "A": "闫",
+   "B": "Yán",
+   "C": "DIÊM",
+   "D": "Biểu tượng họ Diêm, thông điệp về cổng lớn (nghĩa gốc)"
+ },
+ {
+   "A": "严",
+   "B": "Yán",
+   "C": "NGHIÊM",
+   "D": "Biểu tượng nghiêm khắc, thông điệp về kỷ luật"
+ },
+ {
+   "A": "阎",
+   "B": "Yán",
+   "C": "DIÊM",
+   "D": "Biểu tượng họ Diêm, thông điệp về cổng âm phủ (nghĩa gốc)"
+ },
+ {
+   "A": "颜",
+   "B": "Yán",
+   "C": "NHAN",
+   "D": "Biểu tượng dung nhan, thông điệp về vẻ đẹp"
+ },
+ {
+   "A": "偃",
+   "B": "Yǎn",
+   "C": "YỂN",
+   "D": "Biểu tượng ngừng lại, thông điệp về sự nghỉ ngơi"
+ },
+ {
+   "A": "琰",
+   "B": "Yǎn",
+   "C": "DIỄM",
+   "D": "Biểu tượng ngọc đẹp, thông điệp về giá trị"
+ },
+ {
+   "A": "演",
+   "B": "Yǎn",
+   "C": "DIỄN",
+   "D": "Biểu tượng diễn xuất, thông điệp về nghệ thuật"
+ },
+ {
+   "A": "艳",
+   "B": "Yàn",
+   "C": "DIỄM",
+   "D": "Biểu tượng rực rỡ, thông điệp về sắc đẹp"
+ },
+ {
+   "A": "晏",
+   "B": "Yàn",
+   "C": "ÁN",
+   "D": "Biểu tượng yên bình, thông điệp về sự thanh thản"
+ },
+ {
+   "A": "燕",
+   "B": "Yàn",
+   "C": "YẾN",
+   "D": "Biểu tượng chim én, thông điệp về mùa xuân"
+ },
+ {
+   "A": "羊",
+   "B": "Yáng",
+   "C": "DƯƠNG",
+   "D": "Biểu tượng con dê, thông điệp về sự hiền lành"
+ },
+ {
+   "A": "杨",
+   "B": "Yáng",
+   "C": "DƯƠNG",
+   "D": "Biểu tượng cây dương, thông điệp về sức sống"
+ },
+ {
+   "A": "昜",
+   "B": "Yáng",
+   "C": "DƯƠNG",
+   "D": "Biểu tượng ánh sáng, thông điệp về sự rạng rỡ"
+ },
+ {
+   "A": "洋",
+   "B": "Yáng",
+   "C": "DƯƠNG",
+   "D": "Biểu tượng đại dương, thông điệp về sự bao la"
+ },
+ {
+   "A": "楊",
+   "B": "Yáng",
+   "C": "DƯƠNG",
+   "D": "Biểu tượng họ Dương (phồn thể), thông điệp về cây dương"
+ },
+ {
+   "A": "仰",
+   "B": "Yǎng",
+   "C": "NGƯỠNG",
+   "D": "Biểu tượng ngưỡng mộ, thông điệp về sự kính trọng"
+ },
+ {
+   "A": "养",
+   "B": "Yǎng",
+   "C": "DƯỠNG",
+   "D": "Biểu tượng nuôi dưỡng, thông điệp về sự chăm sóc"
+ },
+ {
+   "A": "姚",
+   "B": "Yáo",
+   "C": "DIÊU",
+   "D": "Biểu tượng họ Diêu, thông điệp về vẻ đẹp"
+ },
+ {
+   "A": "曜",
+   "B": "Yào",
+   "C": "DIỆU",
+   "D": "Biểu tượng ánh sáng, thông điệp về sự rực rỡ"
+ },
+ {
+   "A": "律",
+   "B": "Lǜ",
+   "C": "LUẬT",
+   "D": "Biểu tượng luật pháp, thông điệp về công lý"
+ },
+ {
+   "A": "耶",
+   "B": "Yē",
+   "C": "GIA",
+   "D": "Biểu tượng câu hỏi, thông điệp về sự tò mò"
+ },
+ {
+   "A": "叶",
+   "B": "Yè",
+   "C": "DIỆP",
+   "D": "Biểu tượng chiếc lá, thông điệp về sự hòa hợp"
+ },
+ {
+   "A": "夜",
+   "B": "Yè",
+   "C": "DẠ",
+   "D": "Biểu tượng màn đêm, thông điệp về sự bí ẩn"
+ },
+ {
+   "A": "晔",
+   "B": "Yè",
+   "C": "DIỆP",
+   "D": "Biểu tượng rực sáng, thông điệp về hào quang"
+ },
+ {
+   "A": "医",
+   "B": "Yī",
+   "C": "Y",
+   "D": "Biểu tượng y thuật, thông điệp về chữa lành"
+ },
+ {
+   "A": "夷",
+   "B": "Yí",
+   "C": "DI",
+   "D": "Biểu tượng bình đẳng, thông điệp về sự hòa hợp"
+ },
+ {
+   "A": "怡",
+   "B": "Yí",
+   "C": "DI",
+   "D": "Biểu tượng vui vẻ, thông điệp về niềm hạnh phúc"
+ },
+ {
+   "A": "宜",
+   "B": "Yí",
+   "C": "NGHI",
+   "D": "Biểu tượng phù hợp, thông điệp về sự hài hòa"
+ },
+ {
+   "A": "儀",
+   "B": "Yí",
+   "C": "NGHI",
+   "D": "Biểu tượng nghi lễ, thông điệp về sự trang trọng"
+ },
+ {
+   "A": "义",
+   "B": "Yì",
+   "C": "NGHĨA",
+   "D": "Biểu tượng chính nghĩa, thông điệp về lẽ phải"
+ },
+ {
+   "A": "艺",
+   "B": "Yì",
+   "C": "NGHỆ",
+   "D": "Biểu tượng nghệ thuật, thông điệp về sáng tạo"
+ },
+ {
+   "A": "议",
+   "B": "Yì",
+   "C": "NGHỊ",
+   "D": "Biểu tượng thảo luận, thông điệp về tư duy"
+ },
+ {
+   "A": "易",
+   "B": "Yì",
+   "C": "DỊCH",
+   "D": "Biểu tượng thay đổi, thông điệp về sự linh hoạt"
+ },
+ {
+   "A": "易",
+   "B": "Yì",
+   "C": "DỊ",
+   "D": "Biểu tượng dễ dàng, thông điệp về thuận lợi"
+ },
+ {
+   "A": "羿",
+   "B": "Yì",
+   "C": "NGHỆ",
+   "D": "Biểu tượng thần bắn cung, thông điệp về tài năng"
+ },
+ {
+   "A": "益",
+   "B": "Yì",
+   "C": "ÍCH",
+   "D": "Biểu tượng lợi ích, thông điệp về sự phát triển"
+ },
+ {
+   "A": "谊",
+   "B": "Yì",
+   "C": "NGHĨA",
+   "D": "Biểu tượng tình bạn, thông điệp về sự trung thành"
+ },
+ {
+   "A": "谊",
+   "B": "Yì",
+   "C": "NGHỊ",
+   "D": "Biểu tượng bằng hữu, thông điệp về tình cảm"
+ },
+ {
+   "A": "意",
+   "B": "Yì",
+   "C": "Ý",
+   "D": "Biểu tượng ý chí, thông điệp về quyết tâm"
+ },
+ {
+   "A": "毅",
+   "B": "Yì",
+   "C": "NGHỊ",
+   "D": "Biểu tượng kiên cường, thông điệp về nghị lực"
+ },
+ {
+   "A": "懿",
+   "B": "Yì",
+   "C": "Ý",
+   "D": "Biểu tượng đức hạnh, thông điệp về phẩm giá"
+ },
+ {
+   "A": "殷",
+   "B": "Yīn",
+   "C": "ÂN",
+   "D": "Biểu tượng phồn thịnh, thông điệp về giàu có"
+ },
+ {
+   "A": "訚",
+   "B": "Yín",
+   "C": "NGÂN",
+   "D": "Biểu tượng lời hay, thông điệp về giao tiếp khéo léo"
+ },
+ {
+   "A": "银",
+   "B": "Yín",
+   "C": "NGÂN",
+   "D": "Biểu tượng bạc, thông điệp về giá trị"
+ },
+ {
+   "A": "尹",
+   "B": "Yǐn",
+   "C": "DOÃN",
+   "D": "Biểu tượng quản lý, thông điệp về quyền lực"
+ },
+ {
+   "A": "尹",
+   "B": "Yǐn",
+   "C": "DUẪN",
+   "D": "Biểu tượng họ Doãn, thông điệp về sự lãnh đạo"
+ },
+ {
+   "A": "隐",
+   "B": "Yǐn",
+   "C": "ẨN",
+   "D": "Biểu tượng ẩn giấu, thông điệp về sự khiêm tốn"
+ },
+ {
+   "A": "印",
+   "B": "Yìn",
+   "C": "ẤN",
+   "D": "Biểu tượng con dấu, thông điệp về uy tín"
+ },
+ {
+   "A": "英",
+   "B": "Yīng",
+   "C": "ANH",
+   "D": "Biểu tượng anh hùng, thông điệp về tài năng"
+ },
+ {
+   "A": "莺",
+   "B": "Yīng",
+   "C": "OANH",
+   "D": "Biểu tượng chim oanh, thông điệp về vẻ đẹp"
+ },
+ {
+   "A": "渶",
+   "B": "Yīng",
+   "C": "ANH",
+   "D": "Biểu tượng dòng nước, thông điệp về sự trong trẻo"
+ },
+ {
+   "A": "媖",
+   "B": "Yīng",
+   "C": "ANH",
+   "D": "Biểu tượng nữ anh hùng, thông điệp về sức mạnh nữ tính"
+ },
+ {
+   "A": "瑛",
+   "B": "Yīng",
+   "C": "ANH",
+   "D": "Biểu tượng ngọc đẹp, thông điệp về giá trị"
+ },
+ {
+   "A": "煐",
+   "B": "Yīng",
+   "C": "ANH",
+   "D": "Biểu tượng ánh lửa, thông điệp về nhiệt huyết"
+ },
+ {
+   "A": "嫈",
+   "B": "Yīng",
+   "C": "OANH",
+   "D": "Biểu tượng xinh đẹp, thông điệp về nhan sắc"
+ },
+ {
+   "A": "霙",
+   "B": "Yīng",
+   "C": "ANH",
+   "D": "Biểu tượng mưa tuyết, thông điệp về sự tinh khiết"
+ },
+ {
+   "A": "盈",
+   "B": "Yíng",
+   "C": "DOANH",
+   "D": "Biểu tượng đầy đủ, thông điệp về sự viên mãn"
+ },
+ {
+   "A": "营",
+   "B": "Yíng",
+   "C": "DINH",
+   "D": "Biểu tượng doanh trại, thông điệp về tổ chức"
+ },
+ {
+   "A": "嬴",
+   "B": "Yíng",
+   "C": "DOANH",
+   "D": "Biểu tượng chiến thắng, thông điệp về thành công"
+ },
+ {
+   "A": "影",
+   "B": "Yǐng",
+   "C": "ẢNH",
+   "D": "Biểu tượng bóng hình, thông điệp về ảnh hưởng"
+ },
+ {
+   "A": "映",
+   "B": "Yìng",
+   "C": "ÁNH",
+   "D": "Biểu tượng phản chiếu, thông điệp về sự hài hòa"
+ },
+ {
+   "A": "硬",
+   "B": "Yìng",
+   "C": "ÁNH",
+   "D": "Biểu tượng cứng rắn, thông điệp về sự kiên cường"
+ },
+ {
+   "A": "暎",
+   "B": "Yìng",
+   "C": "ÁNH",
+   "D": "Biểu tượng ánh sáng, thông điệp về sự rạng ngời"
+ },
+ {
+   "A": "永",
+   "B": "Yǒng",
+   "C": "VĨNH",
+   "D": "Biểu tượng vĩnh cửu, thông điệp về trường tồn"
+ },
+ {
+   "A": "咏",
+   "B": "Yǒng",
+   "C": "VỊNH",
+   "D": "Biểu tượng ngâm thơ, thông điệp về nghệ thuật"
+ },
+ {
+   "A": "勇",
+   "B": "Yǒng",
+   "C": "DŨNG",
+   "D": "Biểu tượng dũng cảm, thông điệp về can đảm"
+ },
+ {
+   "A": "用",
+   "B": "Yòng",
+   "C": "DỤNG",
+   "D": "Biểu tượng sử dụng, thông điệp về giá trị thực tiễn"
+ },
+ {
+   "A": "尤",
+   "B": "Yóu",
+   "C": "VƯU",
+   "D": "Biểu tượng đặc biệt, thông điệp về sự xuất chúng"
+ },
+ {
+   "A": "游",
+   "B": "Yóu",
+   "C": "DU",
+   "D": "Biểu tượng du lịch, thông điệp về tự do"
+ },
+ {
+   "A": "友",
+   "B": "Yǒu",
+   "C": "HỮU",
+   "D": "Biểu tượng tình bạn, thông điệp về lòng trung thành"
+ },
+ {
+   "A": "又",
+   "B": "Yòu",
+   "C": "HỰU",
+   "D": "Biểu tượng thêm nữa, thông điệp về sự tiếp nối"
+ },
+ {
+   "A": "於",
+   "B": "Yú",
+   "C": "Ô",
+   "D": "Biểu tượng ở tại, thông điệp về nơi chốn"
+ },
+ {
+   "A": "于",
+   "B": "Yú",
+   "C": "VU",
+   "D": "Biểu tượng vượt lên, thông điệp về sự tiến bộ"
+ },
+ {
+   "A": "余",
+   "B": "Yú",
+   "C": "DƯ",
+   "D": "Biểu tượng dư dả, thông điệp về sự sung túc"
+ },
+ {
+   "A": "鱼",
+   "B": "Yú",
+   "C": "NGƯ",
+   "D": "Biểu tượng con cá, thông điệp về sự tự do"
+ },
+ {
+   "A": "俞",
+   "B": "Yú",
+   "C": "DU",
+   "D": "Biểu tượng đồng ý, thông điệp về sự chấp thuận"
+ },
+ {
+   "A": "虞",
+   "B": "Yú",
+   "C": "NGU",
+   "D": "Biểu tượng thận trọng, thông điệp về sự khôn ngoan"
+ },
+ {
+   "A": "艅",
+   "B": "Yú",
+   "C": "DƯ",
+   "D": "Biểu tượng thuyền lớn, thông điệp về hành trình"
+ },
+ {
+   "A": "舆",
+   "B": "Yú",
+   "C": "DƯ",
+   "D": "Biểu tượng xe cộ, thông điệp về sự tiến lên"
+ },
+ {
+   "A": "宇",
+   "B": "Yǔ",
+   "C": "VŨ",
+   "D": "Biểu tượng vũ trụ, thông điệp về không gian bao la"
+ },
+ {
+   "A": "羽",
+   "B": "Yǔ",
+   "C": "VŨ",
+   "D": "Biểu tượng lông vũ, thông điệp về sự thanh cao"
+ },
+ {
+   "A": "雨",
+   "B": "Yǔ",
+   "C": "VŨ",
+   "D": "Biểu tượng mưa, thông điệp về sự nuôi dưỡng"
+ },
+ {
+   "A": "语",
+   "B": "Yǔ",
+   "C": "NGỮ",
+   "D": "Biểu tượng ngôn ngữ, thông điệp về giao tiếp"
+ },
+ {
+   "A": "嫣",
+   "B": "Yān",
+   "C": "YÊN",
+   "D": "Biểu tượng xinh đẹp, thông điệp về nhan sắc"
+ },
+ {
+   "A": "庾",
+   "B": "Yǔ",
+   "C": "DỮU",
+   "D": "Biểu tượng kho lúa, thông điệp về sự sung túc"
+ },
+ {
+   "A": "瑀",
+   "B": "Yǔ",
+   "C": "VŨ",
+   "D": "Biểu tượng ngọc đẹp, thông điệp về giá trị"
+ },
+ {
+   "A": "玉",
+   "B": "Yù",
+   "C": "NGỌC",
+   "D": "Biểu tượng ngọc quý, thông điệp về phẩm chất cao quý"
+ },
+ {
+   "A": "育",
+   "B": "Yù",
+   "C": "DỤC",
+   "D": "Biểu tượng nuôi dưỡng, thông điệp về giáo dục"
+ },
+ {
+   "A": "昱",
+   "B": "Yù",
+   "C": "DỤC",
+   "D": "Biểu tượng ánh sáng, thông điệp về trí tuệ"
+ },
+ {
+   "A": "漳",
+   "B": "Zhāng",
+   "C": "CHƯƠNG",
+   "D": "Biểu tượng dòng sông, thông điệp về sức sống"
+ },
+ {
+   "A": "喻",
+   "B": "Yù",
+   "C": "DỤ",
+   "D": "Biểu tượng ví von, thông điệp về sự thông minh"
+ },
+ {
+   "A": "鸳",
+   "B": "Yuān",
+   "C": "UYÊN",
+   "D": "Biểu tượng uyên ương, thông điệp về tình cảm"
+ },
+ {
+   "A": "元",
+   "B": "Yuán",
+   "C": "NGUYÊN",
+   "D": "Biểu tượng khởi nguyên, thông điệp về nguồn cội"
+ },
+ {
+   "A": "袁",
+   "B": "Yuán",
+   "C": "VIÊN",
+   "D": "Biểu tượng họ Viên, thông điệp về dòng dõi"
+ },
+ {
+   "A": "原",
+   "B": "Yuán",
+   "C": "NGUYÊN",
+   "D": "Biểu tượng nguyên bản, thông điệp về sự chân thật"
+ },
+ {
+   "A": "缘",
+   "B": "Yuán",
+   "C": "DUYÊN",
+   "D": "Biểu tượng nhân duyên, thông điệp về mối liên hệ"
+ },
+ {
+   "A": "源",
+   "B": "Yuán",
+   "C": "NGUYÊN",
+   "D": "Biểu tượng nguồn nước, thông điệp về khởi đầu"
+ },
+ {
+   "A": "苑",
+   "B": "Yuàn",
+   "C": "UYỂN",
+   "D": "Biểu tượng vườn, thông điệp về sự phong phú"
+ },
+ {
+   "A": "曰",
+   "B": "Yuē",
+   "C": "VIẾT",
+   "D": "Biểu tượng nói rằng, thông điệp về sự chân thành"
+ },
+ {
+   "A": "月",
+   "B": "Yuè",
+   "C": "NGUYỆT",
+   "D": "Biểu tượng mặt trăng, thông điệp về vẻ đẹp dịu dàng"
+ },
+ {
+   "A": "婵",
+   "B": "Chán",
+   "C": "THIỀN",
+   "D": "Biểu tượng xinh đẹp, thông điệp về nhan sắc"
+ },
+ {
+   "A": "阅",
+   "B": "Yuè",
+   "C": "DUYỆT",
+   "D": "Biểu tượng đọc hiểu, thông điệp về tri thức"
+ },
+ {
+   "A": "越",
+   "B": "Yuè",
+   "C": "VIỆT",
+   "D": "Biểu tượng vượt qua, thông điệp về sự tiến bộ"
+ },
+ {
+   "A": "彬",
+   "B": "Bīn",
+   "C": "BÂN",
+   "D": "Biểu tượng lịch sự, thông điệp về sự tinh tế"
+ },
+ {
+   "A": "樾",
+   "B": "Yuè",
+   "C": "VIỆT",
+   "D": "Biểu tượng bóng cây, thông điệp về sự che chở"
+ },
+ {
+   "A": "云",
+   "B": "Yún",
+   "C": "MÂY",
+   "D": "Biểu tượng mây, thông điệp về sự tự do"
+ },
+ {
+   "A": "云",
+   "B": "Yún",
+   "C": "VÂN",
+   "D": "Biểu tượng nói rằng, thông điệp về giao tiếp"
+ },
+ {
+   "A": "煕",
+   "B": "Xī",
+   "C": "HI",
+   "D": "Biểu tượng ánh sáng, thông điệp về sự ấm áp"
+ },
+ {
+   "A": "匀",
+   "B": "Yún",
+   "C": "QUÂN",
+   "D": "Biểu tượng cân bằng, thông điệp về sự hài hòa"
+ },
+ {
+   "A": "芸",
+   "B": "Yún",
+   "C": "VÂN",
+   "D": "Biểu tượng cỏ thơm, thông điệp về vẻ đẹp giản dị"
+ },
+ {
+   "A": "昀",
+   "B": "Yún",
+   "C": "QUÂN",
+   "D": "Biểu tượng ánh sáng, thông điệp về hy vọng"
+ },
+ {
+   "A": "宰",
+   "B": "Zǎi",
+   "C": "TỂ",
+   "D": "Biểu tượng quản lý, thông điệp về quyền lực"
+ },
+ {
+   "A": "簪",
+   "B": "Zān",
+   "C": "TRÂM",
+   "D": "Biểu tượng trâm cài, thông điệp về vẻ đẹp"
+ },
+ {
+   "A": "昝",
+   "B": "Zǎn",
+   "C": "TẢM",
+   "D": "Biểu tượng họ Tảm, thông điệp về sự độc đáo"
+ },
+ {
+   "A": "攒",
+   "B": "Zǎn",
+   "C": "TOẢN",
+   "D": "Biểu tượng tích lũy, thông điệp về sự kiên trì"
+ },
+ {
+   "A": "赞",
+   "B": "Zàn",
+   "C": "TÁN",
+   "D": "Biểu tượng tán dương, thông điệp về sự công nhận"
+ },
+ {
+   "A": "造",
+   "B": "Zào",
+   "C": "TẠO",
+   "D": "Biểu tượng sáng tạo, thông điệp về kiến tạo"
+ },
+ {
+   "A": "翟",
+   "B": "Zhái",
+   "C": "TRÁC",
+   "D": "Biểu tượng chim trĩ, thông điệp về vẻ đẹp quý phái"
+ },
+ {
+   "A": "詹",
+   "B": "Zhān",
+   "C": "CHIÊM",
+   "D": "Biểu tượng họ Chiêm, thông điệp về sự am hiểu"
+ },
+ {
+   "A": "展",
+   "B": "Zhǎn",
+   "C": "TRIỂN",
+   "D": "Biểu tượng triển lãm, thông điệp về thể hiện"
+ },
+ {
+   "A": "占",
+   "B": "Zhàn",
+   "C": "CHIÊM",
+   "D": "Biểu tượng chiếm lĩnh, thông điệp về sự tiên phong"
+ },
+ {
+   "A": "战",
+   "B": "Zhàn",
+   "C": "CHIẾN",
+   "D": "Biểu tượng chiến đấu, thông điệp về tinh thần chiến đấu"
+ },
+ {
+   "A": "湛",
+   "B": "Zhàn",
+   "C": "TRẠM",
+   "D": "Biểu tượng sâu sắc, thông điệp về sự uyên bác"
+ },
+ {
+   "A": "张",
+   "B": "Zhāng",
+   "C": "TRƯƠNG",
+   "D": "Biểu tượng họ Trương, thông điệp về sự mở rộng"
+ },
+ {
+   "A": "章",
+   "B": "Zhāng",
+   "C": "CHƯƠNG",
+   "D": "Biểu tượng chương sách, thông điệp về văn chương"
+ },
+ {
+   "A": "張",
+   "B": "Zhāng",
+   "C": "TRƯƠNG",
+   "D": "Biểu tượng căng ra (phồn thể), thông điệp về sự mở rộng"
+ },
+ {
+   "A": "长",
+   "B": "Zhǎng",
+   "C": "TRƯỜNG",
+   "D": "Biểu tượng trưởng thành, thông điệp về sự phát triển"
+ },
+ {
+   "A": "掌",
+   "B": "Zhǎng",
+   "C": "CHƯỞNG",
+   "D": "Biểu tượng bàn tay, thông điệp về quyền kiểm soát"
+ },
+ {
+   "A": "沼",
+   "B": "Zhǎo",
+   "C": "CHIỂU",
+   "D": "Biểu tượng đầm lầy, thông điệp về sự thích nghi"
+ },
+ {
+   "A": "赵",
+   "B": "Zhào",
+   "C": "TRIỆU",
+   "D": "Biểu tượng họ Triệu, thông điệp về dòng dõi vương giả"
+ },
+ {
+   "A": "哲",
+   "B": "Zhé",
+   "C": "TRIẾT",
+   "D": "Biểu tượng trí tuệ, thông điệp về sự thông thái"
+ },
+ {
+   "A": "贞",
+   "B": "Zhēn",
+   "C": "TRINH",
+   "D": "Biểu tượng trinh tiết, thông điệp về đức hạnh"
+ },
+ {
+   "A": "珍",
+   "B": "Zhēn",
+   "C": "TRÂN",
+   "D": "Biểu tượng ngọc quý, thông điệp về giá trị"
+ },
+ {
+   "A": "貞",
+   "B": "Zhēn",
+   "C": "TRINH",
+   "D": "Biểu tượng kiên trinh (phồn thể), thông điệp về sự bền bỉ"
+ },
+ {
+   "A": "祯",
+   "B": "Zhēn",
+   "C": "TRINH",
+   "D": "Biểu tượng điềm lành, thông điệp về may mắn"
+ },
+ {
+   "A": "甄",
+   "B": "Zhēn",
+   "C": "CHÂN",
+   "D": "Biểu tượng phân biệt, thông điệp về sự tinh tế"
+ },
+ {
+   "A": "震",
+   "B": "Zhèn",
+   "C": "CHẤN",
+   "D": "Biểu tượng chấn động, thông điệp về sức mạnh"
+ },
+ {
+   "A": "征",
+   "B": "Zhēng",
+   "C": "CHINH",
+   "D": "Biểu tượng chinh phục, thông điệp về tinh thần tiên phong"
+ },
+ {
+   "A": "征",
+   "B": "Zhēng",
+   "C": "CHƯNG",
+   "D": "Biểu tượng thu thuế, thông điệp về sự công bằng"
+ },
+ {
+   "A": "整",
+   "B": "Zhěng",
+   "C": "CHỈNH",
+   "D": "Biểu tượng hoàn chỉnh, thông điệp về sự toàn vẹn"
+ },
+ {
+   "A": "正",
+   "B": "Zhèng",
+   "C": "CHÁNH",
+   "D": "Biểu tượng ngay thẳng, thông điệp về sự chính trực"
+ },
+ {
+   "A": "正",
+   "B": "Zhēng",
+   "C": "CHÍNH",
+   "D": "Biểu tượng tháng giêng, thông điệp về khởi đầu"
+ },
+ {
+   "A": "郑",
+   "B": "Zhèng",
+   "C": "TRỊNH",
+   "D": "Biểu tượng họ Trịnh, thông điệp về sự nghiêm túc"
+ },
+ {
+   "A": "政",
+   "B": "Zhèng",
+   "C": "CHÍNH",
+   "D": "Biểu tượng chính trị, thông điệp về quản lý"
+ },
+ {
+   "A": "支",
+   "B": "Zhī",
+   "C": "CHI",
+   "D": "Biểu tượng nhánh cây, thông điệp về sự hỗ trợ"
+ },
+ {
+   "A": "芝",
+   "B": "Zhī",
+   "C": "CHI",
+   "D": "Biểu tượng cỏ quý, thông điệp về vẻ đẹp thanh cao"
+ },
+ {
+   "A": "祗",
+   "B": "Zhī",
+   "C": "CHI",
+   "D": "Biểu tượng tôn kính, thông điệp về sự thành kính"
+ },
+ {
+   "A": "芷",
+   "B": "Zhǐ",
+   "C": "CHỈ",
+   "D": "Biểu tượng hoa lan, thông điệp về sự thanh khiết"
+ },
+ {
+   "A": "志",
+   "B": "Zhì",
+   "C": "CHÍ",
+   "D": "Biểu tượng chí hướng, thông điệp về hoài bão"
+ },
+ {
+   "A": "宸",
+   "B": "Chén",
+   "C": "THẦN",
+   "D": "Biểu tượng cung điện, thông điệp về quyền uy"
+ },
+ {
+   "A": "制",
+   "B": "Zhì",
+   "C": "CHẾ",
+   "D": "Biểu tượng chế tác, thông điệp về sự sáng tạo"
+ },
+ {
+   "A": "挚",
+   "B": "Zhì",
+   "C": "CHÍ",
+   "D": "Biểu tượng chân thành, thông điệp về tình cảm sâu sắc"
+ },
+ {
+   "A": "智",
+   "B": "Zhì",
+   "C": "TRÍ",
+   "D": "Biểu tượng trí tuệ, thông điệp về sự thông minh"
+ },
+ {
+   "A": "製",
+   "B": "Zhì",
+   "C": "CHẾ",
+   "D": "Biểu tượng chế tạo (phồn thể), thông điệp về kỹ thuật"
+ },
+ {
+   "A": "緻",
+   "B": "Zhì",
+   "C": "TRÍ",
+   "D": "Biểu tượng tinh xảo, thông điệp về sự hoàn hảo"
+ },
+ {
+   "A": "中",
+   "B": "Zhōng",
+   "C": "TRUNG",
+   "D": "Biểu tượng trung tâm, thông điệp về sự cân bằng"
+ },
+ {
+   "A": "忠",
+   "B": "Zhōng",
+   "C": "TRUNG",
+   "D": "Biểu tượng trung thành, thông điệp về lòng trung nghĩa"
+ },
+ {
+   "A": "终",
+   "B": "Zhōng",
+   "C": "CHUNG",
+   "D": "Biểu tượng kết thúc, thông điệp về sự viên mãn"
+ },
+ {
+   "A": "钟",
+   "B": "Zhōng",
+   "C": "CHUNG",
+   "D": "Biểu tượng chuông, thông điệp về sự vang vọng"
+ },
+ {
+   "A": "离",
+   "B": "Lí",
+   "C": "LY",
+   "D": "Biểu tượng chia ly, thông điệp về sự độc lập"
+ },
+ {
+   "A": "衷",
+   "B": "Zhōng",
+   "C": "TRUNG",
+   "D": "Biểu tượng tận đáy lòng, thông điệp về sự chân thành"
+ },
+ {
+   "A": "鍾",
+   "B": "Zhōng",
+   "C": "CHUNG",
+   "D": "Biểu tượng chuông lớn (phồn thể), thông điệp về tiếng vọng"
+ },
+ {
+   "A": "仲",
+   "B": "Zhòng",
+   "C": "TRỌNG",
+   "D": "Biểu tượng người thứ hai, thông điệp về sự hòa hợp"
+ },
+ {
+   "A": "众",
+   "B": "Zhòng",
+   "C": "CHÚNG",
+   "D": "Biểu tượng đám đông, thông điệp về sức mạnh tập thể"
+ },
+ {
+   "A": "重",
+   "B": "Zhòng",
+   "C": "TRỌNG",
+   "D": "Biểu tượng trọng lượng, thông điệp về tầm quan trọng"
+ },
+ {
+   "A": "舟",
+   "B": "Zhōu",
+   "C": "CHÂU",
+   "D": "Biểu tượng con thuyền, thông điệp về hành trình cuộc đời"
+ },
+ {
+   "A": "周",
+   "B": "Zhōu",
+   "C": "CHÂU",
+   "D": "Biểu tượng chu đáo, thông điệp về sự toàn vẹn"
+ },
+ {
+   "A": "洲",
+   "B": "Zhōu",
+   "C": "CHÂU",
+   "D": "Biểu tượng châu lục, thông điệp về sự rộng lớn"
+ },
+ {
+   "A": "朱",
+   "B": "Zhū",
+   "C": "CHÂU",
+   "D": "Biểu tượng màu đỏ, thông điệp về sự quý phái"
+ },
+ {
+   "A": "朱",
+   "B": "Zhū",
+   "C": "CHU",
+   "D": "Biểu tượng họ Chu, thông điệp về dòng dõi"
+ },
+ {
+   "A": "珠",
+   "B": "Zhū",
+   "C": "CHÂU",
+   "D": "Biểu tượng ngọc trai, thông điệp về vẻ đẹp quý giá"
+ },
+ {
+   "A": "珠",
+   "B": "Zhū",
+   "C": "CHU",
+   "D": "Biểu tượng châu báu, thông điệp về sự trân quý"
+ },
+ {
+   "A": "诸",
+   "B": "Zhū",
+   "C": "CHƯ",
+   "D": "Biểu tượng nhiều, thông điệp về sự phong phú"
+ },
+ {
+   "A": "诸",
+   "B": "Zhū",
+   "C": "GIA",
+   "D": "Biểu tượng tất cả, thông điệp về sự bao quát"
+ },
+ {
+   "A": "竹",
+   "B": "Zhú",
+   "C": "TRÚC",
+   "D": "Biểu tượng tre, thông điệp về sự kiên cường"
+ },
+ {
+   "A": "竺",
+   "B": "Zhú",
+   "C": "TRÚC",
+   "D": "Biểu tượng Phật giáo, thông điệp về trí tuệ"
+ },
+ {
+   "A": "逐",
+   "B": "Zhú",
+   "C": "TRỤC",
+   "D": "Biểu tượng truy đuổi, thông điệp về sự kiên trì"
+ },
+ {
+   "A": "祝",
+   "B": "Zhù",
+   "C": "CHÚC",
+   "D": "Biểu tượng chúc phúc, thông điệp về điều tốt lành"
+ },
+ {
+   "A": "专",
+   "B": "Zhuān",
+   "C": "CHUYÊN",
+   "D": "Biểu tượng chuyên môn, thông điệp về sự tinh thông"
+ },
+ {
+   "A": "妆",
+   "B": "Zhuāng",
+   "C": "TRANG",
+   "D": "Biểu tượng trang điểm, thông điệp về vẻ đẹp"
+ },
+ {
+   "A": "庄",
+   "B": "Zhuāng",
+   "C": "TRANG",
+   "D": "Biểu tượng trang trọng, thông điệp về sự nghiêm túc"
+ },
+ {
+   "A": "妝",
+   "B": "Zhuāng",
+   "C": "TRANG",
+   "D": "Biểu tượng làm đẹp (phồn thể), thông điệp về nghệ thuật"
+ },
+ {
+   "A": "粧",
+   "B": "Zhuāng",
+   "C": "TRANG",
+   "D": "Biểu tượng trang sức, thông điệp về sự trau chuốt"
+ },
+ {
+   "A": "壮",
+   "B": "Zhuàng",
+   "C": "TRÁNG",
+   "D": "Biểu tượng cường tráng, thông điệp về sức mạnh"
+ },
+ {
+   "A": "准",
+   "B": "Zhǔn",
+   "C": "CHUẨN",
+   "D": "Biểu tượng chuẩn mực, thông điệp về sự chính xác"
+ },
+ {
+   "A": "卓",
+   "B": "Zhuó",
+   "C": "TRÁC",
+   "D": "Biểu tượng xuất chúng, thông điệp về tài năng vượt trội"
+ },
+ {
+   "A": "琛",
+   "B": "Chēn",
+   "C": "SÂM",
+   "D": "Biểu tượng ngọc quý, thông điệp về giá trị"
+ },
+ {
+   "A": "腾",
+   "B": "Téng",
+   "C": "ĐẰNG",
+   "D": "Biểu tượng bay lên, thông điệp về sự thăng tiến"
+ },
+ {
+   "A": "聞",
+   "B": "Wén",
+   "C": "VĂN",
+   "D": "Biểu tượng nghe thấy (phồn thể), thông điệp về sự thấu hiểu"
+ },
+ {
+   "A": "宗",
+   "B": "Zōng",
+   "C": "TÔN",
+   "D": "Biểu tượng tổ tiên, thông điệp về truyền thống"
+ },
+ {
+   "A": "邹",
+   "B": "Zōu",
+   "C": "TRÂU",
+   "D": "Biểu tượng họ Trâu, thông điệp về nguồn gốc"
+ },
+ {
+   "A": "祖",
+   "B": "Zǔ",
+   "C": "TỔ",
+   "D": "Biểu tượng tổ tiên, thông điệp về nguồn cội"
+ },
+ {
+   "A": "纘",
+   "B": "Zuǎn",
+   "C": "TOẢN",
+   "D": "Biểu tượng kế thừa, thông điệp về sự tiếp nối"
+ },
+ {
+   "A": "鑽",
+   "B": "Zuàn",
+   "C": "TOẢN",
+   "D": "Biểu tượng kim cương, thông điệp về sự quý giá"
+ },
+ {
+   "A": "尊",
+   "B": "Zūn",
+   "C": "TÔN",
+   "D": "Biểu tượng tôn kính, thông điệp về sự tôn trọng"
+ },
+ {
+   "A": "室",
+   "B": "Shì",
+   "C": "THẤT",
+   "D": "Biểu tượng căn phòng, thông điệp về không gian riêng"
+ },
+ {
+   "A": "左",
+   "B": "Zuǒ",
+   "C": "TẢ",
+   "D": "Biểu tượng bên trái, thông điệp về sự hỗ trợ"
+ }
+]
