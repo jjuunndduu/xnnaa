@@ -1,0 +1,3482 @@
+[
+ {
+   "hanzi": "你好",
+   "pinyin": "Nǐ hǎo",
+   "vietnam": "Xin chào.",
+   "ID": "a1"
+ },
+ {
+   "hanzi": "你好吗",
+   "pinyin": "Nǐ hǎo ma",
+   "vietnam": "Bạn khỏe không?",
+   "ID": "a2"
+ },
+ {
+   "hanzi": "我很好",
+   "pinyin": "Wǒ hěn hǎo",
+   "vietnam": "Tôi rất khỏe.",
+   "ID": "a3"
+ },
+ {
+   "hanzi": "你呢",
+   "pinyin": "Nǐ ne",
+   "vietnam": "Còn bạn?",
+   "ID": "a4"
+ },
+ {
+   "hanzi": "我是学生",
+   "pinyin": "Wǒ shì xuéshēng",
+   "vietnam": "Tôi là học sinh.",
+   "ID": "a5"
+ },
+ {
+   "hanzi": "你是老师吗",
+   "pinyin": "Nǐ shì lǎoshī ma",
+   "vietnam": "Bạn là giáo viên à?",
+   "ID": "a6"
+ },
+ {
+   "hanzi": "我不是老师",
+   "pinyin": "Wǒ bú shì lǎoshī",
+   "vietnam": "Tôi không phải là giáo viên.",
+   "ID": "a7"
+ },
+ {
+   "hanzi": "他是学生",
+   "pinyin": "Tā shì xuéshēng",
+   "vietnam": "Anh ấy là học sinh.",
+   "ID": "a8"
+ },
+ {
+   "hanzi": "她是老师",
+   "pinyin": "Tā shì lǎoshī",
+   "vietnam": "Cô ấy là giáo viên.",
+   "ID": "a9"
+ },
+ {
+   "hanzi": "我是中国人",
+   "pinyin": "Wǒ shì Zhōngguó rén",
+   "vietnam": "Tôi là người Trung Quốc.",
+   "ID": "a10"
+ },
+ {
+   "hanzi": "你是中国人吗",
+   "pinyin": "Nǐ shì Zhōngguó rén ma",
+   "vietnam": "Bạn là người Trung Quốc à?",
+   "ID": "a11"
+ },
+ {
+   "hanzi": "我不是中国人",
+   "pinyin": "Wǒ bú shì Zhōngguó rén",
+   "vietnam": "Tôi không phải là người Trung Quốc.",
+   "ID": "a12"
+ },
+ {
+   "hanzi": "你是学生吗",
+   "pinyin": "Nǐ shì xuéshēng ma",
+   "vietnam": "Bạn là học sinh à?",
+   "ID": "a13"
+ },
+ {
+   "hanzi": "我也是学生",
+   "pinyin": "Wǒ yě shì xuéshēng",
+   "vietnam": "Tôi cũng là học sinh.",
+   "ID": "a14"
+ },
+ {
+   "hanzi": "他好吗",
+   "pinyin": "Tā hǎo ma",
+   "vietnam": "Anh ấy khỏe không?",
+   "ID": "a15"
+ },
+ {
+   "hanzi": "他很好",
+   "pinyin": "Tā hěn hǎo",
+   "vietnam": "Anh ấy rất khỏe.",
+   "ID": "a16"
+ },
+ {
+   "hanzi": "她好吗",
+   "pinyin": "Tā hǎo ma",
+   "vietnam": "Cô ấy khỏe không?",
+   "ID": "a17"
+ },
+ {
+   "hanzi": "她也很好",
+   "pinyin": "Tā yě hěn hǎo",
+   "vietnam": "Cô ấy cũng rất khỏe.",
+   "ID": "a18"
+ },
+ {
+   "hanzi": "你是老师",
+   "pinyin": "Nǐ shì lǎoshī",
+   "vietnam": "Bạn là thầy",
+   "ID": "a19"
+ },
+ {
+   "hanzi": "我们都是中国人",
+   "pinyin": "Wǒmen dōu shì Zhōngguó rén",
+   "vietnam": "Chúng tôi đều là người Trung Quốc.",
+   "ID": "a20"
+ },
+ {
+   "hanzi": "汉语不太难",
+   "pinyin": "Hànyǔ bú tài nán.",
+   "vietnam": "Tiếng Hán không quá khó.",
+   "ID": "b1"
+ },
+ {
+   "hanzi": "汉语很难吗",
+   "pinyin": "Hànyǔ hěn nán ma?",
+   "vietnam": "Tiếng Hán rất khó à?",
+   "ID": "b2"
+ },
+ {
+   "hanzi": "汉语不难",
+   "pinyin": "Hànyǔ bù nán.",
+   "vietnam": "Tiếng Hán không khó.",
+   "ID": "b3"
+ },
+ {
+   "hanzi": "汉语很有意思",
+   "pinyin": "Hànyǔ hěn yǒu yìsi.",
+   "vietnam": "Tiếng Hán rất thú vị.",
+   "ID": "b4"
+ },
+ {
+   "hanzi": "我学汉语",
+   "pinyin": "Wǒ xué Hànyǔ.",
+   "vietnam": "Tôi học tiếng Hán.",
+   "ID": "b5"
+ },
+ {
+   "hanzi": "你学汉语吗",
+   "pinyin": "Nǐ xué Hànyǔ ma?",
+   "vietnam": "Bạn học tiếng Hán à?",
+   "ID": "b6"
+ },
+ {
+   "hanzi": "我们都学汉语",
+   "pinyin": "Wǒmen dōu xué Hànyǔ.",
+   "vietnam": "Chúng tôi đều học tiếng Hán.",
+   "ID": "b7"
+ },
+ {
+   "hanzi": "他也学汉语",
+   "pinyin": "Tā yě xué Hànyǔ.",
+   "vietnam": "Anh ấy cũng học tiếng Hán.",
+   "ID": "b8"
+ },
+ {
+   "hanzi": "他们学习汉语",
+   "pinyin": "Tāmen xuéxí Hànyǔ.",
+   "vietnam": "Họ học tiếng Hán.",
+   "ID": "b9"
+ },
+ {
+   "hanzi": "你们呢",
+   "pinyin": "Nǐmen ne?",
+   "vietnam": "Còn các bạn?",
+   "ID": "b10"
+ },
+ {
+   "hanzi": "我爸爸",
+   "pinyin": "Wǒ bàba.",
+   "vietnam": "Đây là bố tôi.",
+   "ID": "b11"
+ },
+ {
+   "hanzi": "我妈妈",
+   "pinyin": "Wǒ māma.",
+   "vietnam": "Đây là mẹ tôi.",
+   "ID": "b12"
+ },
+ {
+   "hanzi": "他是我哥哥",
+   "pinyin": "Tā shì wǒ gēge.",
+   "vietnam": "Anh ấy là anh trai tôi.",
+   "ID": "b13"
+ },
+ {
+   "hanzi": "她是我姐姐",
+   "pinyin": "Tā shì wǒ jiějie.",
+   "vietnam": "Cô ấy là chị gái tôi.",
+   "ID": "b14"
+ },
+ {
+   "hanzi": "他是我弟弟",
+   "pinyin": "Tā shì wǒ dìdi.",
+   "vietnam": "Anh ấy là em trai tôi.",
+   "ID": "b15"
+ },
+ {
+   "hanzi": "她是我妹妹",
+   "pinyin": "Tā shì wǒ mèimei.",
+   "vietnam": "Cô ấy là em gái tôi.",
+   "ID": "b16"
+ },
+ {
+   "hanzi": "他们是学生",
+   "pinyin": "Tāmen shì xuéshēng.",
+   "vietnam": "Họ là học sinh.",
+   "ID": "b17"
+ },
+ {
+   "hanzi": "我们是朋友",
+   "pinyin": "Wǒmen shì péngyou.",
+   "vietnam": "Chúng tôi là bạn bè.",
+   "ID": "b18"
+ },
+ {
+   "hanzi": "汉语老师很忙",
+   "pinyin": "Hànyǔ lǎoshī hěn máng.",
+   "vietnam": "Thầy cô dạy tiếng Hán rất bận.",
+   "ID": "b19"
+ },
+ {
+   "hanzi": "学汉语不容易",
+   "pinyin": "Xué Hànyǔ bù róngyì.",
+   "vietnam": "Học tiếng Hán không dễ.",
+   "ID": "b20"
+ },
+ {
+   "hanzi": "今天见",
+   "pinyin": "Jīntiān jiàn.",
+   "vietnam": "Hôm nay gặp.",
+   "ID": "c1"
+ },
+ {
+   "hanzi": "明天见",
+   "pinyin": "Míngtiān jiàn.",
+   "vietnam": "Ngày mai gặp.",
+   "ID": "c2"
+ },
+ {
+   "hanzi": "今天再见",
+   "pinyin": "Jīntiān zàijiàn.",
+   "vietnam": "Hôm nay tạm biệt.",
+   "ID": "c3"
+ },
+ {
+   "hanzi": "明天再见",
+   "pinyin": "Míngtiān zàijiàn.",
+   "vietnam": "Ngày mai tạm biệt.",
+   "ID": "c4"
+ },
+ {
+   "hanzi": "再见",
+   "pinyin": "Zàijiàn!",
+   "vietnam": "Tạm biệt!",
+   "ID": "c5"
+ },
+ {
+   "hanzi": "谢谢",
+   "pinyin": "Xièxie!",
+   "vietnam": "Cảm ơn!",
+   "ID": "c6"
+ },
+ {
+   "hanzi": "不客气",
+   "pinyin": "Bú kèqi.",
+   "vietnam": "Không có gì.",
+   "ID": "c7"
+ },
+ {
+   "hanzi": "今天谢谢你",
+   "pinyin": "Jīntiān xièxie nǐ.",
+   "vietnam": "Hôm nay cảm ơn bạn.",
+   "ID": "c8"
+ },
+ {
+   "hanzi": "明天谢谢你",
+   "pinyin": "Míngtiān xièxie nǐ.",
+   "vietnam": "Ngày mai cảm ơn bạn.",
+   "ID": "c9"
+ },
+ {
+   "hanzi": "今天见老师",
+   "pinyin": "Jīntiān jiàn lǎoshī.",
+   "vietnam": "Hôm nay gặp thầy/cô.",
+   "ID": "c10"
+ },
+ {
+   "hanzi": "明天见同学",
+   "pinyin": "Míngtiān jiàn tóngxué.",
+   "vietnam": "Ngày mai gặp bạn học.",
+   "ID": "c11"
+ },
+ {
+   "hanzi": "今天见朋友",
+   "pinyin": "Jīntiān jiàn péngyǒu.",
+   "vietnam": "Hôm nay gặp bạn bè.",
+   "ID": "c12"
+ },
+ {
+   "hanzi": "明天再见老师",
+   "pinyin": "Míngtiān zàijiàn lǎoshī.",
+   "vietnam": "Ngày mai tạm biệt thầy/cô.",
+   "ID": "c13"
+ },
+ {
+   "hanzi": "今天再见朋友",
+   "pinyin": "Jīntiān zàijiàn péngyǒu.",
+   "vietnam": "Hôm nay tạm biệt bạn bè.",
+   "ID": "c14"
+ },
+ {
+   "hanzi": "明天见你",
+   "pinyin": "Míngtiān jiàn nǐ.",
+   "vietnam": "Ngày mai gặp bạn.",
+   "ID": "c15"
+ },
+ {
+   "hanzi": "今天见他",
+   "pinyin": "Jīntiān jiàn tā.",
+   "vietnam": "Hôm nay gặp anh ấy.",
+   "ID": "c16"
+ },
+ {
+   "hanzi": "明天见她",
+   "pinyin": "Míngtiān jiàn tā.",
+   "vietnam": "Ngày mai gặp cô ấy.",
+   "ID": "c17"
+ },
+ {
+   "hanzi": "今天再见他",
+   "pinyin": "Jīntiān zàijiàn tā.",
+   "vietnam": "Hôm nay tạm biệt anh ấy.",
+   "ID": "c18"
+ },
+ {
+   "hanzi": "明天再见她",
+   "pinyin": "Míngtiān zàijiàn tā.",
+   "vietnam": "Ngày mai tạm biệt cô ấy.",
+   "ID": "c19"
+ },
+ {
+   "hanzi": "谢谢老师",
+   "pinyin": "Xièxie lǎoshī.",
+   "vietnam": "Cảm ơn thầy/cô.",
+   "ID": "c20"
+ },
+ {
+   "hanzi": "你去哪儿",
+   "pinyin": "Nǐ qù nǎr?",
+   "vietnam": "Bạn đi đâu đấy?",
+   "ID": "d1"
+ },
+ {
+   "hanzi": "我去学校",
+   "pinyin": "Wǒ qù xuéxiào.",
+   "vietnam": "Tôi đi trường học.",
+   "ID": "d2"
+ },
+ {
+   "hanzi": "他去图书馆",
+   "pinyin": "Tā qù túshūguǎn.",
+   "vietnam": "Anh ấy đi thư viện.",
+   "ID": "d3"
+ },
+ {
+   "hanzi": "她去教室",
+   "pinyin": "Tā qù jiàoshì.",
+   "vietnam": "Cô ấy đi lớp học.",
+   "ID": "d4"
+ },
+ {
+   "hanzi": "我去食堂",
+   "pinyin": "Wǒ qù shítáng.",
+   "vietnam": "Tôi đi nhà ăn.",
+   "ID": "d5"
+ },
+ {
+   "hanzi": "你去商店吗",
+   "pinyin": "Nǐ qù shāngdiàn ma?",
+   "vietnam": "Bạn đi cửa hàng à?",
+   "ID": "d6"
+ },
+ {
+   "hanzi": "我不去商店",
+   "pinyin": "Wǒ bú qù shāngdiàn.",
+   "vietnam": "Tôi không đi cửa hàng.",
+   "ID": "d7"
+ },
+ {
+   "hanzi": "他也去学校",
+   "pinyin": "Tā yě qù xuéxiào.",
+   "vietnam": "Anh ấy cũng đi trường học.",
+   "ID": "d8"
+ },
+ {
+   "hanzi": "我们都去图书馆",
+   "pinyin": "Wǒmen dōu qù túshūguǎn.",
+   "vietnam": "Chúng tôi đều đi thư viện.",
+   "ID": "d9"
+ },
+ {
+   "hanzi": "他们去教室",
+   "pinyin": "Tāmen qù jiàoshì.",
+   "vietnam": "Họ đi lớp học.",
+   "ID": "d10"
+ },
+ {
+   "hanzi": "你在哪儿",
+   "pinyin": "Nǐ zài nǎr?",
+   "vietnam": "Bạn ở đâu?",
+   "ID": "d11"
+ },
+ {
+   "hanzi": "我在学校",
+   "pinyin": "Wǒ zài xuéxiào.",
+   "vietnam": "Tôi ở trường học.",
+   "ID": "d12"
+ },
+ {
+   "hanzi": "他在食堂",
+   "pinyin": "Tā zài shítáng.",
+   "vietnam": "Anh ấy ở nhà ăn.",
+   "ID": "d13"
+ },
+ {
+   "hanzi": "她在图书馆",
+   "pinyin": "Tā zài túshūguǎn.",
+   "vietnam": "Cô ấy ở thư viện.",
+   "ID": "d14"
+ },
+ {
+   "hanzi": "我在教室学习",
+   "pinyin": "Wǒ zài jiàoshì xuéxí.",
+   "vietnam": "Tôi học ở lớp học.",
+   "ID": "d15"
+ },
+ {
+   "hanzi": "他在学校工作",
+   "pinyin": "Tā zài xuéxiào gōngzuò.",
+   "vietnam": "Anh ấy làm việc ở trường học.",
+   "ID": "d16"
+ },
+ {
+   "hanzi": "她在商店工作",
+   "pinyin": "Tā zài shāngdiàn gōngzuò.",
+   "vietnam": "Cô ấy làm việc ở cửa hàng.",
+   "ID": "d17"
+ },
+ {
+   "hanzi": "我去学校学习",
+   "pinyin": "Wǒ qù xuéxiào xuéxí.",
+   "vietnam": "Tôi đi trường học để học tập.",
+   "ID": "d18"
+ },
+ {
+   "hanzi": "他去图书馆看书",
+   "pinyin": "Tā qù túshūguǎn kàn shū.",
+   "vietnam": "Anh ấy đi thư viện đọc sách.",
+   "ID": "d19"
+ },
+ {
+   "hanzi": "明天我们去学校",
+   "pinyin": "Míngtiān wǒmen qù xuéxiào.",
+   "vietnam": "Ngày mai chúng tôi đi trường học.",
+   "ID": "d20"
+ },
+ {
+   "hanzi": "这是王老师",
+   "pinyin": "Zhè shì Wáng lǎoshī.",
+   "vietnam": "Đây là thầy Vương.",
+   "ID": "e1"
+ },
+ {
+   "hanzi": "那是张老师",
+   "pinyin": "Nà shì Zhāng lǎoshī.",
+   "vietnam": "Kia là thầy Trương.",
+   "ID": "e2"
+ },
+ {
+   "hanzi": "他是谁",
+   "pinyin": "Tā shì shéi?",
+   "vietnam": "Anh ấy là ai?",
+   "ID": "e3"
+ },
+ {
+   "hanzi": "她是谁",
+   "pinyin": "Tā shì shéi?",
+   "vietnam": "Cô ấy là ai?",
+   "ID": "e4"
+ },
+ {
+   "hanzi": "这是李老师",
+   "pinyin": "Zhè shì Lǐ lǎoshī.",
+   "vietnam": "Đây là thầy Lý.",
+   "ID": "e5"
+ },
+ {
+   "hanzi": "那是谁",
+   "pinyin": "Nà shì shéi?",
+   "vietnam": "Kia là ai?",
+   "ID": "e6"
+ },
+ {
+   "hanzi": "我是留学生",
+   "pinyin": "Wǒ shì liúxuéshēng",
+   "vietnam": "Tôi là du học sinh.",
+   "ID": "e7"
+ },
+ {
+   "hanzi": "他是不是学生",
+   "pinyin": "Tā shì bù shì xuésheng?",
+   "vietnam": "Anh ấy có phải là học sinh không?",
+   "ID": "e8"
+ },
+ {
+   "hanzi": "她是学生",
+   "pinyin": "Tā shì xuéshēng.",
+   "vietnam": "Cô ấy là học sinh.",
+   "ID": "e9"
+ },
+ {
+   "hanzi": "这是我的老师",
+   "pinyin": "Zhè shì wǒ de lǎoshī.",
+   "vietnam": "Đây là thầy/cô giáo của tôi.",
+   "ID": "e10"
+ },
+ {
+   "hanzi": "那是你的老师吗",
+   "pinyin": "Nà shì nǐ de lǎoshī ma?",
+   "vietnam": "Kia là thầy/cô giáo của bạn à?",
+   "ID": "e11"
+ },
+ {
+   "hanzi": "这是王老师的学生",
+   "pinyin": "Zhè shì Wáng lǎoshī de xuéshēng.",
+   "vietnam": "Đây là học sinh của thầy Vương.",
+   "ID": "e12"
+ },
+ {
+   "hanzi": "那是张老师的朋友",
+   "pinyin": "Nà shì Zhāng lǎoshī de péngyou.",
+   "vietnam": "Kia là bạn của thầy Trương.",
+   "ID": "e13"
+ },
+ {
+   "hanzi": "他是我的朋友",
+   "pinyin": "Tā shì wǒ de péngyou.",
+   "vietnam": "Anh ấy là bạn của tôi.",
+   "ID": "e14"
+ },
+ {
+   "hanzi": "她是你的朋友吗",
+   "pinyin": "Tā shì nǐ de péngyou ma?",
+   "vietnam": "Cô ấy là bạn của bạn à?",
+   "ID": "e15"
+ },
+ {
+   "hanzi": "这是我的朋友",
+   "pinyin": "Zhè shì wǒ de péngyou.",
+   "vietnam": "Đây là bạn của tôi.",
+   "ID": "e16"
+ },
+ {
+   "hanzi": "这是张老师吗",
+   "pinyin": "Zhè shì Zhāng lǎoshī ma?",
+   "vietnam": "Đây là thầy Trương à?",
+   "ID": "e17"
+ },
+ {
+   "hanzi": "那是李老师吗",
+   "pinyin": "Nà shì Lǐ lǎoshī ma?",
+   "vietnam": "Kia là thầy Lý à?",
+   "ID": "e18"
+ },
+ {
+   "hanzi": "王老师是我的老师",
+   "pinyin": "Wáng lǎoshī shì wǒ de lǎoshī.",
+   "vietnam": "Thầy Vương là thầy của tôi.",
+   "ID": "e19"
+ },
+ {
+   "hanzi": "张老师是他的老师",
+   "pinyin": "Zhāng lǎoshī shì tā de lǎoshī.",
+   "vietnam": "Thầy Trương là thầy của anh ấy.",
+   "ID": "e20"
+ },
+ {
+   "hanzi": "我学习汉语",
+   "pinyin": "Wǒ xuéxí Hànyǔ.",
+   "vietnam": "Tôi học tiếng Hán.",
+   "ID": "f1"
+ },
+ {
+   "hanzi": "你学习汉语吗",
+   "pinyin": "Nǐ xuéxí Hànyǔ ma?",
+   "vietnam": "Bạn học tiếng Hán không?",
+   "ID": "f2"
+ },
+ {
+   "hanzi": "他学习英语",
+   "pinyin": "Tā xuéxí Yīngyǔ.",
+   "vietnam": "Anh ấy học tiếng Anh.",
+   "ID": "f3"
+ },
+ {
+   "hanzi": "她学习日语",
+   "pinyin": "Tā xuéxí Rìyǔ.",
+   "vietnam": "Cô ấy học tiếng Nhật.",
+   "ID": "f4"
+ },
+ {
+   "hanzi": "我们学习德语",
+   "pinyin": "Wǒmen xuéxí Déyǔ.",
+   "vietnam": "Chúng tôi học tiếng Đức.",
+   "ID": "f5"
+ },
+ {
+   "hanzi": "他们学习法语",
+   "pinyin": "Tāmen xuéxí Fǎyǔ.",
+   "vietnam": "Họ học tiếng Pháp.",
+   "ID": "f6"
+ },
+ {
+   "hanzi": "我学习俄语",
+   "pinyin": "Wǒ xuéxí Éyǔ.",
+   "vietnam": "Tôi học tiếng Nga.",
+   "ID": "f7"
+ },
+ {
+   "hanzi": "你学习什么语言",
+   "pinyin": "Nǐ xuéxí shénme yǔyán?",
+   "vietnam": "Bạn học ngôn ngữ gì?",
+   "ID": "f8"
+ },
+ {
+   "hanzi": "我学习西班牙语",
+   "pinyin": "Wǒ xuéxí Xībānyáyǔ.",
+   "vietnam": "Tôi học tiếng Tây Ban Nha.",
+   "ID": "f9"
+ },
+ {
+   "hanzi": "我不是学生",
+   "pinyin": "Wǒ bù shì xuésheng",
+   "vietnam": "Tôi không phải là học sinh.",
+   "ID": "f10"
+ },
+ {
+   "hanzi": "他是老师",
+   "pinyin": "Tā shì lǎoshī.",
+   "vietnam": "Anh ấy là thầy giáo.",
+   "ID": "f11"
+ },
+ {
+   "hanzi": "你是不是学生",
+   "pinyin": "Nǐ shì bù shì xuésheng?",
+   "vietnam": "Bạn có phải là học sinh không?",
+   "ID": "f12"
+ },
+ {
+   "hanzi": "他不是老师",
+   "pinyin": "Tā bú shì lǎoshī.",
+   "vietnam": "Anh ấy không phải là thầy giáo.",
+   "ID": "f13"
+ },
+ {
+   "hanzi": "我学习一点儿汉语",
+   "pinyin": "Wǒ xuéxí yìdiǎnr Hànyǔ.",
+   "vietnam": "Tôi học một chút tiếng Hán.",
+   "ID": "f14"
+ },
+ {
+   "hanzi": "你们学习英语吗",
+   "pinyin": "Nǐmen xuéxí Yīngyǔ ma?",
+   "vietnam": "Các bạn học tiếng Anh không?",
+   "ID": "f15"
+ },
+ {
+   "hanzi": "她是法语老师",
+   "pinyin": "Tā shì Fǎyǔ lǎoshī",
+   "vietnam": "Cô ấy là giáo viên tiếng Pháp",
+   "ID": "f16"
+ },
+ {
+   "hanzi": "我不是法语老师",
+   "pinyin": "Wǒ bù shì Fǎyǔ lǎoshī",
+   "vietnam": "Tôi không phải là giáo viên tiếng Pháp.",
+   "ID": "f17"
+ },
+ {
+   "hanzi": "我们学习语言",
+   "pinyin": "Wǒmen xuéxí yǔyán.",
+   "vietnam": "Chúng tôi học ngôn ngữ.",
+   "ID": "f18"
+ },
+ {
+   "hanzi": "你学习汉语还是英语",
+   "pinyin": "Nǐ xuéxí Hànyǔ háishi Yīngyǔ?",
+   "vietnam": "Bạn học tiếng Hán hay tiếng Anh?",
+   "ID": "f19"
+ },
+ {
+   "hanzi": "我学习汉语也学习英语",
+   "pinyin": "Wǒ xuéxí Hànyǔ yě xuéxí Yīngyǔ.",
+   "vietnam": "Tôi học tiếng Hán cũng học tiếng Anh.",
+   "ID": "f20"
+ },
+ {
+   "hanzi": "你吃什么",
+   "pinyin": "nǐ chī shénme?",
+   "vietnam": "Bạn ăn gì?",
+   "ID": "g1"
+ },
+ {
+   "hanzi": "我吃馒头",
+   "pinyin": "wǒ chī mántou.",
+   "vietnam": "Tôi ăn bánh bao chay.",
+   "ID": "g2"
+ },
+ {
+   "hanzi": "他吃米饭",
+   "pinyin": "tā chī mǐfàn.",
+   "vietnam": "Anh ấy ăn cơm.",
+   "ID": "g3"
+ },
+ {
+   "hanzi": "她吃饺子",
+   "pinyin": "tā chī jiǎozi.",
+   "vietnam": "Cô ấy ăn sủi cảo.",
+   "ID": "g4"
+ },
+ {
+   "hanzi": "我吃包子",
+   "pinyin": "wǒ chī bāozi.",
+   "vietnam": "Tôi ăn bánh bao.",
+   "ID": "g5"
+ },
+ {
+   "hanzi": "我不吃面条",
+   "pinyin": "wǒ bù chī miàntiáo.",
+   "vietnam": "Tôi không ăn mì.",
+   "ID": "g6"
+ },
+ {
+   "hanzi": "你喝什么",
+   "pinyin": "nǐ hē shénme?",
+   "vietnam": "Bạn uống gì?",
+   "ID": "g7"
+ },
+ {
+   "hanzi": "我喝水",
+   "pinyin": "wǒ hē shuǐ.",
+   "vietnam": "Tôi uống nước.",
+   "ID": "g8"
+ },
+ {
+   "hanzi": "他喝茶",
+   "pinyin": "tā hē chá.",
+   "vietnam": "Anh ấy uống trà.",
+   "ID": "g9"
+ },
+ {
+   "hanzi": "她喝牛奶",
+   "pinyin": "tā hē niúnǎi.",
+   "vietnam": "Cô ấy uống sữa.",
+   "ID": "g10"
+ },
+ {
+   "hanzi": "我喝咖啡",
+   "pinyin": "wǒ hē kāfēi.",
+   "vietnam": "Tôi uống cà phê.",
+   "ID": "g11"
+ },
+ {
+   "hanzi": "你要几个包子",
+   "pinyin": "nǐ yào jǐ gè bāozi?",
+   "vietnam": "Bạn muốn mấy cái bánh bao?",
+   "ID": "g12"
+ },
+ {
+   "hanzi": "我要两个馒头",
+   "pinyin": "wǒ yào liǎng gè mántou.",
+   "vietnam": "Tôi muốn 2 cái bánh bao chay.",
+   "ID": "g13"
+ },
+ {
+   "hanzi": "他要一碗面条",
+   "pinyin": "tā yào yì wǎn miàntiáo.",
+   "vietnam": "Anh ấy muốn 1 bát mì.",
+   "ID": "g14"
+ },
+ {
+   "hanzi": "我要一杯茶",
+   "pinyin": "wǒ yào yì bēi chá.",
+   "vietnam": "Tôi muốn 1 cốc trà.",
+   "ID": "g15"
+ },
+ {
+   "hanzi": "她要一瓶啤酒",
+   "pinyin": "tā yào yì píng píjiǔ.",
+   "vietnam": "Cô ấy muốn 1 chai bia.",
+   "ID": "g16"
+ },
+ {
+   "hanzi": "我买一斤苹果",
+   "pinyin": "wǒ mǎi yì jīn píngguǒ.",
+   "vietnam": "Tôi mua 1 cân táo.",
+   "ID": "g17"
+ },
+ {
+   "hanzi": "他买香蕉",
+   "pinyin": "tā mǎi xiāngjiāo.",
+   "vietnam": "Anh ấy mua chuối.",
+   "ID": "g18"
+ },
+ {
+   "hanzi": "这是谁的鸡蛋",
+   "pinyin": "zhè shì shéi de jīdàn?",
+   "vietnam": "Đây là trứng của ai?",
+   "ID": "g19"
+ },
+ {
+   "hanzi": "那是我的饺子",
+   "pinyin": "nà shì wǒ de jiǎozi.",
+   "vietnam": "Kia là sủi cảo của tôi.",
+   "ID": "g20"
+ },
+ {
+   "hanzi": "你要什么",
+   "pinyin": "Nǐ yào shénme?",
+   "vietnam": "Bạn muốn gì?",
+   "ID": "h1"
+ },
+ {
+   "hanzi": "我要苹果",
+   "pinyin": "Wǒ yào píngguǒ.",
+   "vietnam": "Tôi muốn táo.",
+   "ID": "h2"
+ },
+ {
+   "hanzi": "你要几个",
+   "pinyin": "Nǐ yào jǐ gè?",
+   "vietnam": "Bạn muốn mấy cái?",
+   "ID": "h3"
+ },
+ {
+   "hanzi": "我要两个",
+   "pinyin": "Wǒ yào liǎng gè.",
+   "vietnam": "Tôi muốn hai cái.",
+   "ID": "h4"
+ },
+ {
+   "hanzi": "一斤苹果多少钱",
+   "pinyin": "Yì jīn píngguǒ duōshao qián?",
+   "vietnam": "Một cân táo bao nhiêu tiền?",
+   "ID": "h5"
+ },
+ {
+   "hanzi": "三块",
+   "pinyin": "Sān kuài.",
+   "vietnam": "Ba tệ.",
+   "ID": "h6"
+ },
+ {
+   "hanzi": "这个苹果很大",
+   "pinyin": "Zhè ge píngguǒ hěn dà.",
+   "vietnam": "Quả táo này rất to.",
+   "ID": "h7"
+ },
+ {
+   "hanzi": "那个苹果很小",
+   "pinyin": "Nà ge píngguǒ hěn xiǎo.",
+   "vietnam": "Quả táo kia rất nhỏ.",
+   "ID": "h8"
+ },
+ {
+   "hanzi": "我买五斤",
+   "pinyin": "Wǒ mǎi wǔ jīn.",
+   "vietnam": "Tôi mua 5 cân.",
+   "ID": "h9"
+ },
+ {
+   "hanzi": "一共多少钱",
+   "pinyin": "Yígòng duōshao qián?",
+   "vietnam": "Tổng cộng bao nhiêu tiền?",
+   "ID": "h10"
+ },
+ {
+   "hanzi": "一共十五块",
+   "pinyin": "Yígòng shíwǔ kuài.",
+   "vietnam": "Tổng cộng 15 tệ.",
+   "ID": "h11"
+ },
+ {
+   "hanzi": "你要香蕉吗",
+   "pinyin": "Nǐ yào xiāngjiāo ma?",
+   "vietnam": "Bạn có muốn chuối không?",
+   "ID": "h12"
+ },
+ {
+   "hanzi": "我要香蕉",
+   "pinyin": "Wǒ yào xiāngjiāo.",
+   "vietnam": "Tôi muốn chuối.",
+   "ID": "h13"
+ },
+ {
+   "hanzi": "这个西瓜多少钱",
+   "pinyin": "Zhè ge xīguā duōshao qián?",
+   "vietnam": "Quả dưa hấu này bao nhiêu tiền?",
+   "ID": "h14"
+ },
+ {
+   "hanzi": "二十块",
+   "pinyin": "Èrshí kuài.",
+   "vietnam": "20 tệ.",
+   "ID": "h15"
+ },
+ {
+   "hanzi": "你买几个西瓜",
+   "pinyin": "Nǐ mǎi jǐ gè xīguā?",
+   "vietnam": "Bạn mua mấy quả dưa hấu?",
+   "ID": "h16"
+ },
+ {
+   "hanzi": "我买一个",
+   "pinyin": "Wǒ mǎi yí gè.",
+   "vietnam": "Tôi mua 1 quả.",
+   "ID": "h17"
+ },
+ {
+   "hanzi": "一斤香蕉多少钱",
+   "pinyin": "Yì jīn xiāngjiāo duōshao qián?",
+   "vietnam": "Một cân chuối bao nhiêu tiền?",
+   "ID": "h18"
+ },
+ {
+   "hanzi": "四块",
+   "pinyin": "Sì kuài.",
+   "vietnam": "4 tệ.",
+   "ID": "h19"
+ },
+ {
+   "hanzi": "你买苹果还是香蕉",
+   "pinyin": "Nǐ mǎi píngguǒ háishi xiāngjiāo?",
+   "vietnam": "Bạn mua táo hay chuối?",
+   "ID": "h20"
+ },
+ {
+   "hanzi": "你换钱吗",
+   "pinyin": "Nǐ huàn qián ma?",
+   "vietnam": "Bạn có đổi tiền không?",
+   "ID": "i1"
+ },
+ {
+   "hanzi": "我换人民币",
+   "pinyin": "Wǒ huàn Rénmínbì.",
+   "vietnam": "Tôi đổi nhân dân tệ.",
+   "ID": "i2"
+ },
+ {
+   "hanzi": "你换多少",
+   "pinyin": "Nǐ huàn duōshao?",
+   "vietnam": "Bạn đổi bao nhiêu?",
+   "ID": "i3"
+ },
+ {
+   "hanzi": "我换一百美元",
+   "pinyin": "Wǒ huàn yì bǎi Měiyuán.",
+   "vietnam": "Tôi đổi 100 đô la Mỹ.",
+   "ID": "i4"
+ },
+ {
+   "hanzi": "一美元换多少人民币",
+   "pinyin": "Yì Měiyuán huàn duōshao Rénmínbì?",
+   "vietnam": "1 đô la đổi được bao nhiêu nhân dân tệ?",
+   "ID": "i5"
+ },
+ {
+   "hanzi": "一美元换七块人民币",
+   "pinyin": "Yì Měiyuán huàn qī kuài Rénmínbì.",
+   "vietnam": "1 đô la đổi 7 tệ.",
+   "ID": "i6"
+ },
+ {
+   "hanzi": "请给我钱",
+   "pinyin": "Qǐng gěi wǒ qián.",
+   "vietnam": "Xin đưa tiền cho tôi.",
+   "ID": "i7"
+ },
+ {
+   "hanzi": "这是美元",
+   "pinyin": "Zhè shì Měiyuán.",
+   "vietnam": "Đây là đô la Mỹ.",
+   "ID": "i8"
+ },
+ {
+   "hanzi": "那是人民币",
+   "pinyin": "Nà shì Rénmínbì.",
+   "vietnam": "Kia là nhân dân tệ.",
+   "ID": "i9"
+ },
+ {
+   "hanzi": "你要多少美元",
+   "pinyin": "Nǐ yào duōshao Měiyuán?",
+   "vietnam": "Bạn muốn bao nhiêu đô la Mỹ?",
+   "ID": "i10"
+ },
+ {
+   "hanzi": "我要五百美元",
+   "pinyin": "Wǒ yào wǔ bǎi Měiyuán.",
+   "vietnam": "Tôi muốn 500 đô la Mỹ.",
+   "ID": "i11"
+ },
+ {
+   "hanzi": "你有人民币吗",
+   "pinyin": "Nǐ yǒu Rénmínbì ma?",
+   "vietnam": "Bạn có nhân dân tệ không?",
+   "ID": "i12"
+ },
+ {
+   "hanzi": "我没有人民币",
+   "pinyin": "Wǒ méiyǒu Rénmínbì.",
+   "vietnam": "Tôi không có nhân dân tệ.",
+   "ID": "i13"
+ },
+ {
+   "hanzi": "你有美元吗",
+   "pinyin": "Nǐ yǒu Měiyuán ma?",
+   "vietnam": "Bạn có đô la Mỹ không?",
+   "ID": "i14"
+ },
+ {
+   "hanzi": "我有美元",
+   "pinyin": "Wǒ yǒu Měiyuán.",
+   "vietnam": "Tôi có đô la Mỹ.",
+   "ID": "i15"
+ },
+ {
+   "hanzi": "请给我收据",
+   "pinyin": "Qǐng gěi wǒ shōujù.",
+   "vietnam": "Xin cho tôi biên lai.",
+   "ID": "i16"
+ },
+ {
+   "hanzi": "你去银行换钱吗",
+   "pinyin": "Nǐ qù yínháng huàn qián ma?",
+   "vietnam": "Bạn đi ngân hàng đổi tiền à?",
+   "ID": "i17"
+ },
+ {
+   "hanzi": "我在银行换钱",
+   "pinyin": "Wǒ zài yínháng huàn qián.",
+   "vietnam": "Tôi đổi tiền ở ngân hàng.",
+   "ID": "i18"
+ },
+ {
+   "hanzi": "他换日元",
+   "pinyin": "Tā huàn Rìyuán.",
+   "vietnam": "Anh ấy đổi yên Nhật.",
+   "ID": "i19"
+ },
+ {
+   "hanzi": "我们都换人民币",
+   "pinyin": "Wǒmen dōu huàn Rénmínbì.",
+   "vietnam": "Chúng tôi đều đổi nhân dân tệ.",
+   "ID": "i20"
+ },
+ {
+   "hanzi": "他住哪儿",
+   "pinyin": "Tā zhù nǎr?",
+   "vietnam": "Ông ấy sống ở đâu?",
+   "ID": "j1"
+ },
+ {
+   "hanzi": "他住在北京",
+   "pinyin": "Tā zhù zài Běijīng.",
+   "vietnam": "Ông ấy sống ở Bắc Kinh.",
+   "ID": "j2"
+ },
+ {
+   "hanzi": "她住在上海",
+   "pinyin": "Tā zhù zài Shànghǎi.",
+   "vietnam": "Cô ấy sống ở Thượng Hải.",
+   "ID": "j3"
+ },
+ {
+   "hanzi": "你住哪儿",
+   "pinyin": "Nǐ zhù nǎr?",
+   "vietnam": "Bạn sống ở đâu?",
+   "ID": "j4"
+ },
+ {
+   "hanzi": "我住在宿舍",
+   "pinyin": "Wǒ zhù zài sùshè.",
+   "vietnam": "Tôi sống ở ký túc xá.",
+   "ID": "j5"
+ },
+ {
+   "hanzi": "王老师住哪儿",
+   "pinyin": "Wáng lǎoshī zhù nǎr?",
+   "vietnam": "Thầy Vương sống ở đâu?",
+   "ID": "j6"
+ },
+ {
+   "hanzi": "王老师住在这儿",
+   "pinyin": "Wáng lǎoshī zhù zài zhèr.",
+   "vietnam": "Thầy Vương sống ở đây.",
+   "ID": "j7"
+ },
+ {
+   "hanzi": "你住在那儿吗",
+   "pinyin": "Nǐ zhù zài nàr ma?",
+   "vietnam": "Bạn sống ở kia à?",
+   "ID": "j8"
+ },
+ {
+   "hanzi": "我不住在那儿",
+   "pinyin": "Wǒ bú zhù zài nàr.",
+   "vietnam": "Tôi không sống ở kia.",
+   "ID": "j9"
+ },
+ {
+   "hanzi": "他们都住在学校",
+   "pinyin": "Tāmen dōu zhù zài xuéxiào.",
+   "vietnam": "Họ đều sống ở trường.",
+   "ID": "j10"
+ },
+ {
+   "hanzi": "她住在北京大学",
+   "pinyin": "Tā zhù zài Běijīng Dàxué.",
+   "vietnam": "Cô ấy sống ở Đại học Bắc Kinh.",
+   "ID": "j11"
+ },
+ {
+   "hanzi": "我们住在一起",
+   "pinyin": "Wǒmen zhù zài yīqǐ.",
+   "vietnam": "Chúng tôi sống cùng nhau.",
+   "ID": "j12"
+ },
+ {
+   "hanzi": "他住在朋友家",
+   "pinyin": "Tā zhù zài péngyǒu jiā.",
+   "vietnam": "Anh ấy sống ở nhà bạn.",
+   "ID": "j13"
+ },
+ {
+   "hanzi": "我住在这儿你呢",
+   "pinyin": "Wǒ zhù zài zhèr, nǐ ne?",
+   "vietnam": "Tôi sống ở đây, còn bạn?",
+   "ID": "j14"
+ },
+ {
+   "hanzi": "他不住在上海",
+   "pinyin": "Tā bú zhù zài Shànghǎi.",
+   "vietnam": "Anh ấy không sống ở Thượng Hải.",
+   "ID": "j15"
+ },
+ {
+   "hanzi": "老师住哪儿",
+   "pinyin": "Lǎoshī zhù nǎr?",
+   "vietnam": "Thầy/cô giáo sống ở đâu?",
+   "ID": "j16"
+ },
+ {
+   "hanzi": "我也住在北京",
+   "pinyin": "Wǒ yě zhù zài Běijīng.",
+   "vietnam": "Tôi cũng sống ở Bắc Kinh.",
+   "ID": "j17"
+ },
+ {
+   "hanzi": "她不住在宿舍",
+   "pinyin": "Tā bú zhù zài sùshè.",
+   "vietnam": "Cô ấy không sống ở ký túc xá.",
+   "ID": "j18"
+ },
+ {
+   "hanzi": "你们都住哪儿",
+   "pinyin": "Nǐmen dōu zhù nǎr?",
+   "vietnam": "Các bạn đều sống ở đâu?",
+   "ID": "j19"
+ },
+ {
+   "hanzi": "我们都住在这儿",
+   "pinyin": "Wǒmen dōu zhù zài zhèr.",
+   "vietnam": "Chúng tôi đều sống ở đây.",
+   "ID": "j20"
+ },
+ {
+   "hanzi": "我们都是留学生",
+   "pinyin": "Wǒmen dōu shì liúxuéshēng.",
+   "vietnam": "Chúng tôi đều là du học sinh.",
+   "ID": "k1"
+ },
+ {
+   "hanzi": "他们是老师",
+   "pinyin": "Tāmen shì lǎoshī.",
+   "vietnam": "Họ là thầy giáo.",
+   "ID": "k2"
+ },
+ {
+   "hanzi": "你们是学生吗",
+   "pinyin": "Nǐmen shì xuéshēng ma?",
+   "vietnam": "Các bạn là học sinh à?",
+   "ID": "k3"
+ },
+ {
+   "hanzi": "她们是中国人",
+   "pinyin": "Tāmen shì Zhōngguó rén.",
+   "vietnam": "Các cô ấy là người Trung Quốc.",
+   "ID": "k4"
+ },
+ {
+   "hanzi": "我不是英语老师",
+   "pinyin": "Wǒ bù shì Yīngyǔ lǎoshī",
+   "vietnam": "Tôi không phải là giáo viên tiếng Anh.",
+   "ID": "k5"
+ },
+ {
+   "hanzi": "我们是好朋友",
+   "pinyin": "Wǒmen shì hǎo péngyǒu",
+   "vietnam": "Chúng tôi là bạn tốt.",
+   "ID": "k6"
+ },
+ {
+   "hanzi": "他们都是留学生",
+   "pinyin": "Tāmen dōu shì liúxuéshēng.",
+   "vietnam": "Họ đều là du học sinh.",
+   "ID": "k7"
+ },
+ {
+   "hanzi": "你们都是学生吗",
+   "pinyin": "Nǐmen dōu shì xuéshēng ma?",
+   "vietnam": "Các bạn đều là học sinh à?",
+   "ID": "k8"
+ },
+ {
+   "hanzi": "她不是留学生",
+   "pinyin": "Tā bú shì liúxuéshēng.",
+   "vietnam": "Cô ấy không phải là du học sinh.",
+   "ID": "k9"
+ },
+ {
+   "hanzi": "我是学生他也是学生",
+   "pinyin": "Wǒ shì xuéshēng, tā yě shì xuéshēng.",
+   "vietnam": "Tôi là học sinh, anh ấy cũng là học sinh.",
+   "ID": "k10"
+ },
+ {
+   "hanzi": "他们不是老师",
+   "pinyin": "Tāmen bú shì lǎoshī.",
+   "vietnam": "Họ không phải là giáo viên.",
+   "ID": "k11"
+ },
+ {
+   "hanzi": "你们是中国人吗",
+   "pinyin": "Nǐmen shì Zhōngguó rén ma?",
+   "vietnam": "Các bạn là người Trung Quốc à?",
+   "ID": "k12"
+ },
+ {
+   "hanzi": "我是中国留学生",
+   "pinyin": "Wǒ shì Zhōngguó liúxuéshēng.",
+   "vietnam": "Tôi là du học sinh Trung Quốc.",
+   "ID": "k13"
+ },
+ {
+   "hanzi": "他们是我们同学",
+   "pinyin": "Tāmen shì wǒmen tóngxué.",
+   "vietnam": "Họ là bạn học của chúng tôi.",
+   "ID": "k14"
+ },
+ {
+   "hanzi": "我们不是老师",
+   "pinyin": "Wǒmen bú shì lǎoshī.",
+   "vietnam": "Chúng tôi không phải là giáo viên.",
+   "ID": "k15"
+ },
+ {
+   "hanzi": "你们是朋友吗",
+   "pinyin": "Nǐmen shì péngyǒu ma?",
+   "vietnam": "Các bạn là bạn bè à?",
+   "ID": "k16"
+ },
+ {
+   "hanzi": "他是学生她也是学生",
+   "pinyin": "Tā shì xuéshēng, tā yě shì xuéshēng.",
+   "vietnam": "Anh ấy là học sinh, cô ấy cũng là học sinh.",
+   "ID": "k17"
+ },
+ {
+   "hanzi": "她们都是朋友",
+   "pinyin": "Tāmen dōu shì péngyǒu.",
+   "vietnam": "Các cô ấy đều là bạn.",
+   "ID": "k18"
+ },
+ {
+   "hanzi": "你们都是留学生吗",
+   "pinyin": "Nǐmen dōu shì liúxuéshēng ma?",
+   "vietnam": "Các bạn đều là du học sinh à?",
+   "ID": "k19"
+ },
+ {
+   "hanzi": "我们是中国学生",
+   "pinyin": "Wǒmen shì Zhōngguó xuéshēng.",
+   "vietnam": "Chúng tôi là học sinh Trung Quốc.",
+   "ID": "k20"
+ },
+ {
+   "hanzi": "你在哪儿学习",
+   "pinyin": "Nǐ zài nǎr xuéxí?",
+   "vietnam": "Bạn học ở đâu?",
+   "ID": "l1"
+ },
+ {
+   "hanzi": "我在学校学习",
+   "pinyin": "Wǒ zài xuéxiào xuéxí.",
+   "vietnam": "Tôi học ở trường.",
+   "ID": "l2"
+ },
+ {
+   "hanzi": "他在家学习",
+   "pinyin": "Tā zài jiā xuéxí.",
+   "vietnam": "Anh ấy học ở nhà.",
+   "ID": "l3"
+ },
+ {
+   "hanzi": "她在北京学习",
+   "pinyin": "Tā zài Běijīng xuéxí.",
+   "vietnam": "Cô ấy học ở Bắc Kinh.",
+   "ID": "l4"
+ },
+ {
+   "hanzi": "我们在中国学习汉语",
+   "pinyin": "Wǒmen zài Zhōngguó xuéxí Hànyǔ.",
+   "vietnam": "Chúng tôi học tiếng Hán ở Trung Quốc.",
+   "ID": "l5"
+ },
+ {
+   "hanzi": "你在图书馆吗",
+   "pinyin": "Nǐ zài túshūguǎn ma?",
+   "vietnam": "Bạn có ở thư viện không?",
+   "ID": "l6"
+ },
+ {
+   "hanzi": "我在图书馆看书",
+   "pinyin": "Wǒ zài túshūguǎn kànshū.",
+   "vietnam": "Tôi đọc sách ở thư viện.",
+   "ID": "l7"
+ },
+ {
+   "hanzi": "他不在宿舍",
+   "pinyin": "Tā bù zài sùshè.",
+   "vietnam": "Anh ấy không ở ký túc xá.",
+   "ID": "l8"
+ },
+ {
+   "hanzi": "她在教室",
+   "pinyin": "Tā zài jiàoshì.",
+   "vietnam": "Cô ấy ở trong lớp học.",
+   "ID": "l9"
+ },
+ {
+   "hanzi": "你在哪儿工作",
+   "pinyin": "Nǐ zài nǎr gōngzuò?",
+   "vietnam": "Bạn làm việc ở đâu?",
+   "ID": "l10"
+ },
+ {
+   "hanzi": "我在公司工作",
+   "pinyin": "Wǒ zài gōngsī gōngzuò.",
+   "vietnam": "Tôi làm việc ở công ty.",
+   "ID": "l11"
+ },
+ {
+   "hanzi": "他在银行工作",
+   "pinyin": "Tā zài yínháng gōngzuò.",
+   "vietnam": "Anh ấy làm việc ở ngân hàng.",
+   "ID": "l12"
+ },
+ {
+   "hanzi": "老师在办公室",
+   "pinyin": "Lǎoshī zài bàngōngshì.",
+   "vietnam": "Thầy giáo ở văn phòng.",
+   "ID": "l13"
+ },
+ {
+   "hanzi": "我在宿舍休息",
+   "pinyin": "Wǒ zài sùshè xiūxi.",
+   "vietnam": "Tôi nghỉ ngơi ở ký túc xá.",
+   "ID": "l14"
+ },
+ {
+   "hanzi": "他们在操场运动",
+   "pinyin": "Tāmen zài cāochǎng yùndòng.",
+   "vietnam": "Họ tập thể dục ở sân vận động.",
+   "ID": "l15"
+ },
+ {
+   "hanzi": "我在教室学习汉语",
+   "pinyin": "Wǒ zài jiàoshì xuéxí Hànyǔ.",
+   "vietnam": "Tôi học tiếng Hán ở trong lớp.",
+   "ID": "l16"
+ },
+ {
+   "hanzi": "你们在哪儿吃饭",
+   "pinyin": "Nǐmen zài nǎr chīfàn?",
+   "vietnam": "Các bạn ăn cơm ở đâu?",
+   "ID": "l17"
+ },
+ {
+   "hanzi": "我们在食堂吃饭",
+   "pinyin": "Wǒmen zài shítáng chīfàn.",
+   "vietnam": "Chúng tôi ăn cơm ở nhà ăn.",
+   "ID": "l18"
+ },
+ {
+   "hanzi": "他在商店买东西",
+   "pinyin": "Tā zài shāngdiàn mǎi dōngxi.",
+   "vietnam": "Anh ấy mua đồ ở cửa hàng.",
+   "ID": "l19"
+ },
+ {
+   "hanzi": "她在医院工作",
+   "pinyin": "Tā zài yīyuàn gōngzuò.",
+   "vietnam": "Cô ấy làm việc ở bệnh viện.",
+   "ID": "l20"
+ },
+ {
+   "hanzi": "这不是中药",
+   "pinyin": "Zhè bú shì zhōngyào.",
+   "vietnam": "Đây không phải là thuốc Đông y.",
+   "ID": "m1"
+ },
+ {
+   "hanzi": "那是西药",
+   "pinyin": "Nà shì xīyào.",
+   "vietnam": "Kia là thuốc Tây.",
+   "ID": "m2"
+ },
+ {
+   "hanzi": "这是药",
+   "pinyin": "Zhè shì yào.",
+   "vietnam": "Đây là thuốc.",
+   "ID": "m3"
+ },
+ {
+   "hanzi": "那不是药",
+   "pinyin": "Nà bú shì yào.",
+   "vietnam": "Kia không phải là thuốc.",
+   "ID": "m4"
+ },
+ {
+   "hanzi": "我要买药",
+   "pinyin": "Wǒ yào mǎi yào.",
+   "vietnam": "Tôi muốn mua thuốc.",
+   "ID": "m5"
+ },
+ {
+   "hanzi": "他是医生",
+   "pinyin": "Tā shì yīshēng.",
+   "vietnam": "Anh ấy là bác sĩ.",
+   "ID": "m6"
+ },
+ {
+   "hanzi": "她不是医生",
+   "pinyin": "Tā bú shì yīshēng.",
+   "vietnam": "Cô ấy không phải bác sĩ.",
+   "ID": "m7"
+ },
+ {
+   "hanzi": "你是护士吗",
+   "pinyin": "Nǐ shì hùshi ma?",
+   "vietnam": "Bạn là y tá à?",
+   "ID": "m8"
+ },
+ {
+   "hanzi": "我不是护士",
+   "pinyin": "Wǒ bú shì hùshi.",
+   "vietnam": "Tôi không phải y tá.",
+   "ID": "m9"
+ },
+ {
+   "hanzi": "他是病人",
+   "pinyin": "Tā shì bìngrén.",
+   "vietnam": "Anh ấy là bệnh nhân.",
+   "ID": "m10"
+ },
+ {
+   "hanzi": "她不是病人",
+   "pinyin": "Tā bú shì bìngrén.",
+   "vietnam": "Cô ấy không phải bệnh nhân.",
+   "ID": "m11"
+ },
+ {
+   "hanzi": "医生在医院",
+   "pinyin": "Yīshēng zài yīyuàn.",
+   "vietnam": "Bác sĩ ở bệnh viện.",
+   "ID": "m12"
+ },
+ {
+   "hanzi": "病人在医院",
+   "pinyin": "Bìngrén zài yīyuàn.",
+   "vietnam": "Bệnh nhân ở bệnh viện.",
+   "ID": "m13"
+ },
+ {
+   "hanzi": "我去医院",
+   "pinyin": "Wǒ qù yīyuàn.",
+   "vietnam": "Tôi đi bệnh viện.",
+   "ID": "m14"
+ },
+ {
+   "hanzi": "他去药店",
+   "pinyin": "Tā qù yàodiàn.",
+   "vietnam": "Anh ấy đi hiệu thuốc.",
+   "ID": "m15"
+ },
+ {
+   "hanzi": "我要买中药",
+   "pinyin": "Wǒ yào mǎi zhōngyào.",
+   "vietnam": "Tôi muốn mua thuốc Đông y.",
+   "ID": "m16"
+ },
+ {
+   "hanzi": "他要买西药",
+   "pinyin": "Tā yào mǎi xīyào.",
+   "vietnam": "Anh ấy muốn mua thuốc Tây.",
+   "ID": "m17"
+ },
+ {
+   "hanzi": "你有药吗",
+   "pinyin": "Nǐ yǒu yào ma?",
+   "vietnam": "Bạn có thuốc không?",
+   "ID": "m18"
+ },
+ {
+   "hanzi": "我没有药",
+   "pinyin": "Wǒ méiyǒu yào.",
+   "vietnam": "Tôi không có thuốc.",
+   "ID": "m19"
+ },
+ {
+   "hanzi": "她有中药",
+   "pinyin": "Tā yǒu zhōngyào.",
+   "vietnam": "Cô ấy có thuốc Đông y.",
+   "ID": "m20"
+ },
+ {
+   "hanzi": "你的车是新的还是旧的",
+   "pinyin": "Nǐ de chē shì xīn de háishi jiù de?",
+   "vietnam": "Xe của bạn là mới hay cũ?",
+   "ID": "n1"
+ },
+ {
+   "hanzi": "我的车是新的",
+   "pinyin": "Wǒ de chē shì xīn de.",
+   "vietnam": "Xe của tôi là xe mới.",
+   "ID": "n2"
+ },
+ {
+   "hanzi": "他的车是旧的",
+   "pinyin": "Tā de chē shì jiù de.",
+   "vietnam": "Xe của anh ấy là xe cũ.",
+   "ID": "n3"
+ },
+ {
+   "hanzi": "这是我的车",
+   "pinyin": "Zhè shì wǒ de chē.",
+   "vietnam": "Đây là xe của tôi.",
+   "ID": "n4"
+ },
+ {
+   "hanzi": "那是你朋友的车吗",
+   "pinyin": "Nà shì nǐ péngyou de chē ma?",
+   "vietnam": "Kia có phải là xe của bạn bè bạn không?",
+   "ID": "n5"
+ },
+ {
+   "hanzi": "这是老师的车",
+   "pinyin": "Zhè shì lǎoshī de chē.",
+   "vietnam": "Đây là xe của thầy giáo.",
+   "ID": "n6"
+ },
+ {
+   "hanzi": "这辆车很新",
+   "pinyin": "Zhè liàng chē hěn xīn.",
+   "vietnam": "Chiếc xe này rất mới.",
+   "ID": "n7"
+ },
+ {
+   "hanzi": "那辆车很旧",
+   "pinyin": "Nà liàng chē hěn jiù.",
+   "vietnam": "Chiếc xe kia rất cũ.",
+   "ID": "n8"
+ },
+ {
+   "hanzi": "他买了一辆新车",
+   "pinyin": "Tā mǎile yī liàng xīn chē.",
+   "vietnam": "Anh ấy mua một chiếc xe mới.",
+   "ID": "n9"
+ },
+ {
+   "hanzi": "我没有车",
+   "pinyin": "Wǒ méiyǒu chē.",
+   "vietnam": "Tôi không có xe.",
+   "ID": "n10"
+ },
+ {
+   "hanzi": "你有车吗",
+   "pinyin": "Nǐ yǒu chē ma?",
+   "vietnam": "Bạn có xe không?",
+   "ID": "n11"
+ },
+ {
+   "hanzi": "这辆车不是新的",
+   "pinyin": "Zhè liàng chē bù shì xīn de.",
+   "vietnam": "Chiếc xe này không phải xe mới.",
+   "ID": "n12"
+ },
+ {
+   "hanzi": "那辆车不是旧的",
+   "pinyin": "Nà liàng chē bù shì jiù de.",
+   "vietnam": "Chiếc xe kia không phải xe cũ.",
+   "ID": "n13"
+ },
+ {
+   "hanzi": "我想买新车",
+   "pinyin": "Wǒ xiǎng mǎi xīn chē.",
+   "vietnam": "Tôi muốn mua xe mới.",
+   "ID": "n14"
+ },
+ {
+   "hanzi": "他不想买旧车",
+   "pinyin": "Tā bù xiǎng mǎi jiù chē.",
+   "vietnam": "Anh ấy không muốn mua xe cũ.",
+   "ID": "n15"
+ },
+ {
+   "hanzi": "这是中国车",
+   "pinyin": "Zhè shì Zhōngguó chē.",
+   "vietnam": "Đây là xe Trung Quốc.",
+   "ID": "n16"
+ },
+ {
+   "hanzi": "那是日本车",
+   "pinyin": "Nà shì Rìběn chē.",
+   "vietnam": "Kia là xe Nhật Bản.",
+   "ID": "n17"
+ },
+ {
+   "hanzi": "老师的车很大",
+   "pinyin": "Lǎoshī de chē hěn dà.",
+   "vietnam": "Xe của thầy giáo rất to.",
+   "ID": "n18"
+ },
+ {
+   "hanzi": "我的车很小",
+   "pinyin": "Wǒ de chē hěn xiǎo.",
+   "vietnam": "Xe của tôi rất nhỏ.",
+   "ID": "n19"
+ },
+ {
+   "hanzi": "你喜欢新车还是旧车",
+   "pinyin": "Nǐ xǐhuān xīn chē háishi jiù chē?",
+   "vietnam": "Bạn thích xe mới hay xe cũ?",
+   "ID": "n20"
+ },
+ {
+   "hanzi": "你在公司工作吗",
+   "pinyin": "Nǐ zài gōngsī gōngzuò ma?",
+   "vietnam": "Bạn làm việc ở công ty à?",
+   "ID": "o1"
+ },
+ {
+   "hanzi": "我在公司工作一年了",
+   "pinyin": "Wǒ zài gōngsī gōngzuò sān nián le",
+   "vietnam": "Tôi đã làm việc ở công ty được 3 năm rồi.",
+   "ID": "o2"
+ },
+ {
+   "hanzi": "他也是公司职员",
+   "pinyin": "Tā yě shì gōngsī zhíyuán.",
+   "vietnam": "Anh ấy cũng là nhân viên công ty.",
+   "ID": "o3"
+ },
+ {
+   "hanzi": "公司很大",
+   "pinyin": "Gōngsī hěn dà.",
+   "vietnam": "Công ty rất lớn.",
+   "ID": "o4"
+ },
+ {
+   "hanzi": "公司有很多职员",
+   "pinyin": "Gōngsī yǒu hěn duō zhíyuán.",
+   "vietnam": "Công ty có nhiều nhân viên.",
+   "ID": "o5"
+ },
+ {
+   "hanzi": "我们公司有五百个职员",
+   "pinyin": "Wǒmen gōngsī yǒu wǔbǎi gè zhíyuán.",
+   "vietnam": "Công ty chúng tôi có 500 nhân viên.",
+   "ID": "o6"
+ },
+ {
+   "hanzi": "你们公司有多少职员",
+   "pinyin": "Nǐmen gōngsī yǒu duōshao zhíyuán?",
+   "vietnam": "Công ty các bạn có bao nhiêu nhân viên?",
+   "ID": "o7"
+ },
+ {
+   "hanzi": "我在外贸公司工作",
+   "pinyin": "Wǒ zài wàimào gōngsī gōngzuò.",
+   "vietnam": "Tôi làm việc ở công ty ngoại thương.",
+   "ID": "o8"
+ },
+ {
+   "hanzi": "他在研究所学习",
+   "pinyin": "Tā zài yánjiūsuǒ xuéxí.",
+   "vietnam": "Anh ấy học ở viện nghiên cứu.",
+   "ID": "o9"
+ },
+ {
+   "hanzi": "公司经理是谁",
+   "pinyin": "Gōngsī jīnglǐ shì shéi?",
+   "vietnam": "Giám đốc công ty là ai?",
+   "ID": "o10"
+ },
+ {
+   "hanzi": "王经理是我们公司的经理",
+   "pinyin": "Wáng jīnglǐ shì wǒmen gōngsī de jīnglǐ.",
+   "vietnam": "Giám đốc Vương là giám đốc công ty chúng tôi.",
+   "ID": "o11"
+ },
+ {
+   "hanzi": "他在银行工作呢",
+   "pinyin": "Tā zài yínháng gōngzuò ne",
+   "vietnam": "Anh ấy đang làm việc ở ngân hàng.",
+   "ID": "o12"
+ },
+ {
+   "hanzi": "我爸爸在研究所工作",
+   "pinyin": "Wǒ bàba zài yánjiūsuǒ gōngzuò.",
+   "vietnam": "Bố tôi làm việc ở viện nghiên cứu.",
+   "ID": "o13"
+ },
+ {
+   "hanzi": "你哥哥在哪儿工作",
+   "pinyin": "Nǐ gēge zài nǎr gōngzuò?",
+   "vietnam": "Anh trai bạn làm việc ở đâu?",
+   "ID": "o14"
+ },
+ {
+   "hanzi": "我哥哥在银行工作",
+   "pinyin": "Wǒ gēge zài yínháng gōngzuò.",
+   "vietnam": "Anh trai tôi làm việc ở ngân hàng.",
+   "ID": "o15"
+ },
+ {
+   "hanzi": "公司有外贸部",
+   "pinyin": "Gōngsī yǒu wàimàobù.",
+   "vietnam": "Công ty có phòng ngoại thương.",
+   "ID": "o16"
+ },
+ {
+   "hanzi": "他是外贸公司的经理",
+   "pinyin": "Tā shì wàimào gōngsī de jīnglǐ.",
+   "vietnam": "Anh ấy là giám đốc công ty ngoại thương.",
+   "ID": "o17"
+ },
+ {
+   "hanzi": "公司有多少个部门",
+   "pinyin": "Gōngsī yǒu duōshao gè bùmén?",
+   "vietnam": "Công ty có bao nhiêu bộ phận?",
+   "ID": "o18"
+ },
+ {
+   "hanzi": "公司里有很多同事",
+   "pinyin": "Gōngsī lǐ yǒu hěn duō tóngshì.",
+   "vietnam": "Trong công ty có nhiều đồng nghiệp.",
+   "ID": "o19"
+ },
+ {
+   "hanzi": "我们都是外贸公司的职员",
+   "pinyin": "Wǒmen dōu shì wàimào gōngsī de zhíyuán.",
+   "vietnam": "Chúng tôi đều là nhân viên công ty ngoại thương.",
+   "ID": "o20"
+ },
+ {
+   "hanzi": "我们都要坐车去学校",
+   "pinyin": "Wǒmen dōu yào zuò chē qù xuéxiào.",
+   "vietnam": "Chúng tôi đều phải đi xe đến trường.",
+   "ID": "p1"
+ },
+ {
+   "hanzi": "他要坐车去北京",
+   "pinyin": "Tā yào zuò chē qù Běijīng.",
+   "vietnam": "Anh ấy muốn đi xe đến Bắc Kinh.",
+   "ID": "p2"
+ },
+ {
+   "hanzi": "你坐车还是走路",
+   "pinyin": "Nǐ zuò chē háishì zǒulù?",
+   "vietnam": "Bạn đi xe hay đi bộ?",
+   "ID": "p3"
+ },
+ {
+   "hanzi": "明天我坐车去朋友家",
+   "pinyin": "Míngtiān wǒ zuò chē qù péngyǒu jiā.",
+   "vietnam": "Ngày mai tôi đi xe đến nhà bạn.",
+   "ID": "p4"
+ },
+ {
+   "hanzi": "我们都喜欢坐车旅行",
+   "pinyin": "Wǒmen dōu xǐhuan zuò chē lǚxíng.",
+   "vietnam": "Chúng tôi đều thích đi xe du lịch.",
+   "ID": "p5"
+ },
+ {
+   "hanzi": "你要坐车去商店吗",
+   "pinyin": "Nǐ yào zuò chē qù shāngdiàn ma?",
+   "vietnam": "Bạn có đi xe đến cửa hàng không?",
+   "ID": "p6"
+ },
+ {
+   "hanzi": "他坐车去邮局寄信",
+   "pinyin": "Tā zuò chē qù yóujú jì xìn.",
+   "vietnam": "Anh ấy đi xe đến bưu điện gửi thư.",
+   "ID": "p7"
+ },
+ {
+   "hanzi": "我们坐车去中国银行换钱",
+   "pinyin": "Wǒmen zuò chē qù Zhōngguó Yínháng huàn qián.",
+   "vietnam": "Chúng tôi đi xe đến Ngân hàng Trung Quốc đổi tiền.",
+   "ID": "p8"
+ },
+ {
+   "hanzi": "他们都坐车去火车站",
+   "pinyin": "Tāmen dōu zuò chē qù huǒchēzhàn.",
+   "vietnam": "Họ đều đi xe đến ga tàu hỏa.",
+   "ID": "p9"
+ },
+ {
+   "hanzi": "我每天坐车去工作",
+   "pinyin": "Wǒ měitiān zuò chē qù gōngzuò.",
+   "vietnam": "Hàng ngày tôi đi xe đi làm.",
+   "ID": "p10"
+ },
+ {
+   "hanzi": "今天我坐车去图书馆",
+   "pinyin": "Jīntiān wǒ zuò chē qù túshūguǎn.",
+   "vietnam": "Hôm nay tôi đi xe đến thư viện.",
+   "ID": "p11"
+ },
+ {
+   "hanzi": "我们要不要坐车去",
+   "pinyin": "Wǒmen yào bù yào zuò chē qù?",
+   "vietnam": "Chúng ta có cần đi xe không?",
+   "ID": "p12"
+ },
+ {
+   "hanzi": "我坐车去朋友的公司",
+   "pinyin": "Wǒ zuò chē qù péngyǒu de gōngsī.",
+   "vietnam": "Tôi đi xe đến công ty của bạn.",
+   "ID": "p13"
+ },
+ {
+   "hanzi": "她不想坐车她想走路",
+   "pinyin": "Tā bù xiǎng zuò chē, tā xiǎng zǒulù.",
+   "vietnam": "Cô ấy không muốn đi xe, cô ấy muốn đi bộ.",
+   "ID": "p14"
+ },
+ {
+   "hanzi": "我们坐车去商场买东西",
+   "pinyin": "Wǒmen zuò chē qù shāngchǎng mǎi dōngxi.",
+   "vietnam": "Chúng tôi đi xe đến trung tâm thương mại mua đồ.",
+   "ID": "p15"
+ },
+ {
+   "hanzi": "我常常坐车去看电影",
+   "pinyin": "Wǒ chángcháng zuò chē qù kàn diànyǐng.",
+   "vietnam": "Tôi thường đi xe đi xem phim.",
+   "ID": "p16"
+ },
+ {
+   "hanzi": "他们要坐车去参观工厂",
+   "pinyin": "Tāmen yào zuò chē qù cānguān gōngchǎng.",
+   "vietnam": "Họ sẽ đi xe đến tham quan nhà máy.",
+   "ID": "p17"
+ },
+ {
+   "hanzi": "你坐车去不去",
+   "pinyin": "Nǐ zuò chē qù bu qù?",
+   "vietnam": "Bạn có đi xe không?",
+   "ID": "p18"
+ },
+ {
+   "hanzi": "我坐车去火车站接朋友",
+   "pinyin": "Wǒ zuò chē qù huǒchēzhàn jiē péngyǒu.",
+   "vietnam": "Tôi đi xe đến ga tàu để đón bạn.",
+   "ID": "p19"
+ },
+ {
+   "hanzi": "我们都要坐车去看老师",
+   "pinyin": "Wǒmen dōu yào zuò chē qù kàn lǎoshī.",
+   "vietnam": "Chúng tôi đều đi xe để thăm thầy giáo.",
+   "ID": "p20"
+ },
+ {
+   "hanzi": "我们去买东西",
+   "pinyin": "Wǒmen qù mǎi dōngxi.",
+   "vietnam": "Chúng tôi đi mua đồ.",
+   "ID": "q1"
+ },
+ {
+   "hanzi": "你买什么",
+   "pinyin": "Nǐ mǎi shénme?",
+   "vietnam": "Bạn mua gì?",
+   "ID": "q2"
+ },
+ {
+   "hanzi": "我买衣服",
+   "pinyin": "Wǒ mǎi yīfu.",
+   "vietnam": "Tôi mua quần áo.",
+   "ID": "q3"
+ },
+ {
+   "hanzi": "她买鞋子",
+   "pinyin": "Tā mǎi xiézi.",
+   "vietnam": "Cô ấy mua giày.",
+   "ID": "q4"
+ },
+ {
+   "hanzi": "我想买一本书",
+   "pinyin": "Wǒ xiǎng mǎi yī běn shū.",
+   "vietnam": "Tôi muốn mua một quyển sách.",
+   "ID": "q5"
+ },
+ {
+   "hanzi": "这件衣服多少钱",
+   "pinyin": "Zhè jiàn yīfu duōshao qián?",
+   "vietnam": "Cái áo này bao nhiêu tiền?",
+   "ID": "q6"
+ },
+ {
+   "hanzi": "那双鞋不贵",
+   "pinyin": "Nà shuāng xié bù guì.",
+   "vietnam": "Đôi giày kia không đắt.",
+   "ID": "q7"
+ },
+ {
+   "hanzi": "我们去商店",
+   "pinyin": "Wǒmen qù shāngdiàn.",
+   "vietnam": "Chúng tôi đi cửa hàng.",
+   "ID": "q8"
+ },
+ {
+   "hanzi": "她在买水果",
+   "pinyin": "Tā zài mǎi shuǐguǒ.",
+   "vietnam": "Cô ấy đang mua hoa quả.",
+   "ID": "q9"
+ },
+ {
+   "hanzi": "我买了一点儿苹果",
+   "pinyin": "Wǒ mǎile yīdiǎnr píngguǒ.",
+   "vietnam": "Tôi đã mua một ít táo.",
+   "ID": "q10"
+ },
+ {
+   "hanzi": "他想买一杯茶",
+   "pinyin": "Tā xiǎng mǎi yī bēi chá.",
+   "vietnam": "Anh ấy muốn mua một cốc trà.",
+   "ID": "q11"
+ },
+ {
+   "hanzi": "我们买很多东西",
+   "pinyin": "Wǒmen mǎi hěn duō dōngxi.",
+   "vietnam": "Chúng tôi mua rất nhiều đồ.",
+   "ID": "q12"
+ },
+ {
+   "hanzi": "你去哪里买",
+   "pinyin": "Nǐ qù nǎli mǎi?",
+   "vietnam": "Bạn đi đâu để mua?",
+   "ID": "q13"
+ },
+ {
+   "hanzi": "我去书店买书",
+   "pinyin": "Wǒ qù shūdiàn mǎi shū.",
+   "vietnam": "Tôi đi hiệu sách mua sách.",
+   "ID": "q14"
+ },
+ {
+   "hanzi": "他去超市买东西",
+   "pinyin": "Tā qù chāoshì mǎi dōngxi.",
+   "vietnam": "Anh ấy đi siêu thị mua đồ.",
+   "ID": "q15"
+ },
+ {
+   "hanzi": "这本书太贵了",
+   "pinyin": "Zhè běn shū tài guì le.",
+   "vietnam": "Quyển sách này đắt quá.",
+   "ID": "q16"
+ },
+ {
+   "hanzi": "那个商店很大",
+   "pinyin": "Nàge shāngdiàn hěn dà.",
+   "vietnam": "Cửa hàng kia rất lớn.",
+   "ID": "q17"
+ },
+ {
+   "hanzi": "我只买了一点儿",
+   "pinyin": "Wǒ zhǐ mǎile yīdiǎnr.",
+   "vietnam": "Tôi chỉ mua một chút thôi.",
+   "ID": "q18"
+ },
+ {
+   "hanzi": "她买了一些衣服",
+   "pinyin": "Tā mǎile yīxiē yīfu.",
+   "vietnam": "Cô ấy đã mua một vài bộ quần áo.",
+   "ID": "q19"
+ },
+ {
+   "hanzi": "我们一起去买东西吧",
+   "pinyin": "Wǒmen yīqǐ qù mǎi dōngxi ba.",
+   "vietnam": "Chúng ta cùng đi mua đồ nhé.",
+   "ID": "q20"
+ },
+ {
+   "hanzi": "我可以买这件衣服吗",
+   "pinyin": "Wǒ kěyǐ mǎi zhè jiàn yīfu ma?",
+   "vietnam": "Tôi có thể mua cái áo này không?",
+   "ID": "r1"
+ },
+ {
+   "hanzi": "你可以试试这条裤子",
+   "pinyin": "Nǐ kěyǐ shìshi zhè tiáo kùzi.",
+   "vietnam": "Bạn có thể thử cái quần này.",
+   "ID": "r2"
+ },
+ {
+   "hanzi": "这件衣服可以便宜一点吗",
+   "pinyin": "Zhè jiàn yīfu kěyǐ piányi yīdiǎn ma?",
+   "vietnam": "Cái áo này có thể rẻ hơn một chút không?",
+   "ID": "r3"
+ },
+ {
+   "hanzi": "他想买一件衬衫",
+   "pinyin": "Tā xiǎng mǎi yī jiàn chènshān.",
+   "vietnam": "Anh ấy muốn mua một cái sơ mi.",
+   "ID": "r4"
+ },
+ {
+   "hanzi": "我可以看看那件大衣吗",
+   "pinyin": "Wǒ kěyǐ kànkan nà jiàn dàyī ma?",
+   "vietnam": "Tôi có thể xem cái áo khoác kia không?",
+   "ID": "r5"
+ },
+ {
+   "hanzi": "这条裙子很好看",
+   "pinyin": "Zhè tiáo qúnzi hěn hǎokàn.",
+   "vietnam": "Cái váy này rất đẹp.",
+   "ID": "r6"
+ },
+ {
+   "hanzi": "你试试这双鞋吧",
+   "pinyin": "Nǐ shìshi zhè shuāng xié ba.",
+   "vietnam": "Bạn thử đôi giày này đi.",
+   "ID": "r7"
+ },
+ {
+   "hanzi": "这件毛衣不贵",
+   "pinyin": "Zhè jiàn máoyī bù guì.",
+   "vietnam": "Cái áo len này không đắt.",
+   "ID": "r8"
+ },
+ {
+   "hanzi": "他可以穿这件衣服吗",
+   "pinyin": "Tā kěyǐ chuān zhè jiàn yīfu ma?",
+   "vietnam": "Anh ấy có thể mặc cái áo này không?",
+   "ID": "r9"
+ },
+ {
+   "hanzi": "我想买一件便宜的",
+   "pinyin": "Wǒ xiǎng mǎi yī jiàn piányi de.",
+   "vietnam": "Tôi muốn mua một cái rẻ hơn.",
+   "ID": "r10"
+ },
+ {
+   "hanzi": "这双鞋可以试试吗",
+   "pinyin": "Zhè shuāng xié kěyǐ shìshi ma?",
+   "vietnam": "Đôi giày này có thể thử không?",
+   "ID": "r11"
+ },
+ {
+   "hanzi": "衬衫在那边",
+   "pinyin": "Chènshān zài nà biān.",
+   "vietnam": "Áo sơ mi ở bên kia.",
+   "ID": "r12"
+ },
+ {
+   "hanzi": "我喜欢这件红色的衣服",
+   "pinyin": "Wǒ xǐhuān zhè jiàn hóngsè de yīfu.",
+   "vietnam": "Tôi thích cái áo màu đỏ này.",
+   "ID": "r13"
+ },
+ {
+   "hanzi": "他买了一条黑色的裤子",
+   "pinyin": "Tā mǎi le yī tiáo hēisè de kùzi.",
+   "vietnam": "Anh ấy mua một cái quần màu đen.",
+   "ID": "r14"
+ },
+ {
+   "hanzi": "这件大衣太贵了",
+   "pinyin": "Zhè jiàn dàyī tài guì le.",
+   "vietnam": "Cái áo khoác này đắt quá.",
+   "ID": "r15"
+ },
+ {
+   "hanzi": "我不想买这件衣服",
+   "pinyin": "Wǒ bù xiǎng mǎi zhè jiàn yīfu.",
+   "vietnam": "Tôi không muốn mua cái áo này.",
+   "ID": "r16"
+ },
+ {
+   "hanzi": "你们店里有毛衣吗",
+   "pinyin": "Nǐmen diàn lǐ yǒu máoyī ma?",
+   "vietnam": "Trong cửa hàng các bạn có áo len không?",
+   "ID": "r17"
+ },
+ {
+   "hanzi": "我可以再看看吗",
+   "pinyin": "Wǒ kěyǐ zài kànkan ma?",
+   "vietnam": "Tôi có thể xem thêm được không?",
+   "ID": "r18"
+ },
+ {
+   "hanzi": "他穿这条裤子很合适",
+   "pinyin": "Tā chuān zhè tiáo kùzi hěn héshì.",
+   "vietnam": "Anh ấy mặc cái quần này rất hợp.",
+   "ID": "r19"
+ },
+ {
+   "hanzi": "这件衣服颜色很好看",
+   "pinyin": "Zhè jiàn yīfu yánsè hěn hǎokàn.",
+   "vietnam": "Cái áo này màu rất đẹp.",
+   "ID": "r20"
+ },
+ {
+   "hanzi": "你要喝茶吗",
+   "pinyin": "Nǐ yào hē chá ma?",
+   "vietnam": "Bạn muốn uống trà không?",
+   "ID": "t1"
+ },
+ {
+   "hanzi": "我要喝咖啡",
+   "pinyin": "Wǒ yào hē kāfēi.",
+   "vietnam": "Tôi muốn uống cà phê.",
+   "ID": "t2"
+ },
+ {
+   "hanzi": "你想喝什么",
+   "pinyin": "Nǐ xiǎng hē shénme?",
+   "vietnam": "Bạn muốn uống gì?",
+   "ID": "t3"
+ },
+ {
+   "hanzi": "我要四杯茶",
+   "pinyin": "Wǒ yào sì bēi chá",
+   "vietnam": "Tôi muốn bốn cốc trà.",
+   "ID": "t4"
+ },
+ {
+   "hanzi": "她要一杯咖啡",
+   "pinyin": "Tā yào yì bēi kāfēi.",
+   "vietnam": "Cô ấy muốn một cốc cà phê.",
+   "ID": "t5"
+ },
+ {
+   "hanzi": "我们都要喝茶",
+   "pinyin": "Wǒmen dōu yào hē chá.",
+   "vietnam": "Chúng tôi đều muốn uống trà.",
+   "ID": "t6"
+ },
+ {
+   "hanzi": "他要喝什么",
+   "pinyin": "Tā yào hē shénme?",
+   "vietnam": "Anh ấy muốn uống gì?",
+   "ID": "t7"
+ },
+ {
+   "hanzi": "我不要咖啡",
+   "pinyin": "Wǒ bú yào kāfēi.",
+   "vietnam": "Tôi không muốn cà phê.",
+   "ID": "t8"
+ },
+ {
+   "hanzi": "你要咖啡还是茶",
+   "pinyin": "Nǐ yào kāfēi háishi chá?",
+   "vietnam": "Bạn muốn cà phê hay trà?",
+   "ID": "t9"
+ },
+ {
+   "hanzi": "我要喝牛奶",
+   "pinyin": "Wǒ yào hē niúnǎi.",
+   "vietnam": "Tôi muốn uống sữa.",
+   "ID": "t10"
+ },
+ {
+   "hanzi": "她不要茶",
+   "pinyin": "Tā bú yào chá.",
+   "vietnam": "Cô ấy không muốn trà.",
+   "ID": "t11"
+ },
+ {
+   "hanzi": "你们要几杯茶",
+   "pinyin": "Nǐmen yào jǐ bēi chá?",
+   "vietnam": "Các bạn muốn mấy cốc trà?",
+   "ID": "t12"
+ },
+ {
+   "hanzi": "我要两杯咖啡",
+   "pinyin": "Wǒ yào liǎng bēi kāfēi.",
+   "vietnam": "Tôi muốn hai cốc cà phê.",
+   "ID": "t13"
+ },
+ {
+   "hanzi": "我不喝茶",
+   "pinyin": "Wǒ bù hē chá.",
+   "vietnam": "Tôi không uống trà.",
+   "ID": "t14"
+ },
+ {
+   "hanzi": "我只喝咖啡",
+   "pinyin": "Wǒ zhǐ hē kāfēi.",
+   "vietnam": "Tôi chỉ uống cà phê.",
+   "ID": "t15"
+ },
+ {
+   "hanzi": "她喝一杯牛奶",
+   "pinyin": "Tā hē yì bēi niúnǎi.",
+   "vietnam": "Cô ấy uống một cốc sữa.",
+   "ID": "t16"
+ },
+ {
+   "hanzi": "我们要三杯茶",
+   "pinyin": "Wǒmen yào sān bēi chá.",
+   "vietnam": "Chúng tôi muốn ba cốc trà.",
+   "ID": "t17"
+ },
+ {
+   "hanzi": "他要四杯咖啡",
+   "pinyin": "Tā yào sì bēi kāfēi.",
+   "vietnam": "Anh ấy muốn bốn cốc cà phê.",
+   "ID": "t18"
+ },
+ {
+   "hanzi": "我不要牛奶",
+   "pinyin": "Wǒ bú yào niúnǎi.",
+   "vietnam": "Tôi không muốn sữa.",
+   "ID": "t19"
+ },
+ {
+   "hanzi": "他们要喝什么",
+   "pinyin": "Tāmen yào hē shénme?",
+   "vietnam": "Họ muốn uống gì?",
+   "ID": "t20"
+ },
+ {
+   "hanzi": "这件衣服比那件漂亮",
+   "pinyin": "Zhè jiàn yīfu bǐ nà jiàn piàoliang.",
+   "vietnam": "Cái áo này đẹp hơn cái kia.",
+   "ID": "u1"
+ },
+ {
+   "hanzi": "那件衣服比这件贵",
+   "pinyin": "Nà jiàn yīfu bǐ zhè jiàn guì.",
+   "vietnam": "Cái áo kia đắt hơn cái này.",
+   "ID": "u2"
+ },
+ {
+   "hanzi": "这条裤子比那条长",
+   "pinyin": "Zhè tiáo kùzi bǐ nà tiáo cháng.",
+   "vietnam": "Cái quần này dài hơn cái kia.",
+   "ID": "u3"
+ },
+ {
+   "hanzi": "那条裙子比这条短",
+   "pinyin": "Nà tiáo qúnzi bǐ zhè tiáo duǎn.",
+   "vietnam": "Cái váy kia ngắn hơn cái này.",
+   "ID": "u4"
+ },
+ {
+   "hanzi": "这件衬衫比那件便宜",
+   "pinyin": "Zhè jiàn chènshān bǐ nà jiàn piányi.",
+   "vietnam": "Cái sơ mi này rẻ hơn cái kia.",
+   "ID": "u5"
+ },
+ {
+   "hanzi": "那双鞋比这双大",
+   "pinyin": "Nà shuāng xié bǐ zhè shuāng dà.",
+   "vietnam": "Đôi giày kia to hơn đôi này.",
+   "ID": "u6"
+ },
+ {
+   "hanzi": "这件毛衣比那件小",
+   "pinyin": "Zhè jiàn máoyī bǐ nà jiàn xiǎo.",
+   "vietnam": "Cái áo len này nhỏ hơn cái kia.",
+   "ID": "u7"
+ },
+ {
+   "hanzi": "这双鞋比那双舒服",
+   "pinyin": "Zhè shuāng xié bǐ nà shuāng shūfu.",
+   "vietnam": "Đôi giày này thoải mái hơn đôi kia.",
+   "ID": "u8"
+ },
+ {
+   "hanzi": "那件大衣比这件漂亮吗",
+   "pinyin": "Nà jiàn dàyī bǐ zhè jiàn piàoliang ma?",
+   "vietnam": "Cái áo khoác kia đẹp hơn cái này không?",
+   "ID": "u9"
+ },
+ {
+   "hanzi": "这件衣服比那件贵吗",
+   "pinyin": "Zhè jiàn yīfu bǐ nà jiàn guì ma?",
+   "vietnam": "Cái áo này đắt hơn cái kia không?",
+   "ID": "u10"
+ },
+ {
+   "hanzi": "这条裤子比那条便宜吗",
+   "pinyin": "Zhè tiáo kùzi bǐ nà tiáo piányi ma?",
+   "vietnam": "Cái quần này rẻ hơn cái kia không?",
+   "ID": "u11"
+ },
+ {
+   "hanzi": "这件衣服比那件更漂亮",
+   "pinyin": "Zhè jiàn yīfu bǐ nà jiàn gèng piàoliang.",
+   "vietnam": "Cái áo này còn đẹp hơn cái kia.",
+   "ID": "u12"
+ },
+ {
+   "hanzi": "那件衬衫比这件新",
+   "pinyin": "Nà jiàn chènshān bǐ zhè jiàn xīn.",
+   "vietnam": "Cái sơ mi kia mới hơn cái này.",
+   "ID": "u13"
+ },
+ {
+   "hanzi": "这条裙子比那条长",
+   "pinyin": "Zhè tiáo qúnzi bǐ nà tiáo cháng.",
+   "vietnam": "Cái váy này dài hơn cái kia.",
+   "ID": "u14"
+ },
+ {
+   "hanzi": "那件毛衣比这件暖和",
+   "pinyin": "Nà jiàn máoyī bǐ zhè jiàn nuǎnhuo.",
+   "vietnam": "Cái áo len kia ấm hơn cái này.",
+   "ID": "u15"
+ },
+ {
+   "hanzi": "这双鞋比那双轻",
+   "pinyin": "Zhè shuāng xié bǐ nà shuāng qīng.",
+   "vietnam": "Đôi giày này nhẹ hơn đôi kia.",
+   "ID": "u16"
+ },
+ {
+   "hanzi": "那件衣服比这件旧",
+   "pinyin": "Nà jiàn yīfu bǐ zhè jiàn jiù.",
+   "vietnam": "Cái áo kia cũ hơn cái này.",
+   "ID": "u17"
+ },
+ {
+   "hanzi": "这件大衣比那件贵一些",
+   "pinyin": "Zhè jiàn dàyī bǐ nà jiàn guì yìxiē.",
+   "vietnam": "Cái áo khoác này đắt hơn cái kia một chút.",
+   "ID": "u18"
+ },
+ {
+   "hanzi": "这条裤子比那条便宜一些",
+   "pinyin": "Zhè tiáo kùzi bǐ nà tiáo piányi yìxiē.",
+   "vietnam": "Cái quần này rẻ hơn cái kia một chút.",
+   "ID": "u19"
+ },
+ {
+   "hanzi": "这件衣服比那件漂亮多了",
+   "pinyin": "Zhè jiàn yīfu bǐ nà jiàn piàoliang duō le.",
+   "vietnam": "Cái áo này đẹp hơn cái kia nhiều.",
+   "ID": "u20"
+ },
+ {
+   "hanzi": "这本书比那本厚",
+   "pinyin": "Zhè běn shū bǐ nà běn hòu.",
+   "vietnam": "Cuốn sách này dày hơn cuốn kia.",
+   "ID": "v1"
+ },
+ {
+   "hanzi": "那本书比这本薄",
+   "pinyin": "Nà běn shū bǐ zhè běn báo.",
+   "vietnam": "Cuốn sách kia mỏng hơn cuốn này.",
+   "ID": "v2"
+ },
+ {
+   "hanzi": "这本书很厚",
+   "pinyin": "Zhè běn shū hěn hòu.",
+   "vietnam": "Cuốn sách này rất dày.",
+   "ID": "v3"
+ },
+ {
+   "hanzi": "那本书很薄",
+   "pinyin": "Nà běn shū hěn báo.",
+   "vietnam": "Cuốn sách kia rất mỏng.",
+   "ID": "v4"
+ },
+ {
+   "hanzi": "这本书比那本便宜",
+   "pinyin": "Zhè běn shū bǐ nà běn piányi.",
+   "vietnam": "Cuốn sách này rẻ hơn cuốn kia.",
+   "ID": "v5"
+ },
+ {
+   "hanzi": "那本书比这本贵",
+   "pinyin": "Nà běn shū bǐ zhè běn guì.",
+   "vietnam": "Cuốn sách kia đắt hơn cuốn này.",
+   "ID": "v6"
+ },
+ {
+   "hanzi": "这本书比那本新",
+   "pinyin": "Zhè běn shū bǐ nà běn xīn.",
+   "vietnam": "Cuốn sách này mới hơn cuốn kia.",
+   "ID": "v7"
+ },
+ {
+   "hanzi": "那本书比这本旧",
+   "pinyin": "Nà běn shū bǐ zhè běn jiù.",
+   "vietnam": "Cuốn sách kia cũ hơn cuốn này.",
+   "ID": "v8"
+ },
+ {
+   "hanzi": "这本书比那本有意思",
+   "pinyin": "Zhè běn shū bǐ nà běn yǒuyìsi.",
+   "vietnam": "Cuốn sách này thú vị hơn cuốn kia.",
+   "ID": "v9"
+ },
+ {
+   "hanzi": "那本书比这本难",
+   "pinyin": "Nà běn shū bǐ zhè běn nán.",
+   "vietnam": "Cuốn sách kia khó hơn cuốn này.",
+   "ID": "v10"
+ },
+ {
+   "hanzi": "这本书比那本厚一些",
+   "pinyin": "Zhè běn shū bǐ nà běn hòu yìxiē.",
+   "vietnam": "Cuốn sách này dày hơn cuốn kia một chút.",
+   "ID": "v11"
+ },
+ {
+   "hanzi": "那本书比这本薄一些",
+   "pinyin": "Nà běn shū bǐ zhè běn báo yìxiē.",
+   "vietnam": "Cuốn sách kia mỏng hơn cuốn này một chút.",
+   "ID": "v12"
+ },
+ {
+   "hanzi": "这本书比那本好看",
+   "pinyin": "Zhè běn shū bǐ nà běn hǎokàn.",
+   "vietnam": "Cuốn sách này đẹp hơn cuốn kia.",
+   "ID": "v13"
+ },
+ {
+   "hanzi": "那本书比这本难看吗",
+   "pinyin": "Nà běn shū bǐ zhè běn nánkàn ma?",
+   "vietnam": "Cuốn sách kia xấu hơn cuốn này không?",
+   "ID": "v14"
+ },
+ {
+   "hanzi": "这本书比那本厚得多",
+   "pinyin": "Zhè běn shū bǐ nà běn hòu de duō.",
+   "vietnam": "Cuốn sách này dày hơn cuốn kia nhiều.",
+   "ID": "v15"
+ },
+ {
+   "hanzi": "我觉得这本书比那本好",
+   "pinyin": "Wǒ juéde zhè běn shū bǐ nà běn hǎo.",
+   "vietnam": "Tôi thấy cuốn sách này tốt hơn cuốn kia.",
+   "ID": "v16"
+ },
+ {
+   "hanzi": "那本书比这本薄得多",
+   "pinyin": "Nà běn shū bǐ zhè běn báo de duō.",
+   "vietnam": "Cuốn sách kia mỏng hơn cuốn này nhiều.",
+   "ID": "v17"
+ },
+ {
+   "hanzi": "这本书比那本便宜一些",
+   "pinyin": "Zhè běn shū bǐ nà běn piányi yìxiē.",
+   "vietnam": "Cuốn sách này rẻ hơn cuốn kia một chút.",
+   "ID": "v18"
+ },
+ {
+   "hanzi": "那本书比这本贵一些",
+   "pinyin": "Nà běn shū bǐ zhè běn guì yìxiē.",
+   "vietnam": "Cuốn sách kia đắt hơn cuốn này một chút.",
+   "ID": "v19"
+ },
+ {
+   "hanzi": "这本书比那本好看多了",
+   "pinyin": "Zhè běn shū bǐ nà běn hǎokàn duō le.",
+   "vietnam": "Cuốn sách này đẹp hơn cuốn kia nhiều.",
+   "ID": "v20"
+ },
+ {
+   "hanzi": "你觉得汉语难不难",
+   "pinyin": "Nǐ juéde Hànyǔ nán bu nán?",
+   "vietnam": "Bạn thấy tiếng Hán khó không?",
+   "ID": "x1"
+ },
+ {
+   "hanzi": "我觉得汉语不难",
+   "pinyin": "Wǒ juéde Hànyǔ bù nán.",
+   "vietnam": "Tôi thấy tiếng Hán không khó.",
+   "ID": "x2"
+ },
+ {
+   "hanzi": "他觉得汉语很难",
+   "pinyin": "Tā juéde Hànyǔ hěn nán.",
+   "vietnam": "Anh ấy thấy tiếng Hán rất khó.",
+   "ID": "x3"
+ },
+ {
+   "hanzi": "汉语难吗",
+   "pinyin": "Hànyǔ nán ma?",
+   "vietnam": "Tiếng Hán khó không?",
+   "ID": "x4"
+ },
+ {
+   "hanzi": "我觉得汉语有一点儿难",
+   "pinyin": "Wǒ juéde Hànyǔ yǒu yīdiǎnr nán.",
+   "vietnam": "Tôi thấy tiếng Hán hơi khó.",
+   "ID": "x5"
+ },
+ {
+   "hanzi": "你觉得汉字难吗",
+   "pinyin": "Nǐ juéde hànzì nán ma?",
+   "vietnam": "Bạn thấy chữ Hán khó không?",
+   "ID": "x6"
+ },
+ {
+   "hanzi": "我觉得汉字不难",
+   "pinyin": "Wǒ juéde hànzì bù nán.",
+   "vietnam": "Tôi thấy chữ Hán không khó.",
+   "ID": "x7"
+ },
+ {
+   "hanzi": "他觉得汉字很难",
+   "pinyin": "Tā juéde hànzì hěn nán.",
+   "vietnam": "Anh ấy thấy chữ Hán rất khó.",
+   "ID": "x8"
+ },
+ {
+   "hanzi": "汉字难吗",
+   "pinyin": "Hànzì nán ma?",
+   "vietnam": "Chữ Hán khó không?",
+   "ID": "x9"
+ },
+ {
+   "hanzi": "我觉得语法难",
+   "pinyin": "Wǒ juéde yǔfǎ nán.",
+   "vietnam": "Tôi thấy ngữ pháp khó.",
+   "ID": "x10"
+ },
+ {
+   "hanzi": "你觉得语法难不难",
+   "pinyin": "Nǐ juéde yǔfǎ nán bu nán?",
+   "vietnam": "Bạn thấy ngữ pháp khó không?",
+   "ID": "x11"
+ },
+ {
+   "hanzi": "我觉得语法不太难",
+   "pinyin": "Wǒ juéde yǔfǎ bù tài nán.",
+   "vietnam": "Tôi thấy ngữ pháp không quá khó.",
+   "ID": "x12"
+ },
+ {
+   "hanzi": "他觉得发音难",
+   "pinyin": "Tā juéde fāyīn nán.",
+   "vietnam": "Anh ấy thấy phát âm khó.",
+   "ID": "x13"
+ },
+ {
+   "hanzi": "你觉得发音难吗",
+   "pinyin": "Nǐ juéde fāyīn nán ma?",
+   "vietnam": "Bạn thấy phát âm khó không?",
+   "ID": "x14"
+ },
+ {
+   "hanzi": "我觉得发音不难",
+   "pinyin": "Wǒ juéde fāyīn bù nán.",
+   "vietnam": "Tôi thấy phát âm không khó.",
+   "ID": "x15"
+ },
+ {
+   "hanzi": "汉语容易吗",
+   "pinyin": "Hànyǔ róngyì ma?",
+   "vietnam": "Tiếng Hán dễ không?",
+   "ID": "x16"
+ },
+ {
+   "hanzi": "我觉得汉语容易一点儿",
+   "pinyin": "Wǒ juéde Hànyǔ róngyì yīdiǎnr.",
+   "vietnam": "Tôi thấy tiếng Hán dễ một chút.",
+   "ID": "x17"
+ },
+ {
+   "hanzi": "你觉得汉语难吗",
+   "pinyin": "Nǐ juéde Hànyǔ nán ma?",
+   "vietnam": "Bạn thấy tiếng Hán khó không?",
+   "ID": "x18"
+ },
+ {
+   "hanzi": "我觉得汉语比英语难",
+   "pinyin": "Wǒ juéde Hànyǔ bǐ Yīngyǔ nán.",
+   "vietnam": "Tôi thấy tiếng Hán khó hơn tiếng Anh.",
+   "ID": "x19"
+ },
+ {
+   "hanzi": "他觉得汉语比法语容易",
+   "pinyin": "Tā juéde Hànyǔ bǐ Fǎyǔ róngyì.",
+   "vietnam": "Anh ấy thấy tiếng Hán dễ hơn tiếng Pháp.",
+   "ID": "x20"
+ },
+ {
+   "hanzi": "你学习汉语多久了",
+   "pinyin": "Nǐ xuéxí Hànyǔ duōjiǔ le?",
+   "vietnam": "Bạn học tiếng Hán bao lâu rồi?",
+   "ID": "y1"
+ },
+ {
+   "hanzi": "我学习汉语一年了",
+   "pinyin": "Wǒ xuéxí Hànyǔ yī nián le.",
+   "vietnam": "Tôi học tiếng Hán được một năm rồi.",
+   "ID": "y2"
+ },
+ {
+   "hanzi": "他学习汉语两年了",
+   "pinyin": "Tā xuéxí Hànyǔ liǎng nián le.",
+   "vietnam": "Anh ấy học tiếng Hán được hai năm rồi.",
+   "ID": "y3"
+ },
+ {
+   "hanzi": "她学习汉语多久了",
+   "pinyin": "Tā xuéxí Hànyǔ duōjiǔ le?",
+   "vietnam": "Cô ấy học tiếng Hán bao lâu rồi?",
+   "ID": "y4"
+ },
+ {
+   "hanzi": "我学习汉语三个月了",
+   "pinyin": "Wǒ xuéxí Hànyǔ sān gè yuè le.",
+   "vietnam": "Tôi học tiếng Hán được ba tháng rồi.",
+   "ID": "y5"
+ },
+ {
+   "hanzi": "你学习法语多久了",
+   "pinyin": "Nǐ xuéxí Fǎyǔ duōjiǔ le?",
+   "vietnam": "Bạn học tiếng Pháp bao lâu rồi?",
+   "ID": "y6"
+ },
+ {
+   "hanzi": "我学习汉语五年了",
+   "pinyin": "Wǒ xuéxí Hànyǔ wǔ nián le.",
+   "vietnam": "Tôi học tiếng Hán được năm năm rồi.",
+   "ID": "y7"
+ },
+ {
+   "hanzi": "他学习汉语半年了",
+   "pinyin": "Tā xuéxí Hànyǔ bàn nián le.",
+   "vietnam": "Anh ấy học tiếng Hán được nửa năm rồi.",
+   "ID": "y8"
+ },
+ {
+   "hanzi": "我学习汉语两个星期了",
+   "pinyin": "Wǒ xuéxí Hànyǔ liǎng gè xīngqī le.",
+   "vietnam": "Tôi học tiếng Hán được hai tuần rồi.",
+   "ID": "y9"
+ },
+ {
+   "hanzi": "她学习汉语三年了",
+   "pinyin": "Tā xuéxí Hànyǔ sān nián le.",
+   "vietnam": "Cô ấy học tiếng Hán được ba năm rồi.",
+   "ID": "y10"
+ },
+ {
+   "hanzi": "你学习越南语多久了",
+   "pinyin": "Nǐ xuéxí Yuènányǔ duōjiǔ le?",
+   "vietnam": "Bạn học tiếng Việt bao lâu rồi?",
+   "ID": "y11"
+ },
+ {
+   "hanzi": "我学习汉语十个月了",
+   "pinyin": "Wǒ xuéxí Hànyǔ shí gè yuè le.",
+   "vietnam": "Tôi học tiếng Hán được mười tháng rồi.",
+   "ID": "y12"
+ },
+ {
+   "hanzi": "他学习汉语四年了",
+   "pinyin": "Tā xuéxí Hànyǔ sì nián le.",
+   "vietnam": "Anh ấy học tiếng Hán được bốn năm rồi.",
+   "ID": "y13"
+ },
+ {
+   "hanzi": "我学习汉语半个月了",
+   "pinyin": "Wǒ xuéxí Hànyǔ bàn gè yuè le.",
+   "vietnam": "Tôi học tiếng Hán được nửa tháng rồi.",
+   "ID": "y14"
+ },
+ {
+   "hanzi": "她学习汉语两年半了",
+   "pinyin": "Tā xuéxí Hànyǔ liǎng nián bàn le.",
+   "vietnam": "Cô ấy học tiếng Hán được hai năm rưỡi rồi.",
+   "ID": "y15"
+ },
+ {
+   "hanzi": "你学习日语多久了",
+   "pinyin": "Nǐ xuéxí Rìyǔ duōjiǔ le?",
+   "vietnam": "Bạn học tiếng Nhật bao lâu rồi?",
+   "ID": "y16"
+ },
+ {
+   "hanzi": "我学习汉语三年半了",
+   "pinyin": "Wǒ xuéxí Hànyǔ sān nián bàn le.",
+   "vietnam": "Tôi học tiếng Hán được ba năm rưỡi rồi.",
+   "ID": "y17"
+ },
+ {
+   "hanzi": "他学习汉语六个月了",
+   "pinyin": "Tā xuéxí Hànyǔ liù gè yuè le.",
+   "vietnam": "Anh ấy học tiếng Hán được sáu tháng rồi.",
+   "ID": "y18"
+ },
+ {
+   "hanzi": "我学习汉语五年半了",
+   "pinyin": "Wǒ xuéxí Hànyǔ wǔ nián bàn le.",
+   "vietnam": "Tôi học tiếng Hán được năm năm rưỡi rồi.",
+   "ID": "y19"
+ },
+ {
+   "hanzi": "她学习汉语一年半了",
+   "pinyin": "Tā xuéxí Hànyǔ yī nián bàn le.",
+   "vietnam": "Cô ấy học tiếng Hán được một năm rưỡi rồi.",
+   "ID": "y20"
+ },
+ {
+   "hanzi": "你喜欢吃什么",
+   "pinyin": "Nǐ xǐhuān chī shénme?",
+   "vietnam": "Bạn thích ăn gì?",
+   "ID": "w1"
+ },
+ {
+   "hanzi": "我喜欢吃苹果",
+   "pinyin": "Wǒ xǐhuān chī píngguǒ.",
+   "vietnam": "Tôi thích ăn táo.",
+   "ID": "w2"
+ },
+ {
+   "hanzi": "他喜欢吃面条",
+   "pinyin": "Tā xǐhuān chī miàntiáo.",
+   "vietnam": "Anh ấy thích ăn mì.",
+   "ID": "w3"
+ },
+ {
+   "hanzi": "她喜欢吃水果",
+   "pinyin": "Tā xǐhuān chī shuǐguǒ.",
+   "vietnam": "Cô ấy thích ăn hoa quả.",
+   "ID": "w4"
+ },
+ {
+   "hanzi": "我喜欢吃米饭",
+   "pinyin": "Wǒ xǐhuān chī mǐfàn.",
+   "vietnam": "Tôi thích ăn cơm.",
+   "ID": "w5"
+ },
+ {
+   "hanzi": "你喜欢吃面包吗",
+   "pinyin": "Nǐ xǐhuān chī miànbāo ma?",
+   "vietnam": "Bạn thích ăn bánh mì không?",
+   "ID": "w6"
+ },
+ {
+   "hanzi": "我不喜欢吃鱼",
+   "pinyin": "Wǒ bù xǐhuān chī yú.",
+   "vietnam": "Tôi không thích ăn cá.",
+   "ID": "w7"
+ },
+ {
+   "hanzi": "他喜欢吃鸡蛋",
+   "pinyin": "Tā xǐhuān chī jīdàn.",
+   "vietnam": "Anh ấy thích ăn trứng.",
+   "ID": "w8"
+ },
+ {
+   "hanzi": "她喜欢吃肉",
+   "pinyin": "Tā xǐhuān chī ròu.",
+   "vietnam": "Cô ấy thích ăn thịt.",
+   "ID": "w9"
+ },
+ {
+   "hanzi": "我喜欢吃面条和米饭",
+   "pinyin": "Wǒ xǐhuān chī miàntiáo hé mǐfàn.",
+   "vietnam": "Tôi thích ăn mì và cơm.",
+   "ID": "w10"
+ },
+ {
+   "hanzi": "你喜欢吃蔬菜吗",
+   "pinyin": "Nǐ xǐhuān chī shūcài ma?",
+   "vietnam": "Bạn thích ăn rau không?",
+   "ID": "w11"
+ },
+ {
+   "hanzi": "我喜欢吃香蕉",
+   "pinyin": "Wǒ xǐhuān chī xiāngjiāo.",
+   "vietnam": "Tôi thích ăn chuối.",
+   "ID": "w12"
+ },
+ {
+   "hanzi": "他不喜欢吃水果",
+   "pinyin": "Tā bù xǐhuān chī shuǐguǒ.",
+   "vietnam": "Anh ấy không thích ăn hoa quả.",
+   "ID": "w13"
+ },
+ {
+   "hanzi": "她喜欢吃饺子",
+   "pinyin": "Tā xǐhuān chī jiǎozi.",
+   "vietnam": "Cô ấy thích ăn há cảo.",
+   "ID": "w14"
+ },
+ {
+   "hanzi": "我喜欢吃汤",
+   "pinyin": "Wǒ xǐhuān chī tāng.",
+   "vietnam": "Tôi thích ăn canh.",
+   "ID": "w15"
+ },
+ {
+   "hanzi": "你喜欢吃什么菜",
+   "pinyin": "Nǐ xǐhuān chī shénme cài?",
+   "vietnam": "Bạn thích ăn món gì?",
+   "ID": "w16"
+ },
+ {
+   "hanzi": "我喜欢吃辣的菜",
+   "pinyin": "Wǒ xǐhuān chī là de cài.",
+   "vietnam": "Tôi thích ăn món cay.",
+   "ID": "w17"
+ },
+ {
+   "hanzi": "他喜欢吃甜的东西",
+   "pinyin": "Tā xǐhuān chī tián de dōngxī.",
+   "vietnam": "Anh ấy thích ăn đồ ngọt.",
+   "ID": "w18"
+ },
+ {
+   "hanzi": "她不喜欢吃辣的菜",
+   "pinyin": "Tā bù xǐhuān chī là de cài.",
+   "vietnam": "Cô ấy không thích ăn món cay.",
+   "ID": "w19"
+ },
+ {
+   "hanzi": "我喜欢吃米饭和肉",
+   "pinyin": "Wǒ xǐhuān chī mǐfàn hé ròu.",
+   "vietnam": "Tôi thích ăn cơm và thịt.",
+   "ID": "w20"
+ },
+ {
+   "hanzi": "现在几点",
+   "pinyin": "Xiànzài jǐ diǎn?",
+   "vietnam": "Bây giờ mấy giờ?",
+   "ID": "aa1"
+ },
+ {
+   "hanzi": "现在七点",
+   "pinyin": "Xiànzài qī diǎn.",
+   "vietnam": "Bây giờ 7 giờ.",
+   "ID": "aa2"
+ },
+ {
+   "hanzi": "现在八点半",
+   "pinyin": "Xiànzài bā diǎn bàn.",
+   "vietnam": "Bây giờ 8 giờ rưỡi.",
+   "ID": "aa3"
+ },
+ {
+   "hanzi": "现在九点一刻",
+   "pinyin": "Xiànzài jiǔ diǎn yí kè.",
+   "vietnam": "Bây giờ 9 giờ 15 phút.",
+   "ID": "aa4"
+ },
+ {
+   "hanzi": "现在十点三刻",
+   "pinyin": "Xiànzài shí diǎn sān kè.",
+   "vietnam": "Bây giờ 10 giờ 45 phút.",
+   "ID": "aa5"
+ },
+ {
+   "hanzi": "现在十二点",
+   "pinyin": "Xiànzài shí'èr diǎn.",
+   "vietnam": "Bây giờ 12 giờ.",
+   "ID": "aa6"
+ },
+ {
+   "hanzi": "现在一点半",
+   "pinyin": "Xiànzài yì diǎn bàn.",
+   "vietnam": "Bây giờ 1 giờ rưỡi.",
+   "ID": "aa7"
+ },
+ {
+   "hanzi": "现在两点一刻",
+   "pinyin": "Xiànzài liǎng diǎn yí kè.",
+   "vietnam": "Bây giờ 2 giờ 15 phút.",
+   "ID": "aa8"
+ },
+ {
+   "hanzi": "现在三点三刻",
+   "pinyin": "Xiànzài sān diǎn sān kè.",
+   "vietnam": "Bây giờ 3 giờ 45 phút.",
+   "ID": "aa9"
+ },
+ {
+   "hanzi": "现在五点",
+   "pinyin": "Xiànzài wǔ diǎn.",
+   "vietnam": "Bây giờ 5 giờ.",
+   "ID": "aa10"
+ },
+ {
+   "hanzi": "现在六点半",
+   "pinyin": "Xiànzài liù diǎn bàn.",
+   "vietnam": "Bây giờ 6 giờ rưỡi.",
+   "ID": "aa11"
+ },
+ {
+   "hanzi": "现在十点一刻",
+   "pinyin": "Xiànzài shí diǎn yí kè.",
+   "vietnam": "Bây giờ 10 giờ 15 phút.",
+   "ID": "aa12"
+ },
+ {
+   "hanzi": "现在四点半",
+   "pinyin": "Xiànzài sì diǎn bàn.",
+   "vietnam": "Bây giờ 4 giờ rưỡi.",
+   "ID": "aa13"
+ },
+ {
+   "hanzi": "现在八点一刻",
+   "pinyin": "Xiànzài bā diǎn yí kè.",
+   "vietnam": "Bây giờ 8 giờ 15 phút.",
+   "ID": "aa14"
+ },
+ {
+   "hanzi": "现在九点半",
+   "pinyin": "Xiànzài jiǔ diǎn bàn.",
+   "vietnam": "Bây giờ 9 giờ rưỡi.",
+   "ID": "aa15"
+ },
+ {
+   "hanzi": "现在十一点一刻",
+   "pinyin": "Xiànzài shíyī diǎn yí kè.",
+   "vietnam": "Bây giờ 11 giờ 15 phút.",
+   "ID": "aa16"
+ },
+ {
+   "hanzi": "现在七点半",
+   "pinyin": "Xiànzài qī diǎn bàn.",
+   "vietnam": "Bây giờ 7 giờ rưỡi.",
+   "ID": "aa17"
+ },
+ {
+   "hanzi": "现在两点半",
+   "pinyin": "Xiànzài liǎng diǎn bàn.",
+   "vietnam": "Bây giờ 2 giờ rưỡi.",
+   "ID": "aa18"
+ },
+ {
+   "hanzi": "现在三点一刻",
+   "pinyin": "Xiànzài sān diǎn yí kè.",
+   "vietnam": "Bây giờ 3 giờ 15 phút.",
+   "ID": "aa19"
+ },
+ {
+   "hanzi": "现在十点半",
+   "pinyin": "Xiànzài shí diǎn bàn.",
+   "vietnam": "Bây giờ 10 giờ rưỡi.",
+   "ID": "aa20"
+ },
+ {
+   "hanzi": "你去哪里",
+   "pinyin": "Nǐ qù nǎlǐ",
+   "vietnam": "Bạn đi đâu?",
+   "ID": "ba1"
+ },
+ {
+   "hanzi": "我不去学校",
+   "pinyin": "Wǒ bù qù xuéxiào.",
+   "vietnam": "Tôi không đi học.",
+   "ID": "ba2"
+ },
+ {
+   "hanzi": "他去商店",
+   "pinyin": "Tā qù shāngdiàn.",
+   "vietnam": "Anh ấy đi cửa hàng.",
+   "ID": "ba3"
+ },
+ {
+   "hanzi": "她去医院",
+   "pinyin": "Tā qù yīyuàn.",
+   "vietnam": "Cô ấy đi bệnh viện.",
+   "ID": "ba4"
+ },
+ {
+   "hanzi": "我们去公园",
+   "pinyin": "Wǒmen qù gōngyuán.",
+   "vietnam": "Chúng tôi đi công viên.",
+   "ID": "ba5"
+ },
+ {
+   "hanzi": "你们去哪儿",
+   "pinyin": "Nǐmen qù nǎr?",
+   "vietnam": "Các bạn đi đâu?",
+   "ID": "ba6"
+ },
+ {
+   "hanzi": "我去图书馆",
+   "pinyin": "Wǒ qù túshūguǎn.",
+   "vietnam": "Tôi đi thư viện.",
+   "ID": "ba7"
+ },
+ {
+   "hanzi": "他去银行",
+   "pinyin": "Tā qù yínháng.",
+   "vietnam": "Anh ấy đi ngân hàng.",
+   "ID": "ba8"
+ },
+ {
+   "hanzi": "她去商场",
+   "pinyin": "Tā qù shāngchǎng.",
+   "vietnam": "Cô ấy đi trung tâm mua sắm.",
+   "ID": "ba9"
+ },
+ {
+   "hanzi": "我去饭店",
+   "pinyin": "Wǒ qù fàndiàn.",
+   "vietnam": "Tôi đi nhà hàng.",
+   "ID": "ba10"
+ },
+ {
+   "hanzi": "你去医院吗",
+   "pinyin": "Nǐ qù yīyuàn ma?",
+   "vietnam": "Bạn đi bệnh viện không?",
+   "ID": "ba11"
+ },
+ {
+   "hanzi": "他去学校吗",
+   "pinyin": "Tā qù xuéxiào ma?",
+   "vietnam": "Anh ấy đi học không?",
+   "ID": "ba12"
+ },
+ {
+   "hanzi": "她去公园吗",
+   "pinyin": "Tā qù gōngyuán ma?",
+   "vietnam": "Cô ấy đi công viên không?",
+   "ID": "ba13"
+ },
+ {
+   "hanzi": "我去商店买东西",
+   "pinyin": "Wǒ qù shāngdiàn mǎi dōngxī.",
+   "vietnam": "Tôi đi cửa hàng mua đồ.",
+   "ID": "ba14"
+ },
+ {
+   "hanzi": "他去银行取钱",
+   "pinyin": "Tā qù yínháng qǔ qián.",
+   "vietnam": "Anh ấy đi ngân hàng rút tiền.",
+   "ID": "ba15"
+ },
+ {
+   "hanzi": "我们去图书馆看书",
+   "pinyin": "Wǒmen qù túshūguǎn kàn shū.",
+   "vietnam": "Chúng tôi đi thư viện đọc sách.",
+   "ID": "ba16"
+ },
+ {
+   "hanzi": "你们去饭店吃饭吗",
+   "pinyin": "Nǐmen qù fàndiàn chīfàn ma?",
+   "vietnam": "Các bạn đi nhà hàng ăn cơm không?",
+   "ID": "ba17"
+ },
+ {
+   "hanzi": "她去商场买衣服",
+   "pinyin": "Tā qù shāngchǎng mǎi yīfu.",
+   "vietnam": "Cô ấy đi trung tâm mua sắm mua áo quần.",
+   "ID": "ba18"
+ },
+ {
+   "hanzi": "我去医院看病",
+   "pinyin": "Wǒ qù yīyuàn kàn bìng.",
+   "vietnam": "Tôi đi bệnh viện khám bệnh.",
+   "ID": "ba19"
+ },
+ {
+   "hanzi": "他去公园跑步",
+   "pinyin": "Tā qù gōngyuán pǎobù.",
+   "vietnam": "Anh ấy đi công viên chạy bộ.",
+   "ID": "ba20"
+ },
+ {
+   "hanzi": "你家有几口人",
+   "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+   "vietnam": "Nhà bạn có mấy người?",
+   "ID": "ca1"
+ },
+ {
+   "hanzi": "我家有四口人",
+   "pinyin": "Wǒ jiā yǒu sì kǒu rén.",
+   "vietnam": "Nhà tôi có bốn người.",
+   "ID": "ca2"
+ },
+ {
+   "hanzi": "他家有三口人",
+   "pinyin": "Tā jiā yǒu sān kǒu rén.",
+   "vietnam": "Nhà anh ấy có ba người.",
+   "ID": "ca3"
+ },
+ {
+   "hanzi": "她家有五口人",
+   "pinyin": "Tā jiā yǒu wǔ kǒu rén.",
+   "vietnam": "Nhà cô ấy có năm người.",
+   "ID": "ca4"
+ },
+ {
+   "hanzi": "我家有爸爸妈妈和我",
+   "pinyin": "Wǒ jiā yǒu bàba māmā hé wǒ.",
+   "vietnam": "Nhà tôi có bố, mẹ và tôi.",
+   "ID": "ca5"
+ },
+ {
+   "hanzi": "你家有哥哥吗",
+   "pinyin": "Nǐ jiā yǒu gēge ma?",
+   "vietnam": "Nhà bạn có anh trai không?",
+   "ID": "ca6"
+ },
+ {
+   "hanzi": "我家有一个姐姐",
+   "pinyin": "Wǒ jiā yǒu yí gè jiějie.",
+   "vietnam": "Nhà tôi có một chị gái.",
+   "ID": "ca7"
+ },
+ {
+   "hanzi": "他家有两个孩子",
+   "pinyin": "Tā jiā yǒu liǎng gè háizi.",
+   "vietnam": "Nhà anh ấy có hai đứa trẻ.",
+   "ID": "ca8"
+ },
+ {
+   "hanzi": "她家有爷爷和奶奶",
+   "pinyin": "Tā jiā yǒu yéye hé nǎinai.",
+   "vietnam": "Nhà cô ấy có ông và bà.",
+   "ID": "ca9"
+ },
+ {
+   "hanzi": "我家有五个人",
+   "pinyin": "Wǒ jiā yǒu wǔ gè rén.",
+   "vietnam": "Nhà tôi có năm người.",
+   "ID": "ca10"
+ },
+ {
+   "hanzi": "你家有弟弟吗",
+   "pinyin": "Nǐ jiā yǒu dìdi ma?",
+   "vietnam": "Nhà bạn có em trai không?",
+   "ID": "ca11"
+ },
+ {
+   "hanzi": "我家有两个姐姐",
+   "pinyin": "Wǒ jiā yǒu liǎng gè jiějie.",
+   "vietnam": "Nhà tôi có hai chị gái.",
+   "ID": "ca12"
+ },
+ {
+   "hanzi": "他家有三个孩子",
+   "pinyin": "Tā jiā yǒu sān gè háizi.",
+   "vietnam": "Nhà anh ấy có ba đứa trẻ.",
+   "ID": "ca13"
+ },
+ {
+   "hanzi": "她家有四口人",
+   "pinyin": "Tā jiā yǒu sì kǒu rén.",
+   "vietnam": "Nhà cô ấy có bốn người.",
+   "ID": "ca14"
+ },
+ {
+   "hanzi": "我家有爸爸妈妈哥哥和我",
+   "pinyin": "Wǒ jiā yǒu bàba māmā gēge hé wǒ.",
+   "vietnam": "Nhà tôi có bố, mẹ, anh trai và tôi.",
+   "ID": "ca15"
+ },
+ {
+   "hanzi": "你家有姐姐吗",
+   "pinyin": "Nǐ jiā yǒu jiějie ma?",
+   "vietnam": "Nhà bạn có chị gái không?",
+   "ID": "ca16"
+ },
+ {
+   "hanzi": "我家有爷爷奶奶和父母",
+   "pinyin": "Wǒ jiā yǒu yéye nǎinai hé fùmǔ.",
+   "vietnam": "Nhà tôi có ông, bà và bố mẹ.",
+   "ID": "ca17"
+ },
+ {
+   "hanzi": "他家有五口人",
+   "pinyin": "Tā jiā yǒu wǔ kǒu rén.",
+   "vietnam": "Nhà anh ấy có năm người.",
+   "ID": "ca18"
+ },
+ {
+   "hanzi": "她家有爸爸妈妈和两个孩子",
+   "pinyin": "Tā jiā yǒu bàbamāmā hé liǎng gè háizi.",
+   "vietnam": "Nhà cô ấy có bố, mẹ và hai đứa trẻ.",
+   "ID": "ca19"
+ },
+ {
+   "hanzi": "我家有三个孩子",
+   "pinyin": "Wǒ jiā yǒu sān gè háizi.",
+   "vietnam": "Nhà tôi có ba đứa trẻ.",
+   "ID": "ca20"
+ },
+ {
+   "hanzi": "你家有几间房子",
+   "pinyin": "Nǐ jiā yǒu jǐ jiān fángzi?",
+   "vietnam": "Nhà bạn có mấy phòng?",
+   "ID": "da1"
+ },
+ {
+   "hanzi": "我家有三间房子",
+   "pinyin": "Wǒ jiā yǒu sān jiān fángzi.",
+   "vietnam": "Nhà tôi có ba phòng.",
+   "ID": "da2"
+ },
+ {
+   "hanzi": "他家有两间房子",
+   "pinyin": "Tā jiā yǒu liǎng jiān fángzi.",
+   "vietnam": "Nhà anh ấy có hai phòng.",
+   "ID": "da3"
+ },
+ {
+   "hanzi": "她家有五间房子",
+   "pinyin": "Tā jiā yǒu wǔ jiān fángzi.",
+   "vietnam": "Nhà cô ấy có năm phòng.",
+   "ID": "da4"
+ },
+ {
+   "hanzi": "我家有一个客厅和两个卧室",
+   "pinyin": "Wǒ jiā yǒu yí gè kètīng hé liǎng gè wòshì.",
+   "vietnam": "Nhà tôi có một phòng khách và hai phòng ngủ.",
+   "ID": "da5"
+ },
+ {
+   "hanzi": "你家有厨房吗",
+   "pinyin": "Nǐ jiā yǒu chúfáng ma?",
+   "vietnam": "Nhà bạn có bếp không?",
+   "ID": "da6"
+ },
+ {
+   "hanzi": "我家有一个厨房",
+   "pinyin": "Wǒ jiā yǒu yí gè chúfáng.",
+   "vietnam": "Nhà tôi có một bếp.",
+   "ID": "da7"
+ },
+ {
+   "hanzi": "他家有一个卫生间",
+   "pinyin": "Tā jiā yǒu yí gè wèishēngjiān.",
+   "vietnam": "Nhà anh ấy có một phòng vệ sinh.",
+   "ID": "da8"
+ },
+ {
+   "hanzi": "她家有一个客厅",
+   "pinyin": "Tā jiā yǒu yí gè kètīng.",
+   "vietnam": "Nhà cô ấy có một phòng khách.",
+   "ID": "da9"
+ },
+ {
+   "hanzi": "我家有四间房子",
+   "pinyin": "Wǒ jiā yǒu sì jiān fángzi.",
+   "vietnam": "Nhà tôi có bốn phòng.",
+   "ID": "da10"
+ },
+ {
+   "hanzi": "你家有卧室吗",
+   "pinyin": "Nǐ jiā yǒu wòshì ma?",
+   "vietnam": "Nhà bạn có phòng ngủ không?",
+   "ID": "da11"
+ },
+ {
+   "hanzi": "我家有两个卧室",
+   "pinyin": "Wǒ jiā yǒu liǎng gè wòshì.",
+   "vietnam": "Nhà tôi có hai phòng ngủ.",
+   "ID": "da12"
+ },
+ {
+   "hanzi": "他家有一个阳台",
+   "pinyin": "Tā jiā yǒu yí gè yángtái.",
+   "vietnam": "Nhà anh ấy có một ban công.",
+   "ID": "da13"
+ },
+ {
+   "hanzi": "她家有一个厨房和一个卫生间",
+   "pinyin": "Tā jiā yǒu yí gè chúfáng hé yí gè wèishēngjiān.",
+   "vietnam": "Nhà cô ấy có một bếp và một phòng vệ sinh.",
+   "ID": "da14"
+ },
+ {
+   "hanzi": "我家有三间卧室",
+   "pinyin": "Wǒ jiā yǒu sān jiān wòshì.",
+   "vietnam": "Nhà tôi có ba phòng ngủ.",
+   "ID": "da15"
+ },
+ {
+   "hanzi": "你家有几个房间",
+   "pinyin": "Nǐ jiā yǒu jǐ gè fángjiān?",
+   "vietnam": "Nhà bạn có mấy phòng?",
+   "ID": "da16"
+ },
+ {
+   "hanzi": "我家有一个客厅两个卧室和一个厨房",
+   "pinyin": "Wǒ jiā yǒu yí gè kètīng liǎng gè wòshì hé yí gè chúfáng.",
+   "vietnam": "Nhà tôi có một phòng khách, hai phòng ngủ và một bếp.",
+   "ID": "da17"
+ },
+ {
+   "hanzi": "他家有五间房子",
+   "pinyin": "Tā jiā yǒu wǔ jiān fángzi.",
+   "vietnam": "Nhà anh ấy có năm phòng.",
+   "ID": "da18"
+ },
+ {
+   "hanzi": "她家有两个卧室和一个客厅",
+   "pinyin": "Tā jiā yǒu liǎng gè wòshì hé yí gè kètīng.",
+   "vietnam": "Nhà cô ấy có hai phòng ngủ và một phòng khách.",
+   "ID": "da19"
+ },
+ {
+   "hanzi": "我家有一个阳台和一个卫生间",
+   "pinyin": "Wǒ jiā yǒu yí gè yángtái hé yí gè wèishēngjiān.",
+   "vietnam": "Nhà tôi có một ban công và một phòng vệ sinh.",
+   "ID": "da20"
+ },
+ {
+   "hanzi": "你喜欢什么颜色",
+   "pinyin": "Nǐ xǐhuān shénme yánsè?",
+   "vietnam": "Bạn thích màu gì?",
+   "ID": "ea1"
+ },
+ {
+   "hanzi": "我喜欢红色",
+   "pinyin": "Wǒ xǐhuān hóngsè.",
+   "vietnam": "Tôi thích màu đỏ.",
+   "ID": "ea2"
+ },
+ {
+   "hanzi": "他喜欢蓝色",
+   "pinyin": "Tā xǐhuān lánsè.",
+   "vietnam": "Anh ấy thích màu xanh dương.",
+   "ID": "ea3"
+ },
+ {
+   "hanzi": "她喜欢绿色",
+   "pinyin": "Tā xǐhuān lǜsè.",
+   "vietnam": "Cô ấy thích màu xanh lá.",
+   "ID": "ea4"
+ },
+ {
+   "hanzi": "我喜欢黄色",
+   "pinyin": "Wǒ xǐhuān huángsè.",
+   "vietnam": "Tôi thích màu vàng.",
+   "ID": "ea5"
+ },
+ {
+   "hanzi": "你喜欢黑色吗",
+   "pinyin": "Nǐ xǐhuān hēisè ma?",
+   "vietnam": "Bạn thích màu đen không?",
+   "ID": "ea6"
+ },
+ {
+   "hanzi": "我喜欢白色",
+   "pinyin": "Wǒ xǐhuān báisè.",
+   "vietnam": "Tôi thích màu trắng.",
+   "ID": "ea7"
+ },
+ {
+   "hanzi": "他喜欢紫色",
+   "pinyin": "Tā xǐhuān zǐsè.",
+   "vietnam": "Anh ấy thích màu tím.",
+   "ID": "ea8"
+ },
+ {
+   "hanzi": "她喜欢橙色",
+   "pinyin": "Tā xǐhuān chéngsè.",
+   "vietnam": "Cô ấy thích màu cam.",
+   "ID": "ea9"
+ },
+ {
+   "hanzi": "我喜欢粉色",
+   "pinyin": "Wǒ xǐhuān fěnsè.",
+   "vietnam": "Tôi thích màu hồng.",
+   "ID": "ea10"
+ },
+ {
+   "hanzi": "你喜欢什么颜色的衣服",
+   "pinyin": "Nǐ xǐhuān shénme yánsè de yīfu?",
+   "vietnam": "Bạn thích màu gì cho quần áo?",
+   "ID": "ea11"
+ },
+ {
+   "hanzi": "我喜欢红色的衣服",
+   "pinyin": "Wǒ xǐhuān hóngsè de yīfu.",
+   "vietnam": "Tôi thích quần áo màu đỏ.",
+   "ID": "ea12"
+ },
+ {
+   "hanzi": "他喜欢蓝色的裤子",
+   "pinyin": "Tā xǐhuān lánsè de kùzi.",
+   "vietnam": "Anh ấy thích quần màu xanh dương.",
+   "ID": "ea13"
+ },
+ {
+   "hanzi": "她喜欢绿色的裙子",
+   "pinyin": "Tā xǐhuān lǜsè de qúnzi.",
+   "vietnam": "Cô ấy thích váy màu xanh lá.",
+   "ID": "ea14"
+ },
+ {
+   "hanzi": "我喜欢黄色的帽子",
+   "pinyin": "Wǒ xǐhuān huángsè de màozi.",
+   "vietnam": "Tôi thích mũ màu vàng.",
+   "ID": "ea15"
+ },
+ {
+   "hanzi": "你喜欢黑色的鞋子吗",
+   "pinyin": "Nǐ xǐhuān hēisè de xiézi ma?",
+   "vietnam": "Bạn thích giày màu đen không?",
+   "ID": "ea16"
+ },
+ {
+   "hanzi": "我喜欢白色的袜子",
+   "pinyin": "Wǒ xǐhuān báisè de wàzi.",
+   "vietnam": "Tôi thích tất màu trắng.",
+   "ID": "ea17"
+ },
+ {
+   "hanzi": "他喜欢紫色的衣服",
+   "pinyin": "Tā xǐhuān zǐsè de yīfu.",
+   "vietnam": "Anh ấy thích quần áo màu tím.",
+   "ID": "ea18"
+ },
+ {
+   "hanzi": "她喜欢橙色的包",
+   "pinyin": "Tā xǐhuān chéngsè de bāo.",
+   "vietnam": "Cô ấy thích túi màu cam.",
+   "ID": "ea19"
+ },
+ {
+   "hanzi": "我喜欢粉色的裙子",
+   "pinyin": "Wǒ xǐhuān fěnsè de qúnzi.",
+   "vietnam": "Tôi thích váy màu hồng.",
+   "ID": "ea20"
+ }
+]
