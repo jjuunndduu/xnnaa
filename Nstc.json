@@ -1,0 +1,2522 @@
+[
+ {
+   "hanzi": "你学的是什么专业",
+   "pinyin": "Nǐ xué de shì shénme zhuānyè?",
+   "vietnam": "Bạn học chuyên ngành gì?",
+   "ID": "tca1"
+ },
+ {
+   "hanzi": "他以后想做国际贸易工作",
+   "pinyin": "Tā yǐhòu xiǎng zuò guójì màoyì gōngzuò.",
+   "vietnam": "Sau này anh ấy muốn làm công việc thương mại quốc tế.",
+   "ID": "tca2"
+ },
+ {
+   "hanzi": "中国和越南的贸易关系很好",
+   "pinyin": "Zhōngguó hé Yuènán de màoyì guānxì hěn hǎo.",
+   "vietnam": "Quan hệ thương mại giữa Trung Quốc và Việt Nam rất tốt.",
+   "ID": "tca3"
+ },
+ {
+   "hanzi": "这个国家的经济发展很快",
+   "pinyin": "Zhège guójiā de jīngjì fāzhǎn hěn kuài.",
+   "vietnam": "Nền kinh tế của đất nước này phát triển rất nhanh.",
+   "ID": "tca4"
+ },
+ {
+   "hanzi": "我对中国文化很感兴趣",
+   "pinyin": "Wǒ duì Zhōngguó wénhuà hěn gǎn xìngqù.",
+   "vietnam": "Tôi rất hứng thú với văn hoá Trung Quốc.",
+   "ID": "tca5"
+ },
+ {
+   "hanzi": "北京有很多历史名胜",
+   "pinyin": "Běijīng yǒu hěn duō lìshǐ míngshèng.",
+   "vietnam": "Bắc Kinh có nhiều danh thắng lịch sử.",
+   "ID": "tca6"
+ },
+ {
+   "hanzi": "他每天都看新闻",
+   "pinyin": "Tā měitiān dōu kàn xīnwén.",
+   "vietnam": "Anh ấy mỗi ngày đều xem tin tức.",
+   "ID": "tca7"
+ },
+ {
+   "hanzi": "哲学课比较难懂",
+   "pinyin": "Zhéxué kè bǐjiào nándǒng.",
+   "vietnam": "Môn triết học khá khó hiểu.",
+   "ID": "tca8"
+ },
+ {
+   "hanzi": "你喜欢听什么音乐",
+   "pinyin": "Nǐ xǐhuān tīng shénme yīnyuè?",
+   "vietnam": "Bạn thích nghe loại nhạc gì?",
+   "ID": "tca9"
+ },
+ {
+   "hanzi": "他在美术方面很有天赋",
+   "pinyin": "Tā zài měishù fāngmiàn hěn yǒu tiānfù.",
+   "vietnam": "Anh ấy rất có năng khiếu về mỹ thuật.",
+   "ID": "tca10"
+ },
+ {
+   "hanzi": "我们学校的体育活动很丰富",
+   "pinyin": "Wǒmen xuéxiào de tǐyù huódòng hěn fēngfù.",
+   "vietnam": "Hoạt động thể dục thể thao của trường chúng tôi rất phong phú.",
+   "ID": "tca11"
+ },
+ {
+   "hanzi": "你的爱好是什么",
+   "pinyin": "Nǐ de àihào shì shénme?",
+   "vietnam": "Sở thích của bạn là gì?",
+   "ID": "tca12"
+ },
+ {
+   "hanzi": "他正在研究中国经济",
+   "pinyin": "Tā zhèngzài yánjiū Zhōngguó jīngjì.",
+   "vietnam": "Anh ấy đang nghiên cứu về kinh tế Trung Quốc.",
+   "ID": "tca13"
+ },
+ {
+   "hanzi": "你将来打算去哪儿工作",
+   "pinyin": "Nǐ jiānglái dǎsuàn qù nǎr gōngzuò?",
+   "vietnam": "Sau này bạn định đi đâu làm việc?",
+   "ID": "tca14"
+ },
+ {
+   "hanzi": "我打算毕业后去中国工作",
+   "pinyin": "Wǒ dǎsuàn bìyè hòu qù Zhōngguó gōngzuò.",
+   "vietnam": "Tôi định sau khi tốt nghiệp sẽ sang Trung Quốc làm việc.",
+   "ID": "tca15"
+ },
+ {
+   "hanzi": "今年的旅行计划已经安排好了",
+   "pinyin": "Jīnnián de lǚxíng jìhuà yǐjīng ānpái hǎo le.",
+   "vietnam": "Kế hoạch du lịch năm nay đã sắp xếp xong.",
+   "ID": "tca16"
+ },
+ {
+   "hanzi": "我希望有一天能去北京",
+   "pinyin": "Wǒ xīwàng yǒu yìtiān néng qù Běijīng.",
+   "vietnam": "Tôi hy vọng một ngày nào đó có thể đến Bắc Kinh.",
+   "ID": "tca17"
+ },
+ {
+   "hanzi": "学中文需要很多耐心",
+   "pinyin": "Xué Zhōngwén xūyào hěn duō nàixīn.",
+   "vietnam": "Học tiếng Trung cần rất nhiều kiên nhẫn.",
+   "ID": "tca18"
+ },
+ {
+   "hanzi": "你为什么选择这个专业",
+   "pinyin": "Nǐ wèishénme xuǎnzé zhège zhuānyè?",
+   "vietnam": "Tại sao bạn chọn chuyên ngành này?",
+   "ID": "tca19"
+ },
+ {
+   "hanzi": "他决定明年去国外留学",
+   "pinyin": "Tā juédìng míngnián qù guówài liúxué.",
+   "vietnam": "Anh ấy quyết định sang nước ngoài du học vào năm sau.",
+   "ID": "tca20"
+ },
+ {
+   "hanzi": "这里的学习环境很好",
+   "pinyin": "Zhèlǐ de xuéxí huánjìng hěn hǎo.",
+   "vietnam": "Môi trường học tập ở đây rất tốt.",
+   "ID": "tcb1"
+ },
+ {
+   "hanzi": "我每天都要复习生词",
+   "pinyin": "Wǒ měitiān dōu yào fùxí shēngcí.",
+   "vietnam": "Mỗi ngày tôi đều phải ôn lại từ mới.",
+   "ID": "tcb2"
+ },
+ {
+   "hanzi": "上课以前要先预习课文",
+   "pinyin": "Shàngkè yǐqián yào xiān yùxí kèwén.",
+   "vietnam": "Trước khi lên lớp phải chuẩn bị bài trước.",
+   "ID": "tcb3"
+ },
+ {
+   "hanzi": "他学习非常认真",
+   "pinyin": "Tā xuéxí fēicháng rènzhēn.",
+   "vietnam": "Anh ấy học tập rất chăm chỉ, nghiêm túc.",
+   "ID": "tcb4"
+ },
+ {
+   "hanzi": "只要努力就会有进步",
+   "pinyin": "Zhǐyào nǔlì, jiù huì yǒu jìnbù.",
+   "vietnam": "Chỉ cần nỗ lực thì sẽ có tiến bộ.",
+   "ID": "tcb5"
+ },
+ {
+   "hanzi": "这篇课文不太难",
+   "pinyin": "Zhè piān kèwén bù tài nán.",
+   "vietnam": "Bài khóa này không quá khó.",
+   "ID": "tcb6"
+ },
+ {
+   "hanzi": "今天学了二十个生词",
+   "pinyin": "Jīntiān xué le èrshí gè shēngcí.",
+   "vietnam": "Hôm nay học được 20 từ mới.",
+   "ID": "tcb7"
+ },
+ {
+   "hanzi": "汉语语法有时候很复杂",
+   "pinyin": "Hànyǔ yǔfǎ yǒu shíhou hěn fùzá.",
+   "vietnam": "Ngữ pháp tiếng Trung đôi khi rất phức tạp.",
+   "ID": "tcb8"
+ },
+ {
+   "hanzi": "他的汉语发音很好听",
+   "pinyin": "Tā de Hànyǔ fāyīn hěn hǎotīng.",
+   "vietnam": "Phát âm tiếng Trung của anh ấy nghe rất hay.",
+   "ID": "tcb9"
+ },
+ {
+   "hanzi": "我每天阅读中文文章",
+   "pinyin": "Wǒ měitiān yuèdú Zhōngwén wénzhāng.",
+   "vietnam": "Tôi mỗi ngày đều đọc bài văn tiếng Trung.",
+   "ID": "tcb10"
+ },
+ {
+   "hanzi": "你会写汉字吗",
+   "pinyin": "Nǐ huì xiě Hànzì ma?",
+   "vietnam": "Bạn có biết viết chữ Hán không?",
+   "ID": "tcb11"
+ },
+ {
+   "hanzi": "老师给我们很多练习",
+   "pinyin": "Lǎoshī gěi wǒmen hěn duō liànxí.",
+   "vietnam": "Thầy giáo cho chúng tôi nhiều bài tập luyện.",
+   "ID": "tcb12"
+ },
+ {
+   "hanzi": "今天的作业比较多",
+   "pinyin": "Jīntiān de zuòyè bǐjiào duō.",
+   "vietnam": "Bài tập hôm nay hơi nhiều.",
+   "ID": "tcb13"
+ },
+ {
+   "hanzi": "明天要考试你准备好了吗",
+   "pinyin": "Míngtiān yào kǎoshì, nǐ zhǔnbèi hǎo le ma?",
+   "vietnam": "Ngày mai có kiểm tra, bạn chuẩn bị xong chưa?",
+   "ID": "tcb14"
+ },
+ {
+   "hanzi": "他考试成绩很好",
+   "pinyin": "Tā kǎoshì chéngjì hěn hǎo.",
+   "vietnam": "Kết quả thi của anh ấy rất tốt.",
+   "ID": "tcb15"
+ },
+ {
+   "hanzi": "我想提高我的口语水平",
+   "pinyin": "Wǒ xiǎng tígāo wǒ de kǒuyǔ shuǐpíng.",
+   "vietnam": "Tôi muốn nâng cao trình độ khẩu ngữ.",
+   "ID": "tcb16"
+ },
+ {
+   "hanzi": "他的中文水平很高",
+   "pinyin": "Tā de Zhōngwén shuǐpíng hěn gāo.",
+   "vietnam": "Trình độ tiếng Trung của anh ấy rất cao.",
+   "ID": "tcb17"
+ },
+ {
+   "hanzi": "请把练习本拿出来",
+   "pinyin": "Qǐng bǎ liànxíběn ná chūlái.",
+   "vietnam": "Hãy lấy vở bài tập ra.",
+   "ID": "tcb18"
+ },
+ {
+   "hanzi": "这个句子怎么翻译",
+   "pinyin": "Zhège jùzi zěnme fānyì?",
+   "vietnam": "Câu này dịch thế nào?",
+   "ID": "tcb19"
+ },
+ {
+   "hanzi": "我喜欢参加课外活动",
+   "pinyin": "Wǒ xǐhuān cānjiā kèwài huódòng.",
+   "vietnam": "Tôi thích tham gia hoạt động ngoại khóa.",
+   "ID": "tcb20"
+ },
+ {
+   "hanzi": "我已经报名参加比赛了",
+   "pinyin": "Wǒ yǐjīng bàomíng cānjiā bǐsài le.",
+   "vietnam": "Tôi đã đăng ký tham gia cuộc thi rồi.",
+   "ID": "tcc1"
+ },
+ {
+   "hanzi": "明天的比赛你去看吗",
+   "pinyin": "Míngtiān de bǐsài nǐ qù kàn ma?",
+   "vietnam": "Trận thi đấu ngày mai bạn có đi xem không?",
+   "ID": "tcc2"
+ },
+ {
+   "hanzi": "他是中文系三年级的学生",
+   "pinyin": "Tā shì Zhōngwén xì sān niánjí de xuéshēng.",
+   "vietnam": "Anh ấy là sinh viên năm 3 khoa tiếng Trung.",
+   "ID": "tcc3"
+ },
+ {
+   "hanzi": "如果你需要帮助可以找我",
+   "pinyin": "Rúguǒ nǐ xūyào bāngzhù, kěyǐ zhǎo wǒ.",
+   "vietnam": "Nếu bạn cần giúp đỡ, có thể tìm tôi.",
+   "ID": "tcc4"
+ },
+ {
+   "hanzi": "他们在舞台上表演得很精彩",
+   "pinyin": "Tāmen zài wǔtái shàng biǎoyǎn de hěn jīngcǎi.",
+   "vietnam": "Họ biểu diễn trên sân khấu rất tuyệt.",
+   "ID": "tcc5"
+ },
+ {
+   "hanzi": "舞台上有很多演员",
+   "pinyin": "Wǔtái shàng yǒu hěn duō yǎnyuán.",
+   "vietnam": "Trên sân khấu có rất nhiều diễn viên.",
+   "ID": "tcc6"
+ },
+ {
+   "hanzi": "她是一个有名的演员",
+   "pinyin": "Tā shì yí gè yǒumíng de yǎnyuán.",
+   "vietnam": "Cô ấy là một diễn viên nổi tiếng.",
+   "ID": "tcc7"
+ },
+ {
+   "hanzi": "今晚的节目很有意思",
+   "pinyin": "Jīnwǎn de jiémù hěn yǒuyìsi.",
+   "vietnam": "Chương trình tối nay rất thú vị.",
+   "ID": "tcc8"
+ },
+ {
+   "hanzi": "他听到这个消息很兴奋",
+   "pinyin": "Tā tīngdào zhège xiāoxi hěn xīngfèn.",
+   "vietnam": "Anh ấy rất phấn khích khi nghe tin này.",
+   "ID": "tcc9"
+ },
+ {
+   "hanzi": "第一次演讲我有点紧张",
+   "pinyin": "Dì yī cì yǎnjiǎng wǒ yǒudiǎn jǐnzhāng.",
+   "vietnam": "Lần đầu phát biểu tôi hơi căng thẳng.",
+   "ID": "tcc10"
+ },
+ {
+   "hanzi": "这个工作是一个好机会",
+   "pinyin": "Zhège gōngzuò shì yí gè hǎo jīhuì.",
+   "vietnam": "Công việc này là một cơ hội tốt.",
+   "ID": "tcc11"
+ },
+ {
+   "hanzi": "他努力工作终于成功了",
+   "pinyin": "Tā nǔlì gōngzuò, zhōngyú chénggōng le.",
+   "vietnam": "Anh ấy làm việc chăm chỉ và cuối cùng đã thành công.",
+   "ID": "tcc12"
+ },
+ {
+   "hanzi": "不要怕失败要继续努力",
+   "pinyin": "Bù yào pà shībài, yào jìxù nǔlì.",
+   "vietnam": "Đừng sợ thất bại, phải tiếp tục cố gắng.",
+   "ID": "tcc13"
+ },
+ {
+   "hanzi": "观众们热烈鼓掌",
+   "pinyin": "Guānzhòng men rèliè gǔzhǎng.",
+   "vietnam": "Khán giả vỗ tay nhiệt liệt.",
+   "ID": "tcc14"
+ },
+ {
+   "hanzi": "大家为演员鼓掌",
+   "pinyin": "Dàjiā wèi yǎnyuán gǔzhǎng.",
+   "vietnam": "Mọi người vỗ tay cho diễn viên.",
+   "ID": "tcc15"
+ },
+ {
+   "hanzi": "他们热烈地欢迎新同学",
+   "pinyin": "Tāmen rèliè de huānyíng xīn tóngxué.",
+   "vietnam": "Họ nhiệt liệt chào mừng bạn học mới.",
+   "ID": "tcc16"
+ },
+ {
+   "hanzi": "他在比赛中得了第一名的奖",
+   "pinyin": "Tā zài bǐsài zhōng dé le dì yī míng de jiǎng.",
+   "vietnam": "Anh ấy đạt giải nhất trong cuộc thi.",
+   "ID": "tcc17"
+ },
+ {
+   "hanzi": "公司给了他一笔奖金",
+   "pinyin": "Gōngsī gěi le tā yì bǐ jiǎngjīn.",
+   "vietnam": "Công ty thưởng cho anh ấy một khoản tiền thưởng.",
+   "ID": "tcc18"
+ },
+ {
+   "hanzi": "这件事对他的学习有影响",
+   "pinyin": "Zhè jiàn shì duì tā de xuéxí yǒu yǐngxiǎng.",
+   "vietnam": "Việc này có ảnh hưởng đến việc học của anh ấy.",
+   "ID": "tcc19"
+ },
+ {
+   "hanzi": "这是一次难忘的经历",
+   "pinyin": "Zhè shì yí cì nánwàng de jīnglì.",
+   "vietnam": "Đây là một trải nghiệm khó quên.",
+   "ID": "tcc20"
+ },
+ {
+   "hanzi": "这篇文章很有意思",
+   "pinyin": "Zhè piān wénzhāng hěn yǒuyìsi.",
+   "vietnam": "Bài văn này rất thú vị.",
+   "ID": "tcd1"
+ },
+ {
+   "hanzi": "他每天都买报纸看",
+   "pinyin": "Tā měitiān dōu mǎi bàozhǐ kàn.",
+   "vietnam": "Anh ấy mỗi ngày đều mua báo đọc.",
+   "ID": "tcd2"
+ },
+ {
+   "hanzi": "桌子上放着几本杂志",
+   "pinyin": "Zhuōzi shàng fàng zhe jǐ běn zázhì.",
+   "vietnam": "Trên bàn có mấy quyển tạp chí.",
+   "ID": "tcd3"
+ },
+ {
+   "hanzi": "我喜欢读中国小说",
+   "pinyin": "Wǒ xǐhuān dú Zhōngguó xiǎoshuō.",
+   "vietnam": "Tôi thích đọc tiểu thuyết Trung Quốc.",
+   "ID": "tcd4"
+ },
+ {
+   "hanzi": "这个故事非常感人",
+   "pinyin": "Zhège gùshì fēicháng gǎnrén.",
+   "vietnam": "Câu chuyện này rất cảm động.",
+   "ID": "tcd5"
+ },
+ {
+   "hanzi": "学中文需要很多练习",
+   "pinyin": "Xué Zhōngwén xūyào hěn duō liànxí.",
+   "vietnam": "Học tiếng Trung cần rất nhiều luyện tập.",
+   "ID": "tcd6"
+ },
+ {
+   "hanzi": "做菜需要准备材料",
+   "pinyin": "Zuò cài xūyào zhǔnbèi cáiliào.",
+   "vietnam": "Nấu ăn cần chuẩn bị nguyên liệu.",
+   "ID": "tcd7"
+ },
+ {
+   "hanzi": "学习汉语有很多方法",
+   "pinyin": "Xuéxí Hànyǔ yǒu hěn duō fāngfǎ.",
+   "vietnam": "Có nhiều phương pháp học tiếng Trung.",
+   "ID": "tcd8"
+ },
+ {
+   "hanzi": "你能介绍一下这里的情况吗",
+   "pinyin": "Nǐ néng jièshào yíxià zhèlǐ de qíngkuàng ma?",
+   "vietnam": "Bạn có thể giới thiệu tình hình ở đây không?",
+   "ID": "tcd9"
+ },
+ {
+   "hanzi": "这本书的内容很丰富",
+   "pinyin": "Zhè běn shū de nèiróng hěn fēngfù.",
+   "vietnam": "Nội dung của cuốn sách này rất phong phú.",
+   "ID": "tcd10"
+ },
+ {
+   "hanzi": "这个问题很简单",
+   "pinyin": "Zhège wèntí hěn jiǎndān.",
+   "vietnam": "Câu hỏi này rất đơn giản.",
+   "ID": "tcd11"
+ },
+ {
+   "hanzi": "这件事情比我想的复杂",
+   "pinyin": "Zhè jiàn shìqing bǐ wǒ xiǎng de fùzá.",
+   "vietnam": "Việc này phức tạp hơn tôi nghĩ.",
+   "ID": "tcd12"
+ },
+ {
+   "hanzi": "这个汉字不容易写",
+   "pinyin": "Zhège Hànzì bù róngyì xiě.",
+   "vietnam": "Chữ Hán này không dễ viết.",
+   "ID": "tcd13"
+ },
+ {
+   "hanzi": "这道题太难了",
+   "pinyin": "Zhè dào tí tài nán le.",
+   "vietnam": "Bài tập này quá khó.",
+   "ID": "tcd14"
+ },
+ {
+   "hanzi": "你听清楚老师说的话了吗",
+   "pinyin": "Nǐ tīng qīngchu lǎoshī shuō de huà le ma?",
+   "vietnam": "Bạn nghe rõ lời thầy nói chưa?",
+   "ID": "tcd15"
+ },
+ {
+   "hanzi": "我明白你的意思了",
+   "pinyin": "Wǒ míngbái nǐ de yìsi le.",
+   "vietnam": "Tôi đã hiểu ý bạn rồi.",
+   "ID": "tcd16"
+ },
+ {
+   "hanzi": "他很了解中国文化",
+   "pinyin": "Tā hěn liǎojiě Zhōngguó wénhuà.",
+   "vietnam": "Anh ấy rất am hiểu văn hóa Trung Quốc.",
+   "ID": "tcd17"
+ },
+ {
+   "hanzi": "过马路要注意安全",
+   "pinyin": "Guò mǎlù yào zhùyì ānquán.",
+   "vietnam": "Qua đường phải chú ý an toàn.",
+   "ID": "tcd18"
+ },
+ {
+   "hanzi": "请你记住这个电话号码",
+   "pinyin": "Qǐng nǐ jìzhù zhège diànhuà hàomǎ.",
+   "vietnam": "Hãy nhớ số điện thoại này nhé.",
+   "ID": "tcd19"
+ },
+ {
+   "hanzi": "我忘记带书了",
+   "pinyin": "Wǒ wàngjì dài shū le.",
+   "vietnam": "Tôi quên mang sách rồi.",
+   "ID": "tcd20"
+ },
+ {
+   "hanzi": "明天的会我一定参加",
+   "pinyin": "Míngtiān de huì wǒ yídìng cānjiā.",
+   "vietnam": "Cuộc họp ngày mai tôi nhất định tham gia.",
+   "ID": "tce1"
+ },
+ {
+   "hanzi": "我们一共买了十张票",
+   "pinyin": "Wǒmen yígòng mǎi le shí zhāng piào.",
+   "vietnam": "Chúng tôi tổng cộng đã mua 10 vé.",
+   "ID": "tce2"
+ },
+ {
+   "hanzi": "他一般七点起床",
+   "pinyin": "Tā yìbān qī diǎn qǐchuáng.",
+   "vietnam": "Anh ấy thường 7 giờ dậy.",
+   "ID": "tce3"
+ },
+ {
+   "hanzi": "她一边唱歌一边跳舞",
+   "pinyin": "Tā yìbiān chànggē yìbiān tiàowǔ.",
+   "vietnam": "Cô ấy vừa hát vừa nhảy.",
+   "ID": "tce4"
+ },
+ {
+   "hanzi": "他一直在图书馆学习",
+   "pinyin": "Tā yìzhí zài túshūguǎn xuéxí.",
+   "vietnam": "Anh ấy học ở thư viện suốt.",
+   "ID": "tce5"
+ },
+ {
+   "hanzi": "请等我一会儿",
+   "pinyin": "Qǐng děng wǒ yíhuìr.",
+   "vietnam": "Xin đợi tôi một lúc.",
+   "ID": "tce6"
+ },
+ {
+   "hanzi": "我想问你一下儿",
+   "pinyin": "Wǒ xiǎng wèn nǐ yíxiàr.",
+   "vietnam": "Tôi muốn hỏi bạn một chút.",
+   "ID": "tce7"
+ },
+ {
+   "hanzi": "我们下午三点见面吧",
+   "pinyin": "Wǒmen xiàwǔ sān diǎn jiànmiàn ba.",
+   "vietnam": "Chúng ta gặp nhau lúc 3 giờ chiều nhé.",
+   "ID": "tce8"
+ },
+ {
+   "hanzi": "我昨天见到老师了",
+   "pinyin": "Wǒ zuótiān jiàn dào lǎoshī le.",
+   "vietnam": "Hôm qua tôi gặp thầy rồi.",
+   "ID": "tce9"
+ },
+ {
+   "hanzi": "这个人我见过",
+   "pinyin": "Zhège rén wǒ jiàn guo.",
+   "vietnam": "Người này tôi đã từng gặp rồi.",
+   "ID": "tce10"
+ },
+ {
+   "hanzi": "他身体好跑得见得很快",
+   "pinyin": "Tā shēntǐ hǎo, pǎo de jiànde hěn kuài.",
+   "vietnam": "Sức khỏe anh ấy tốt, chạy quả là rất nhanh.",
+   "ID": "tce11"
+ },
+ {
+   "hanzi": "我看见他进教室了",
+   "pinyin": "Wǒ kànjiàn tā jìn jiàoshì le.",
+   "vietnam": "Tôi nhìn thấy anh ấy vào lớp rồi.",
+   "ID": "tce12"
+ },
+ {
+   "hanzi": "我听见有人叫我的名字",
+   "pinyin": "Wǒ tīngjiàn yǒurén jiào wǒ de míngzi.",
+   "vietnam": "Tôi nghe thấy có người gọi tên tôi.",
+   "ID": "tce13"
+ },
+ {
+   "hanzi": "我听到一个好消息",
+   "pinyin": "Wǒ tīngdào yí gè hǎo xiāoxi.",
+   "vietnam": "Tôi nghe được một tin vui.",
+   "ID": "tce14"
+ },
+ {
+   "hanzi": "我听说你要去中国留学",
+   "pinyin": "Wǒ tīngshuō nǐ yào qù Zhōngguó liúxué.",
+   "vietnam": "Tôi nghe nói bạn sắp đi du học Trung Quốc.",
+   "ID": "tce15"
+ },
+ {
+   "hanzi": "老师让我们做听写练习",
+   "pinyin": "Lǎoshī ràng wǒmen zuò tīngxiě liànxí.",
+   "vietnam": "Thầy giáo yêu cầu chúng tôi làm bài nghe viết.",
+   "ID": "tce16"
+ },
+ {
+   "hanzi": "我们在公园照相",
+   "pinyin": "Wǒmen zài gōngyuán zhàoxiàng.",
+   "vietnam": "Chúng tôi chụp ảnh ở công viên.",
+   "ID": "tce17"
+ },
+ {
+   "hanzi": "这是我小时候的照片",
+   "pinyin": "Zhè shì wǒ xiǎoshíhòu de zhàopiàn.",
+   "vietnam": "Đây là ảnh hồi nhỏ của tôi.",
+   "ID": "tce18"
+ },
+ {
+   "hanzi": "他们的爱好一样",
+   "pinyin": "Tāmen de àihào yíyàng.",
+   "vietnam": "Sở thích của họ giống nhau.",
+   "ID": "tce19"
+ },
+ {
+   "hanzi": "中国菜和越南菜不一样",
+   "pinyin": "Zhōngguó cài hé Yuènán cài bù yíyàng.",
+   "vietnam": "Món ăn Trung Quốc và món ăn Việt Nam không giống nhau.",
+   "ID": "tce20"
+ },
+ {
+   "hanzi": "你能帮忙开一下门吗",
+   "pinyin": "Nǐ néng bāngmáng kāi yíxià mén ma?",
+   "vietnam": "Bạn có thể giúp mở cửa một chút không?",
+   "ID": "tcf1"
+ },
+ {
+   "hanzi": "谢谢你对我的帮助",
+   "pinyin": "Xièxie nǐ duì wǒ de bāngzhù.",
+   "vietnam": "Cảm ơn bạn đã giúp đỡ tôi.",
+   "ID": "tcf2"
+ },
+ {
+   "hanzi": "我们一起打扫教室吧",
+   "pinyin": "Wǒmen yìqǐ dǎsǎo jiàoshì ba.",
+   "vietnam": "Chúng ta cùng dọn dẹp lớp học nhé.",
+   "ID": "tcf3"
+ },
+ {
+   "hanzi": "房间打扫得很干净",
+   "pinyin": "Fángjiān dǎsǎo de hěn gānjìng.",
+   "vietnam": "Phòng được dọn sạch sẽ.",
+   "ID": "tcf4"
+ },
+ {
+   "hanzi": "书架上的书摆得很整齐",
+   "pinyin": "Shūjià shàng de shū bǎi de hěn zhěngqí.",
+   "vietnam": "Sách trên giá được sắp rất gọn gàng.",
+   "ID": "tcf5"
+ },
+ {
+   "hanzi": "他在洗衣服",
+   "pinyin": "Tā zài xǐ yīfu.",
+   "vietnam": "Anh ấy đang giặt quần áo.",
+   "ID": "tcf6"
+ },
+ {
+   "hanzi": "我每天晚上洗澡",
+   "pinyin": "Wǒ měitiān wǎnshang xǐzǎo.",
+   "vietnam": "Tôi tắm mỗi tối.",
+   "ID": "tcf7"
+ },
+ {
+   "hanzi": "小孩子要学会自己刷牙",
+   "pinyin": "Xiǎoháizi yào xuéhuì zìjǐ shuāyá.",
+   "vietnam": "Trẻ nhỏ phải học cách tự đánh răng.",
+   "ID": "tcf8"
+ },
+ {
+   "hanzi": "他每天早上八点上班",
+   "pinyin": "Tā měitiān zǎoshang bā diǎn shàngbān.",
+   "vietnam": "Anh ấy đi làm lúc 8 giờ sáng mỗi ngày.",
+   "ID": "tcf9"
+ },
+ {
+   "hanzi": "爸爸六点下班回家",
+   "pinyin": "Bàba liù diǎn xiàbān huí jiā.",
+   "vietnam": "Bố tan ca về nhà lúc 6 giờ.",
+   "ID": "tcf10"
+ },
+ {
+   "hanzi": "你今天几点起床",
+   "pinyin": "Nǐ jīntiān jǐ diǎn qǐchuáng?",
+   "vietnam": "Hôm nay bạn dậy lúc mấy giờ?",
+   "ID": "tcf11"
+ },
+ {
+   "hanzi": "孩子九点就睡觉了",
+   "pinyin": "Háizi jiǔ diǎn jiù shuìjiào le.",
+   "vietnam": "Đứa trẻ 9 giờ đã đi ngủ rồi.",
+   "ID": "tcf12"
+ },
+ {
+   "hanzi": "客厅里有一张沙发",
+   "pinyin": "Kètīng lǐ yǒu yì zhāng shāfā.",
+   "vietnam": "Trong phòng khách có một cái ghế sofa.",
+   "ID": "tcf13"
+ },
+ {
+   "hanzi": "我的卧室很安静",
+   "pinyin": "Wǒ de wòshì hěn ānjìng.",
+   "vietnam": "Phòng ngủ của tôi rất yên tĩnh.",
+   "ID": "tcf14"
+ },
+ {
+   "hanzi": "妈妈正在厨房做饭",
+   "pinyin": "Māma zhèngzài chúfáng zuòfàn.",
+   "vietnam": "Mẹ đang nấu cơm trong bếp.",
+   "ID": "tcf15"
+ },
+ {
+   "hanzi": "请问厕所在哪儿",
+   "pinyin": "Qǐngwèn cèsuǒ zài nǎr?",
+   "vietnam": "Xin hỏi nhà vệ sinh ở đâu?",
+   "ID": "tcf16"
+ },
+ {
+   "hanzi": "我住在五楼",
+   "pinyin": "Wǒ zhù zài wǔ lóu.",
+   "vietnam": "Tôi ở tầng 5.",
+   "ID": "tcf17"
+ },
+ {
+   "hanzi": "楼上有人唱歌",
+   "pinyin": "Lóushàng yǒurén chànggē.",
+   "vietnam": "Tầng trên có người đang hát.",
+   "ID": "tcf18"
+ },
+ {
+   "hanzi": "我在楼下等你",
+   "pinyin": "Wǒ zài lóuxià děng nǐ.",
+   "vietnam": "Tôi đợi bạn ở tầng dưới.",
+   "ID": "tcf19"
+ },
+ {
+   "hanzi": "我们坐电梯上去吧",
+   "pinyin": "Wǒmen zuò diàntī shàngqù ba.",
+   "vietnam": "Chúng ta đi thang máy lên nhé.",
+   "ID": "tcf20"
+ },
+ {
+   "hanzi": "我想请三天假",
+   "pinyin": "Wǒ xiǎng qǐng sān tiān jià.",
+   "vietnam": "Tôi muốn xin nghỉ ba ngày.",
+   "ID": "tcg1"
+ },
+ {
+   "hanzi": "你假期打算去哪儿",
+   "pinyin": "Nǐ jiàqī dǎsuàn qù nǎr?",
+   "vietnam": "Kỳ nghỉ bạn định đi đâu?",
+   "ID": "tcg2"
+ },
+ {
+   "hanzi": "学校下个星期放假",
+   "pinyin": "Xuéxiào xià gè xīngqī fàngjià.",
+   "vietnam": "Tuần sau trường sẽ nghỉ.",
+   "ID": "tcg3"
+ },
+ {
+   "hanzi": "今天我请客请大家吃饭",
+   "pinyin": "Jīntiān wǒ qǐngkè, qǐng dàjiā chīfàn.",
+   "vietnam": "Hôm nay tôi mời, mời mọi người ăn cơm.",
+   "ID": "tcg4"
+ },
+ {
+   "hanzi": "他邀请我去参加他的生日会",
+   "pinyin": "Tā yāoqǐng wǒ qù cānjiā tā de shēngrì huì.",
+   "vietnam": "Anh ấy mời tôi đi dự tiệc sinh nhật.",
+   "ID": "tcg5"
+ },
+ {
+   "hanzi": "你打算参加运动会吗",
+   "pinyin": "Nǐ dǎsuàn cānjiā yùndònghuì ma?",
+   "vietnam": "Bạn định tham gia đại hội thể thao không?",
+   "ID": "tcg6"
+ },
+ {
+   "hanzi": "周末我们班有个聚会",
+   "pinyin": "Zhōumò wǒmen bān yǒu gè jùhuì.",
+   "vietnam": "Cuối tuần lớp chúng tôi có buổi tụ tập.",
+   "ID": "tcg7"
+ },
+ {
+   "hanzi": "他们在庆祝新年的到来",
+   "pinyin": "Tāmen zài qìngzhù xīnnián de dàolái.",
+   "vietnam": "Họ đang chúc mừng năm mới đến.",
+   "ID": "tcg8"
+ },
+ {
+   "hanzi": "这个节日大家都会放假",
+   "pinyin": "Zhège jiérì dàjiā dōu huì fàngjià.",
+   "vietnam": "Dịp lễ này mọi người đều được nghỉ.",
+   "ID": "tcg9"
+ },
+ {
+   "hanzi": "中国人喜欢和家人一起过节",
+   "pinyin": "Zhōngguó rén xǐhuān hé jiārén yìqǐ guòjié.",
+   "vietnam": "Người Trung Quốc thích cùng gia đình đón lễ.",
+   "ID": "tcg10"
+ },
+ {
+   "hanzi": "春节的时候街上很热闹",
+   "pinyin": "Chūnjié de shíhou jiē shàng hěn rènào.",
+   "vietnam": "Vào Tết Nguyên Đán, trên phố rất náo nhiệt.",
+   "ID": "tcg11"
+ },
+ {
+   "hanzi": "祝你生日快乐",
+   "pinyin": "Zhù nǐ shēngrì kuàilè!",
+   "vietnam": "Chúc bạn sinh nhật vui vẻ!",
+   "ID": "tcg12"
+ },
+ {
+   "hanzi": "见到老朋友我很高兴",
+   "pinyin": "Jiàndào lǎo péngyǒu wǒ hěn gāoxìng.",
+   "vietnam": "Gặp bạn cũ tôi rất vui.",
+   "ID": "tcg13"
+ },
+ {
+   "hanzi": "他送给我一件生日礼物",
+   "pinyin": "Tā sòng gěi wǒ yí jiàn shēngrì lǐwù.",
+   "vietnam": "Anh ấy tặng tôi một món quà sinh nhật.",
+   "ID": "tcg14"
+ },
+ {
+   "hanzi": "这个蛋糕又大又好吃",
+   "pinyin": "Zhège dàngāo yòu dà yòu hǎochī.",
+   "vietnam": "Cái bánh ngọt này vừa to vừa ngon.",
+   "ID": "tcg15"
+ },
+ {
+   "hanzi": "过年的时候孩子们都能收到红包",
+   "pinyin": "Guònián de shíhou háizimen dōu néng shōudào hóngbāo.",
+   "vietnam": "Vào dịp năm mới, trẻ em đều nhận được bao lì xì.",
+   "ID": "tcg16"
+ },
+ {
+   "hanzi": "学校举行了一场音乐会",
+   "pinyin": "Xuéxiào jǔxíng le yì chǎng yīnyuèhuì.",
+   "vietnam": "Trường đã tổ chức một buổi hoà nhạc.",
+   "ID": "tcg17"
+ },
+ {
+   "hanzi": "他送花是为了表示感谢",
+   "pinyin": "Tā sòng huā shì wèile biǎoshì gǎnxiè.",
+   "vietnam": "Anh ấy tặng hoa để bày tỏ lòng cảm ơn.",
+   "ID": "tcg18"
+ },
+ {
+   "hanzi": "非常感谢你的帮助",
+   "pinyin": "Fēicháng gǎnxiè nǐ de bāngzhù.",
+   "vietnam": "Rất cảm ơn sự giúp đỡ của bạn.",
+   "ID": "tcg19"
+ },
+ {
+   "hanzi": "我祝贺你取得好成绩",
+   "pinyin": "Wǒ zhùhè nǐ qǔdé hǎo chéngjì.",
+   "vietnam": "Tôi chúc mừng bạn đã đạt được thành tích tốt.",
+   "ID": "tcg20"
+ },
+ {
+   "hanzi": "我家附近有一家大商店",
+   "pinyin": "Wǒ jiā fùjìn yǒu yì jiā dà shāngdiàn.",
+   "vietnam": "Gần nhà tôi có một cửa hàng lớn.",
+   "ID": "tch1"
+ },
+ {
+   "hanzi": "那个售货员很热情",
+   "pinyin": "Nàge shòuhuòyuán hěn rèqíng.",
+   "vietnam": "Nhân viên bán hàng đó rất nhiệt tình.",
+   "ID": "tch2"
+ },
+ {
+   "hanzi": "商店里有很多顾客",
+   "pinyin": "Shāngdiàn lǐ yǒu hěn duō gùkè.",
+   "vietnam": "Trong cửa hàng có nhiều khách hàng.",
+   "ID": "tch3"
+ },
+ {
+   "hanzi": "这条裤子有点儿长",
+   "pinyin": "Zhè tiáo kùzi yǒudiǎnr cháng.",
+   "vietnam": "Chiếc quần này hơi dài.",
+   "ID": "tch4"
+ },
+ {
+   "hanzi": "她穿了一条漂亮的裙子",
+   "pinyin": "Tā chuān le yì tiáo piàoliang de qúnzi.",
+   "vietnam": "Cô ấy mặc một chiếc váy đẹp.",
+   "ID": "tch5"
+ },
+ {
+   "hanzi": "这件衣服大小很合适",
+   "pinyin": "Zhè jiàn yīfu dàxiǎo hěn héshì.",
+   "vietnam": "Quần áo này kích cỡ rất vừa.",
+   "ID": "tch6"
+ },
+ {
+   "hanzi": "你喜欢什么颜色",
+   "pinyin": "Nǐ xǐhuān shénme yánsè?",
+   "vietnam": "Bạn thích màu gì?",
+   "ID": "tch7"
+ },
+ {
+   "hanzi": "红色的裙子非常漂亮",
+   "pinyin": "Hóngsè de qúnzi fēicháng piàoliang.",
+   "vietnam": "Váy màu đỏ rất đẹp.",
+   "ID": "tch8"
+ },
+ {
+   "hanzi": "我想买一件蓝色的衬衫",
+   "pinyin": "Wǒ xiǎng mǎi yí jiàn lánsè de chènshān.",
+   "vietnam": "Tôi muốn mua một cái áo sơ mi màu xanh lam.",
+   "ID": "tch9"
+ },
+ {
+   "hanzi": "黑色的鞋子比较好搭配",
+   "pinyin": "Hēisè de xiézi bǐjiào hǎo dāpèi.",
+   "vietnam": "Giày màu đen dễ phối đồ hơn.",
+   "ID": "tch10"
+ },
+ {
+   "hanzi": "这条白色的裤子太脏了",
+   "pinyin": "Zhè tiáo báisè de kùzi tài zāng le.",
+   "vietnam": "Chiếc quần màu trắng này quá bẩn rồi.",
+   "ID": "tch11"
+ },
+ {
+   "hanzi": "这件大衣的价钱是多少",
+   "pinyin": "Zhè jiàn dàyī de jiàqián shì duōshao?",
+   "vietnam": "Giá cái áo khoác này là bao nhiêu?",
+   "ID": "tch12"
+ },
+ {
+   "hanzi": "这双鞋很便宜",
+   "pinyin": "Zhè shuāng xié hěn piányi.",
+   "vietnam": "Đôi giày này rất rẻ.",
+   "ID": "tch13"
+ },
+ {
+   "hanzi": "这件衣服太贵了",
+   "pinyin": "Zhè jiàn yīfu tài guì le.",
+   "vietnam": "Quần áo này đắt quá.",
+   "ID": "tch14"
+ },
+ {
+   "hanzi": "这条裤子很合适我",
+   "pinyin": "Zhè tiáo kùzi hěn héshì wǒ.",
+   "vietnam": "Chiếc quần này rất hợp với tôi.",
+   "ID": "tch15"
+ },
+ {
+   "hanzi": "我可以试穿一下吗",
+   "pinyin": "Wǒ kěyǐ shì chuān yíxià ma?",
+   "vietnam": "Tôi có thể thử mặc một chút không?",
+   "ID": "tch16"
+ },
+ {
+   "hanzi": "这家商店正在打折",
+   "pinyin": "Zhè jiā shāngdiàn zhèngzài dǎzhé.",
+   "vietnam": "Cửa hàng này đang giảm giá.",
+   "ID": "tch17"
+ },
+ {
+   "hanzi": "买东西以后要马上付款",
+   "pinyin": "Mǎi dōngxi yǐhòu yào mǎshàng fùkuǎn.",
+   "vietnam": "Sau khi mua đồ phải thanh toán ngay.",
+   "ID": "tch18"
+ },
+ {
+   "hanzi": "你可以刷卡吗",
+   "pinyin": "Nǐ kěyǐ shuākǎ ma?",
+   "vietnam": "Bạn có thể quẹt thẻ không?",
+   "ID": "tch19"
+ },
+ {
+   "hanzi": "我只带了现金没有信用卡",
+   "pinyin": "Wǒ zhǐ dài le xiànjīn, méiyǒu xìnyòngkǎ.",
+   "vietnam": "Tôi chỉ mang tiền mặt, không có thẻ tín dụng.",
+   "ID": "tch20"
+ },
+ {
+   "hanzi": "他每天早上都锻炼身体",
+   "pinyin": "Tā měitiān zǎoshang dōu duànliàn shēntǐ.",
+   "vietnam": "Mỗi sáng anh ấy đều rèn luyện thân thể.",
+   "ID": "tci1"
+ },
+ {
+   "hanzi": "身体健康比什么都重要",
+   "pinyin": "Shēntǐ jiànkāng bǐ shénme dōu zhòngyào.",
+   "vietnam": "Sức khỏe quan trọng hơn bất cứ điều gì.",
+   "ID": "tci2"
+ },
+ {
+   "hanzi": "多吃水果对健康有好处",
+   "pinyin": "Duō chī shuǐguǒ duì jiànkāng yǒu hǎochù.",
+   "vietnam": "Ăn nhiều trái cây có lợi cho sức khỏe.",
+   "ID": "tci3"
+ },
+ {
+   "hanzi": "我最喜欢的运动是足球",
+   "pinyin": "Wǒ zuì xǐhuān de yùndòng shì zúqiú.",
+   "vietnam": "Môn thể thao tôi thích nhất là bóng đá.",
+   "ID": "tci4"
+ },
+ {
+   "hanzi": "他们正在踢足球",
+   "pinyin": "Tāmen zhèngzài tī zúqiú.",
+   "vietnam": "Họ đang chơi bóng đá.",
+   "ID": "tci5"
+ },
+ {
+   "hanzi": "他打篮球打得很好",
+   "pinyin": "Tā dǎ lánqiú dǎ de hěn hǎo.",
+   "vietnam": "Anh ấy chơi bóng rổ rất giỏi.",
+   "ID": "tci6"
+ },
+ {
+   "hanzi": "公园里有很多人在跑步",
+   "pinyin": "Gōngyuán lǐ yǒu hěn duō rén zài pǎobù.",
+   "vietnam": "Trong công viên có nhiều người đang chạy bộ.",
+   "ID": "tci7"
+ },
+ {
+   "hanzi": "夏天我们常常去游泳",
+   "pinyin": "Xiàtiān wǒmen chángcháng qù yóuyǒng.",
+   "vietnam": "Mùa hè chúng tôi thường đi bơi.",
+   "ID": "tci8"
+ },
+ {
+   "hanzi": "老人们喜欢在公园里打太极拳",
+   "pinyin": "Lǎorénmen xǐhuān zài gōngyuán lǐ dǎ tàijíquán.",
+   "vietnam": "Người già thích tập Thái Cực Quyền ở công viên.",
+   "ID": "tci9"
+ },
+ {
+   "hanzi": "饭后散步对身体很好",
+   "pinyin": "Fàn hòu sànbù duì shēntǐ hěn hǎo.",
+   "vietnam": "Đi bộ sau bữa ăn rất tốt cho sức khỏe.",
+   "ID": "tci10"
+ },
+ {
+   "hanzi": "明天有一场篮球比赛",
+   "pinyin": "Míngtiān yǒu yì chǎng lánqiú bǐsài.",
+   "vietnam": "Ngày mai có một trận đấu bóng rổ.",
+   "ID": "tci11"
+ },
+ {
+   "hanzi": "我们的球队赢了比赛",
+   "pinyin": "Wǒmen de qiúduì yíng le bǐsài.",
+   "vietnam": "Đội bóng của chúng tôi đã thắng trận.",
+   "ID": "tci12"
+ },
+ {
+   "hanzi": "他不喜欢输给别人",
+   "pinyin": "Tā bù xǐhuān shū gěi biérén.",
+   "vietnam": "Anh ấy không thích thua người khác.",
+   "ID": "tci13"
+ },
+ {
+   "hanzi": "他们是一个篮球队的队员",
+   "pinyin": "Tāmen shì yí gè lánqiú duì de duìyuán.",
+   "vietnam": "Họ là thành viên của một đội bóng rổ.",
+   "ID": "tci14"
+ },
+ {
+   "hanzi": "队长正在给大家安排位置",
+   "pinyin": "Duìzhǎng zhèngzài gěi dàjiā ānpái wèizhì.",
+   "vietnam": "Đội trưởng đang sắp xếp vị trí cho mọi người.",
+   "ID": "tci15"
+ },
+ {
+   "hanzi": "教练要求我们每天训练",
+   "pinyin": "Jiàoliàn yāoqiú wǒmen měitiān xùnliàn.",
+   "vietnam": "Huấn luyện viên yêu cầu chúng tôi tập luyện mỗi ngày.",
+   "ID": "tci16"
+ },
+ {
+   "hanzi": "他参加了学校的运动会",
+   "pinyin": "Tā cānjiā le xuéxiào de yùndònghuì.",
+   "vietnam": "Anh ấy đã tham gia đại hội thể thao của trường.",
+   "ID": "tci17"
+ },
+ {
+   "hanzi": "这次比赛由学校举办",
+   "pinyin": "Zhè cì bǐsài yóu xuéxiào jǔbàn.",
+   "vietnam": "Trận đấu lần này do trường tổ chức.",
+   "ID": "tci18"
+ },
+ {
+   "hanzi": "运动会的气氛非常热闹",
+   "pinyin": "Yùndònghuì de qìfēn fēicháng rènao.",
+   "vietnam": "Không khí của đại hội thể thao rất náo nhiệt.",
+   "ID": "tci19"
+ },
+ {
+   "hanzi": "比赛的时候大家都在喊加油",
+   "pinyin": "Bǐsài de shíhou dàjiā dōu zài hǎn “Jiāyóu!”",
+   "vietnam": "Khi thi đấu, mọi người đều hô “Cố lên!”.",
+   "ID": "tci20"
+ },
+ {
+   "hanzi": "我周末打算去看一部新电影",
+   "pinyin": "Wǒ zhōumò dǎsuàn qù kàn yí bù xīn diànyǐng.",
+   "vietnam": "Cuối tuần tôi định đi xem một bộ phim mới.",
+   "ID": "tcj1"
+ },
+ {
+   "hanzi": "她喜欢在家看电视",
+   "pinyin": "Tā xǐhuān zài jiā kàn diànshì.",
+   "vietnam": "Cô ấy thích xem tivi ở nhà.",
+   "ID": "tcj2"
+ },
+ {
+   "hanzi": "这个节目非常有意思",
+   "pinyin": "Zhège jiémù fēicháng yǒuyìsi.",
+   "vietnam": "Chương trình này rất thú vị.",
+   "ID": "tcj3"
+ },
+ {
+   "hanzi": "记者正在采访那位演员",
+   "pinyin": "Jìzhě zhèngzài cǎifǎng nà wèi yǎnyuán.",
+   "vietnam": "Phóng viên đang phỏng vấn diễn viên kia.",
+   "ID": "tcj4"
+ },
+ {
+   "hanzi": "他是一个有名的电影演员",
+   "pinyin": "Tā shì yí gè yǒumíng de diànyǐng yǎnyuán.",
+   "vietnam": "Anh ấy là một diễn viên điện ảnh nổi tiếng.",
+   "ID": "tcj5"
+ },
+ {
+   "hanzi": "孩子们在舞台上表演舞蹈",
+   "pinyin": "Háizimen zài wǔtái shàng biǎoyǎn wǔdǎo.",
+   "vietnam": "Các em nhỏ đang biểu diễn múa trên sân khấu.",
+   "ID": "tcj6"
+ },
+ {
+   "hanzi": "舞台上的灯光特别漂亮",
+   "pinyin": "Wǔtái shàng de dēngguāng tèbié piàoliang.",
+   "vietnam": "Ánh đèn trên sân khấu đặc biệt đẹp.",
+   "ID": "tcj7"
+ },
+ {
+   "hanzi": "听音乐可以让人放松",
+   "pinyin": "Tīng yīnyuè kěyǐ ràng rén fàngsōng.",
+   "vietnam": "Nghe nhạc có thể giúp con người thư giãn.",
+   "ID": "tcj8"
+ },
+ {
+   "hanzi": "这首歌曲很受年轻人欢迎",
+   "pinyin": "Zhè shǒu gēqǔ hěn shòu niánqīngrén huānyíng.",
+   "vietnam": "Bài hát này rất được giới trẻ hoan nghênh.",
+   "ID": "tcj9"
+ },
+ {
+   "hanzi": "她是一位非常有名的歌手",
+   "pinyin": "Tā shì yí wèi fēicháng yǒumíng de gēshǒu.",
+   "vietnam": "Cô ấy là một ca sĩ rất nổi tiếng.",
+   "ID": "tcj10"
+ },
+ {
+   "hanzi": "表演者得到了观众的掌声",
+   "pinyin": "Biǎoyǎnzhě dédào le guānzhòng de zhǎngshēng.",
+   "vietnam": "Người biểu diễn đã nhận được tràng pháo tay của khán giả.",
+   "ID": "tcj11"
+ },
+ {
+   "hanzi": "观众们看得很高兴",
+   "pinyin": "Guānzhòngmen kàn de hěn gāoxìng.",
+   "vietnam": "Khán giả xem rất vui.",
+   "ID": "tcj12"
+ },
+ {
+   "hanzi": "春节是中国最重要的节日",
+   "pinyin": "Chūnjié shì Zhōngguó zuì zhòngyào de jiérì.",
+   "vietnam": "Tết Xuân là ngày lễ quan trọng nhất ở Trung Quốc.",
+   "ID": "tcj13"
+ },
+ {
+   "hanzi": "学校要举办一个春节晚会",
+   "pinyin": "Xuéxiào yào jǔbàn yí gè Chūnjié wǎnhuì.",
+   "vietnam": "Trường sẽ tổ chức một buổi dạ hội Tết.",
+   "ID": "tcj14"
+ },
+ {
+   "hanzi": "她跳舞跳得很漂亮",
+   "pinyin": "Tā tiàowǔ tiào de hěn piàoliang.",
+   "vietnam": "Cô ấy nhảy múa rất đẹp.",
+   "ID": "tcj15"
+ },
+ {
+   "hanzi": "他会演奏多种乐器",
+   "pinyin": "Tā huì yǎnzòu duō zhǒng yuèqì.",
+   "vietnam": "Anh ấy biết chơi nhiều loại nhạc cụ.",
+   "ID": "tcj16"
+ },
+ {
+   "hanzi": "这次演出非常成功",
+   "pinyin": "Zhè cì yǎnchū fēicháng chénggōng.",
+   "vietnam": "Buổi biểu diễn lần này rất thành công.",
+   "ID": "tcj17"
+ },
+ {
+   "hanzi": "我们约好在电影院门口见面",
+   "pinyin": "Wǒmen yuēhǎo zài diànyǐngyuàn ménkǒu jiànmiàn.",
+   "vietnam": "Chúng tôi hẹn gặp nhau ở trước rạp chiếu phim.",
+   "ID": "tcj18"
+ },
+ {
+   "hanzi": "他正在学习中国戏剧",
+   "pinyin": "Tā zhèngzài xuéxí Zhōngguó xìjù.",
+   "vietnam": "Anh ấy đang học kịch Trung Quốc.",
+   "ID": "tcj19"
+ },
+ {
+   "hanzi": "他买了两张电影票",
+   "pinyin": "Tā mǎi le liǎng zhāng diànyǐng piào.",
+   "vietnam": "Anh ấy đã mua hai vé xem phim.",
+   "ID": "tcj20"
+ },
+ {
+   "hanzi": "汉语是一种很有趣的语言",
+   "pinyin": "Hànyǔ shì yì zhǒng hěn yǒuqù de yǔyán.",
+   "vietnam": "Tiếng Hán là một ngôn ngữ rất thú vị.",
+   "ID": "tck1"
+ },
+ {
+   "hanzi": "学习语言也要了解文化",
+   "pinyin": "Xuéxí yǔyán yě yào liǎojiě wénhuà.",
+   "vietnam": "Học ngôn ngữ cũng cần hiểu biết văn hoá.",
+   "ID": "tck2"
+ },
+ {
+   "hanzi": "中国有五千多年的历史",
+   "pinyin": "Zhōngguó yǒu wǔ qiān duō nián de lìshǐ.",
+   "vietnam": "Trung Quốc có hơn 5000 năm lịch sử.",
+   "ID": "tck3"
+ },
+ {
+   "hanzi": "他的汉语发音很标准",
+   "pinyin": "Tā de Hànyǔ fāyīn hěn biāozhǔn.",
+   "vietnam": "Phát âm tiếng Hán của anh ấy rất chuẩn.",
+   "ID": "tck4"
+ },
+ {
+   "hanzi": "汉语语法跟英语不一样",
+   "pinyin": "Hànyǔ yǔfǎ gēn Yīngyǔ bù yíyàng.",
+   "vietnam": "Ngữ pháp tiếng Hán không giống tiếng Anh.",
+   "ID": "tck5"
+ },
+ {
+   "hanzi": "我每天都要记十个新生词",
+   "pinyin": "Wǒ měitiān dōu yào jì shí gè xīn shēngcí.",
+   "vietnam": "Mỗi ngày tôi đều học thuộc 10 từ mới.",
+   "ID": "tck6"
+ },
+ {
+   "hanzi": "请大家先读一遍课文",
+   "pinyin": "Qǐng dàjiā xiān dú yí biàn kèwén.",
+   "vietnam": "Mời mọi người đọc bài khoá một lần.",
+   "ID": "tck7"
+ },
+ {
+   "hanzi": "多做练习可以提高口语",
+   "pinyin": "Duō zuò liànxí kěyǐ tígāo kǒuyǔ.",
+   "vietnam": "Làm nhiều bài tập có thể nâng cao khẩu ngữ.",
+   "ID": "tck8"
+ },
+ {
+   "hanzi": "我今天的功课还没做完",
+   "pinyin": "Wǒ jīntiān de gōngkè hái méi zuò wán.",
+   "vietnam": "Bài tập hôm nay của tôi vẫn chưa làm xong.",
+   "ID": "tck9"
+ },
+ {
+   "hanzi": "老师布置了很多作业",
+   "pinyin": "Lǎoshī bùzhì le hěn duō zuòyè.",
+   "vietnam": "Thầy giáo giao rất nhiều bài tập về nhà.",
+   "ID": "tck10"
+ },
+ {
+   "hanzi": "请你用这个词造一个句子",
+   "pinyin": "Qǐng nǐ yòng zhège cí zào yí gè jùzi.",
+   "vietnam": "Hãy đặt một câu với từ này.",
+   "ID": "tck11"
+ },
+ {
+   "hanzi": "他写了一篇关于教育的文章",
+   "pinyin": "Tā xiě le yì piān guānyú jiàoyù de wénzhāng.",
+   "vietnam": "Anh ấy viết một bài văn về giáo dục.",
+   "ID": "tck12"
+ },
+ {
+   "hanzi": "我们正在讨论学习方法",
+   "pinyin": "Wǒmen zhèngzài tǎolùn xuéxí fāngfǎ.",
+   "vietnam": "Chúng tôi đang thảo luận về phương pháp học tập.",
+   "ID": "tck13"
+ },
+ {
+   "hanzi": "课本里有很多生词",
+   "pinyin": "Kèběn lǐ yǒu hěn duō shēngcí.",
+   "vietnam": "Trong sách giáo khoa có rất nhiều từ mới.",
+   "ID": "tck14"
+ },
+ {
+   "hanzi": "我用电子词典查新词",
+   "pinyin": "Wǒ yòng diànzǐ cídiǎn chá xīn cí.",
+   "vietnam": "Tôi dùng từ điển điện tử tra từ mới.",
+   "ID": "tck15"
+ },
+ {
+   "hanzi": "请把这句话翻译成汉语",
+   "pinyin": "Qǐng bǎ zhè jù huà fānyì chéng Hànyǔ.",
+   "vietnam": "Xin hãy dịch câu này sang tiếng Hán.",
+   "ID": "tck16"
+ },
+ {
+   "hanzi": "我的练习本用完了",
+   "pinyin": "Wǒ de liànxíběn yòng wán le.",
+   "vietnam": "Quyển vở bài tập của tôi đã dùng hết.",
+   "ID": "tck17"
+ },
+ {
+   "hanzi": "他的汉语水平越来越高",
+   "pinyin": "Tā de Hànyǔ shuǐpíng yuèláiyuè gāo.",
+   "vietnam": "Trình độ tiếng Hán của anh ấy ngày càng cao.",
+   "ID": "tck18"
+ },
+ {
+   "hanzi": "学好汉语要下功夫",
+   "pinyin": "Xué hǎo Hànyǔ yào xià gōngfu.",
+   "vietnam": "Học giỏi tiếng Hán cần phải bỏ công sức.",
+   "ID": "tck19"
+ },
+ {
+   "hanzi": "下个星期我们要考试",
+   "pinyin": "Xià gè xīngqī wǒmen yào kǎoshì.",
+   "vietnam": "Tuần sau chúng tôi sẽ thi.",
+   "ID": "tck20"
+ },
+ {
+   "hanzi": "学校附近有一家大商店",
+   "pinyin": "Xuéxiào fùjìn yǒu yì jiā dà shāngdiàn.",
+   "vietnam": "Gần trường có một cửa hàng lớn.",
+   "ID": "tcl1"
+ },
+ {
+   "hanzi": "我经常去超市买东西",
+   "pinyin": "Wǒ jīngcháng qù chāoshì mǎi dōngxi.",
+   "vietnam": "Tôi thường đi siêu thị mua đồ.",
+   "ID": "tcl2"
+ },
+ {
+   "hanzi": "早上市场里很热闹",
+   "pinyin": "Zǎoshang shìchǎng lǐ hěn rènào.",
+   "vietnam": "Buổi sáng trong chợ rất nhộn nhịp.",
+   "ID": "tcl3"
+ },
+ {
+   "hanzi": "售货员很热情地招待顾客",
+   "pinyin": "Shòuhuòyuán hěn rèqíng de zhāodài gùkè.",
+   "vietnam": "Người bán hàng tiếp đãi khách rất nhiệt tình.",
+   "ID": "tcl4"
+ },
+ {
+   "hanzi": "顾客正在挑选衣服",
+   "pinyin": "Gùkè zhèngzài tiāoxuǎn yīfu.",
+   "vietnam": "Khách hàng đang chọn quần áo.",
+   "ID": "tcl5"
+ },
+ {
+   "hanzi": "这家店正在打折",
+   "pinyin": "Zhè jiā diàn zhèngzài dǎzhé.",
+   "vietnam": "Cửa hàng này đang giảm giá.",
+   "ID": "tcl6"
+ },
+ {
+   "hanzi": "这件衣服很便宜",
+   "pinyin": "Zhè jiàn yīfu hěn piányi.",
+   "vietnam": "Bộ quần áo này rất rẻ.",
+   "ID": "tcl7"
+ },
+ {
+   "hanzi": "那双鞋太贵了",
+   "pinyin": "Nà shuāng xié tài guì le.",
+   "vietnam": "Đôi giày đó đắt quá.",
+   "ID": "tcl8"
+ },
+ {
+   "hanzi": "这件衣服质量很好",
+   "pinyin": "Zhè jiàn yīfu zhìliàng hěn hǎo.",
+   "vietnam": "Bộ quần áo này chất lượng rất tốt.",
+   "ID": "tcl9"
+ },
+ {
+   "hanzi": "这件裙子的样子不错",
+   "pinyin": "Zhè jiàn qúnzi de yàngzi búcuò.",
+   "vietnam": "Kiểu dáng chiếc váy này không tệ.",
+   "ID": "tcl10"
+ },
+ {
+   "hanzi": "你喜欢什么颜色",
+   "pinyin": "Nǐ xǐhuan shénme yánsè?",
+   "vietnam": "Bạn thích màu gì?",
+   "ID": "tcl11"
+ },
+ {
+   "hanzi": "这件衬衫没有我的尺码",
+   "pinyin": "Zhè jiàn chènshān méiyǒu wǒ de chǐmǎ.",
+   "vietnam": "Chiếc áo sơ mi này không có size của tôi.",
+   "ID": "tcl12"
+ },
+ {
+   "hanzi": "你可以试一试这条裤子",
+   "pinyin": "Nǐ kěyǐ shì yí shì zhè tiáo kùzi.",
+   "vietnam": "Bạn có thể thử chiếc quần này.",
+   "ID": "tcl13"
+ },
+ {
+   "hanzi": "这双鞋大小很合适",
+   "pinyin": "Zhè shuāng xié dàxiǎo hěn héshì.",
+   "vietnam": "Đôi giày này vừa vặn.",
+   "ID": "tcl14"
+ },
+ {
+   "hanzi": "他喜欢在市场里还价",
+   "pinyin": "Tā xǐhuan zài shìchǎng lǐ huánjià.",
+   "vietnam": "Anh ấy thích mặc cả ở chợ.",
+   "ID": "tcl15"
+ },
+ {
+   "hanzi": "请到收银台付钱",
+   "pinyin": "Qǐng dào shōuyíntái fù qián.",
+   "vietnam": "Xin mời đến quầy thu ngân thanh toán.",
+   "ID": "tcl16"
+ },
+ {
+   "hanzi": "我用现金付账",
+   "pinyin": "Wǒ yòng xiànjīn fùzhàng.",
+   "vietnam": "Tôi trả tiền mặt.",
+   "ID": "tcl17"
+ },
+ {
+   "hanzi": "我可以刷卡吗",
+   "pinyin": "Wǒ kěyǐ shuākǎ ma?",
+   "vietnam": "Tôi có thể quẹt thẻ không?",
+   "ID": "tcl18"
+ },
+ {
+   "hanzi": "我周末喜欢跟朋友一起购物",
+   "pinyin": "Wǒ zhōumò xǐhuan gēn péngyǒu yìqǐ gòuwù.",
+   "vietnam": "Cuối tuần tôi thích đi mua sắm cùng bạn bè.",
+   "ID": "tcl19"
+ },
+ {
+   "hanzi": "这台电脑的价格很合理",
+   "pinyin": "Zhè tái diànnǎo de jiàgé hěn hélǐ.",
+   "vietnam": "Giá chiếc máy tính này rất hợp lý.",
+   "ID": "tcl20"
+ },
+ {
+   "hanzi": "他昨天去医院看病了",
+   "pinyin": "Tā zuótiān qù yīyuàn kànbìng le.",
+   "vietnam": "Hôm qua anh ấy đi bệnh viện khám bệnh.",
+   "ID": "tcm1"
+ },
+ {
+   "hanzi": "我下周要去医院看病",
+   "pinyin": "Wǒ xià zhōu yào qù yīyuàn kànbìng.",
+   "vietnam": "Tuần sau tôi phải đi bệnh viện khám.",
+   "ID": "tcm2"
+ },
+ {
+   "hanzi": "最近天气冷很多人感冒了",
+   "pinyin": "Zuìjìn tiānqì lěng, hěn duō rén gǎnmào le.",
+   "vietnam": "Gần đây trời lạnh, nhiều người bị cảm.",
+   "ID": "tcm3"
+ },
+ {
+   "hanzi": "小孩子半夜发烧了",
+   "pinyin": "Xiǎoháizi bànyè fāshāo le.",
+   "vietnam": "Đứa trẻ nửa đêm bị sốt.",
+   "ID": "tcm4"
+ },
+ {
+   "hanzi": "他一直咳嗽不停下来",
+   "pinyin": "Tā yìzhí késou, bù tíng xiàlai.",
+   "vietnam": "Anh ấy ho suốt, không ngừng lại.",
+   "ID": "tcm5"
+ },
+ {
+   "hanzi": "我头很疼不想学习",
+   "pinyin": "Wǒ tóu hěn téng, bù xiǎng xuéxí.",
+   "vietnam": "Tôi đau đầu quá, không muốn học.",
+   "ID": "tcm6"
+ },
+ {
+   "hanzi": "医生给我开了几种药",
+   "pinyin": "Yīshēng gěi wǒ kāile jǐ zhǒng yào.",
+   "vietnam": "Bác sĩ kê cho tôi vài loại thuốc.",
+   "ID": "tcm7"
+ },
+ {
+   "hanzi": "孩子害怕打针",
+   "pinyin": "Háizi hàipà dǎzhēn.",
+   "vietnam": "Đứa trẻ sợ tiêm.",
+   "ID": "tcm8"
+ },
+ {
+   "hanzi": "医生要先给你检查身体",
+   "pinyin": "Yīshēng yào xiān gěi nǐ jiǎnchá shēntǐ.",
+   "vietnam": "Bác sĩ phải kiểm tra sức khỏe cho bạn trước.",
+   "ID": "tcm9"
+ },
+ {
+   "hanzi": "医生开了一些感冒药",
+   "pinyin": "Yīshēng kāile yìxiē gǎnmào yào.",
+   "vietnam": "Bác sĩ kê một ít thuốc cảm.",
+   "ID": "tcm10"
+ },
+ {
+   "hanzi": "医院旁边有一家药房",
+   "pinyin": "Yīyuàn pángbiān yǒu yì jiā yàofáng.",
+   "vietnam": "Bên cạnh bệnh viện có một hiệu thuốc.",
+   "ID": "tcm11"
+ },
+ {
+   "hanzi": "你先去挂号再看病",
+   "pinyin": "Nǐ xiān qù guàhào zài kànbìng.",
+   "vietnam": "Bạn phải đăng ký trước rồi mới khám bệnh.",
+   "ID": "tcm12"
+ },
+ {
+   "hanzi": "护士对病人很耐心",
+   "pinyin": "Hùshi duì bìngrén hěn nàixīn.",
+   "vietnam": "Y tá rất kiên nhẫn với bệnh nhân.",
+   "ID": "tcm13"
+ },
+ {
+   "hanzi": "病人需要多休息",
+   "pinyin": "Bìngrén xūyào duō xiūxi.",
+   "vietnam": "Bệnh nhân cần nghỉ ngơi nhiều.",
+   "ID": "tcm14"
+ },
+ {
+   "hanzi": "你最好在家休息两天",
+   "pinyin": "Nǐ zuì hǎo zài jiā xiūxi liǎng tiān.",
+   "vietnam": "Bạn nên nghỉ ngơi ở nhà hai ngày.",
+   "ID": "tcm15"
+ },
+ {
+   "hanzi": "身体健康比什么都重要",
+   "pinyin": "Shēntǐ jiànkāng bǐ shénme dōu zhòngyào.",
+   "vietnam": "Sức khỏe quan trọng hơn bất cứ thứ gì.",
+   "ID": "tcm16"
+ },
+ {
+   "hanzi": "我马上给医生打电话",
+   "pinyin": "Wǒ mǎshàng gěi yīshēng dǎ diànhuà.",
+   "vietnam": "Tôi lập tức gọi điện cho bác sĩ.",
+   "ID": "tcm17"
+ },
+ {
+   "hanzi": "医生让他去做血液化验",
+   "pinyin": "Yīshēng ràng tā qù zuò xuèyè huàyàn.",
+   "vietnam": "Bác sĩ bảo anh ấy đi xét nghiệm máu.",
+   "ID": "tcm18"
+ },
+ {
+   "hanzi": "他因为生病住院了",
+   "pinyin": "Tā yīnwèi shēngbìng zhùyuàn le.",
+   "vietnam": "Anh ấy nhập viện vì bị bệnh.",
+   "ID": "tcm19"
+ },
+ {
+   "hanzi": "她下周就可以出院了",
+   "pinyin": "Tā xià zhōu jiù kěyǐ chūyuàn le.",
+   "vietnam": "Tuần sau cô ấy có thể xuất viện.",
+   "ID": "tcm20"
+ },
+ {
+   "hanzi": "学校附近有一家大商店",
+   "pinyin": "Xuéxiào fùjìn yǒu yì jiā dà shāngdiàn.",
+   "vietnam": "Gần trường có một cửa hàng lớn.",
+   "ID": "tcn1"
+ },
+ {
+   "hanzi": "我们周末去商场买衣服吧",
+   "pinyin": "Wǒmen zhōumò qù shāngchǎng mǎi yīfu ba.",
+   "vietnam": "Cuối tuần chúng ta đi trung tâm thương mại mua quần áo nhé.",
+   "ID": "tcn2"
+ },
+ {
+   "hanzi": "超市里什么东西都有",
+   "pinyin": "Chāoshì lǐ shénme dōngxi dōu yǒu.",
+   "vietnam": "Trong siêu thị cái gì cũng có.",
+   "ID": "tcn3"
+ },
+ {
+   "hanzi": "这件衣服比那件便宜",
+   "pinyin": "Zhè jiàn yīfu bǐ nà jiàn piányi.",
+   "vietnam": "Bộ quần áo này rẻ hơn bộ kia.",
+   "ID": "tcn4"
+ },
+ {
+   "hanzi": "这家店的东西太贵了",
+   "pinyin": "Zhè jiā diàn de dōngxi tài guì le.",
+   "vietnam": "Đồ ở cửa hàng này đắt quá.",
+   "ID": "tcn5"
+ },
+ {
+   "hanzi": "这双鞋大小很合适",
+   "pinyin": "Zhè shuāng xié dàxiǎo hěn héshì.",
+   "vietnam": "Đôi giày này kích cỡ rất vừa.",
+   "ID": "tcn6"
+ },
+ {
+   "hanzi": "明天超市打折我们去看看吧",
+   "pinyin": "Míngtiān chāoshì dǎzhé, wǒmen qù kànkan ba.",
+   "vietnam": "Ngày mai siêu thị giảm giá, chúng ta đi xem đi.",
+   "ID": "tcn7"
+ },
+ {
+   "hanzi": "这件衣服的质量很好",
+   "pinyin": "Zhè jiàn yīfu de zhìliàng hěn hǎo.",
+   "vietnam": "Chất lượng bộ quần áo này rất tốt.",
+   "ID": "tcn8"
+ },
+ {
+   "hanzi": "你觉得这个价钱合适吗",
+   "pinyin": "Nǐ juéde zhège jiàqián héshì ma?",
+   "vietnam": "Bạn thấy giá này có hợp lý không?",
+   "ID": "tcn9"
+ },
+ {
+   "hanzi": "这件衣服的样子很漂亮",
+   "pinyin": "Zhè jiàn yīfu de yàngzi hěn piàoliang.",
+   "vietnam": "Kiểu dáng của bộ quần áo này rất đẹp.",
+   "ID": "tcn10"
+ },
+ {
+   "hanzi": "这条裤子的尺寸有点儿大",
+   "pinyin": "Zhè tiáo kùzi de chǐcùn yǒu diǎnr dà.",
+   "vietnam": "Kích cỡ cái quần này hơi to.",
+   "ID": "tcn11"
+ },
+ {
+   "hanzi": "你喜欢什么颜色的衣服",
+   "pinyin": "Nǐ xǐhuan shénme yánsè de yīfu?",
+   "vietnam": "Bạn thích quần áo màu gì?",
+   "ID": "tcn12"
+ },
+ {
+   "hanzi": "这双鞋大小正好",
+   "pinyin": "Zhè shuāng xié dàxiǎo zhènghǎo.",
+   "vietnam": "Đôi giày này vừa đúng cỡ.",
+   "ID": "tcn13"
+ },
+ {
+   "hanzi": "你可以试一试这件衬衫",
+   "pinyin": "Nǐ kěyǐ shì yí shì zhè jiàn chènshān.",
+   "vietnam": "Bạn có thể thử cái áo sơ mi này.",
+   "ID": "tcn14"
+ },
+ {
+   "hanzi": "请到收银台去付钱",
+   "pinyin": "Qǐng dào shōuyíntái qù fùqián.",
+   "vietnam": "Xin mời ra quầy thu ngân thanh toán.",
+   "ID": "tcn15"
+ },
+ {
+   "hanzi": "如果不合适可以退货吗",
+   "pinyin": "Rúguǒ bù héshì, kěyǐ tuìhuò ma?",
+   "vietnam": "Nếu không vừa, có thể trả hàng không?",
+   "ID": "tcn16"
+ },
+ {
+   "hanzi": "这条裙子太小了我想换一条",
+   "pinyin": "Zhè tiáo qúnzi tài xiǎo le, wǒ xiǎng huàn yì tiáo.",
+   "vietnam": "Cái váy này nhỏ quá, tôi muốn đổi cái khác.",
+   "ID": "tcn17"
+ },
+ {
+   "hanzi": "店员对顾客非常热情",
+   "pinyin": "Diànyuán duì gùkè fēicháng rèqíng.",
+   "vietnam": "Nhân viên cửa hàng rất nhiệt tình với khách hàng.",
+   "ID": "tcn18"
+ },
+ {
+   "hanzi": "店员帮我找到了合适的衣服",
+   "pinyin": "Diànyuán bāng wǒ zhǎodào le héshì de yīfu.",
+   "vietnam": "Nhân viên đã giúp tôi tìm được quần áo vừa.",
+   "ID": "tcn19"
+ },
+ {
+   "hanzi": "我周末喜欢跟朋友一起去购物",
+   "pinyin": "Wǒ zhōumò xǐhuan gēn péngyǒu yìqǐ qù gòuwù.",
+   "vietnam": "Cuối tuần tôi thích đi mua sắm cùng bạn bè.",
+   "ID": "tcn20"
+ },
+ {
+   "hanzi": "我打算寒假去云南旅行",
+   "pinyin": "Wǒ dǎsuàn hánjià qù Yúnnán lǚxíng.",
+   "vietnam": "Tôi định kỳ nghỉ đông đi du lịch Vân Nam.",
+   "ID": "tco1"
+ },
+ {
+   "hanzi": "北京是中国有名的旅游城市",
+   "pinyin": "Běijīng shì Zhōngguó yǒumíng de lǚyóu chéngshì.",
+   "vietnam": "Bắc Kinh là thành phố du lịch nổi tiếng của Trung Quốc.",
+   "ID": "tco2"
+ },
+ {
+   "hanzi": "导游正在给大家介绍长城",
+   "pinyin": "Dǎoyóu zhèngzài gěi dàjiā jièshào Chángchéng.",
+   "vietnam": "Hướng dẫn viên đang giới thiệu về Vạn Lý Trường Thành.",
+   "ID": "tco3"
+ },
+ {
+   "hanzi": "山上的景色非常美丽",
+   "pinyin": "Shān shàng de jǐngsè fēicháng měilì.",
+   "vietnam": "Phong cảnh trên núi rất đẹp.",
+   "ID": "tco4"
+ },
+ {
+   "hanzi": "这里的风景很有名",
+   "pinyin": "Zhèlǐ de fēngjǐng hěn yǒumíng.",
+   "vietnam": "Phong cảnh ở đây rất nổi tiếng.",
+   "ID": "tco5"
+ },
+ {
+   "hanzi": "他喜欢在旅游的时候照相",
+   "pinyin": "Tā xǐhuan zài lǚyóu de shíhou zhàoxiàng.",
+   "vietnam": "Anh ấy thích chụp ảnh khi đi du lịch.",
+   "ID": "tco6"
+ },
+ {
+   "hanzi": "请帮我们拍一张照片",
+   "pinyin": "Qǐng bāng wǒmen pāi yì zhāng zhàopiàn.",
+   "vietnam": "Xin hãy chụp giúp chúng tôi một tấm hình.",
+   "ID": "tco7"
+ },
+ {
+   "hanzi": "这张照片拍得真漂亮",
+   "pinyin": "Zhè zhāng zhàopiàn pāi de zhēn piàoliang.",
+   "vietnam": "Bức ảnh này chụp rất đẹp.",
+   "ID": "tco8"
+ },
+ {
+   "hanzi": "长江两岸的风光非常壮丽",
+   "pinyin": "Cháng Jiāng liǎng’àn de fēngguāng fēicháng zhuànglì.",
+   "vietnam": "Phong cảnh hai bờ sông Trường Giang rất hùng vĩ.",
+   "ID": "tco9"
+ },
+ {
+   "hanzi": "你打算假期去哪儿玩",
+   "pinyin": "Nǐ dǎsuàn jiàqī qù nǎr wán?",
+   "vietnam": "Bạn định đi chơi ở đâu vào kỳ nghỉ?",
+   "ID": "tco10"
+ },
+ {
+   "hanzi": "学校下个星期放假",
+   "pinyin": "Xuéxiào xià gè xīngqī fàngjià.",
+   "vietnam": "Tuần sau trường được nghỉ.",
+   "ID": "tco11"
+ },
+ {
+   "hanzi": "这个公园假日人很多",
+   "pinyin": "Zhège gōngyuán jiàrì rén hěn duō.",
+   "vietnam": "Công viên này vào ngày nghỉ thì rất đông người.",
+   "ID": "tco12"
+ },
+ {
+   "hanzi": "我们参观了博物馆",
+   "pinyin": "Wǒmen cānguān le bówùguǎn.",
+   "vietnam": "Chúng tôi đã tham quan viện bảo tàng.",
+   "ID": "tco13"
+ },
+ {
+   "hanzi": "动物园的门票很便宜",
+   "pinyin": "Dòngwùyuán de ménpiào hěn piányi.",
+   "vietnam": "Vé vào sở thú rất rẻ.",
+   "ID": "tco14"
+ },
+ {
+   "hanzi": "北京有很多有名的地方",
+   "pinyin": "Běijīng yǒu hěn duō yǒumíng de dìfang.",
+   "vietnam": "Ở Bắc Kinh có nhiều nơi nổi tiếng.",
+   "ID": "tco15"
+ },
+ {
+   "hanzi": "故宫是中国的名胜古迹",
+   "pinyin": "Gùgōng shì Zhōngguó de míngshèng gǔjì.",
+   "vietnam": "Cố Cung là một danh lam thắng cảnh của Trung Quốc.",
+   "ID": "tco16"
+ },
+ {
+   "hanzi": "夏天来这里的游客特别多",
+   "pinyin": "Xiàtiān lái zhèlǐ de yóukè tèbié duō.",
+   "vietnam": "Mùa hè khách du lịch đến đây đặc biệt nhiều.",
+   "ID": "tco17"
+ },
+ {
+   "hanzi": "我们通过旅行社订了机票",
+   "pinyin": "Wǒmen tōngguò lǚxíngshè dìng le jīpiào.",
+   "vietnam": "Chúng tôi đặt vé máy bay qua công ty du lịch.",
+   "ID": "tco18"
+ },
+ {
+   "hanzi": "我们明天早上八点出发",
+   "pinyin": "Wǒmen míngtiān zǎoshang bā diǎn chūfā.",
+   "vietnam": "Ngày mai 8 giờ sáng chúng tôi xuất phát.",
+   "ID": "tco19"
+ },
+ {
+   "hanzi": "火车晚上九点到达上海",
+   "pinyin": "Huǒchē wǎnshang jiǔ diǎn dàodá Shànghǎi.",
+   "vietnam": "Tàu hỏa đến Thượng Hải lúc 9 giờ tối.",
+   "ID": "tco20"
+ },
+ {
+   "hanzi": "我经常在图书馆学习",
+   "pinyin": "Wǒ jīngcháng zài túshūguǎn xuéxí.",
+   "vietnam": "Tôi thường học ở thư viện.",
+   "ID": "tcp1"
+ },
+ {
+   "hanzi": "他去图书馆借书了",
+   "pinyin": "Tā qù túshūguǎn jiè shū le.",
+   "vietnam": "Anh ấy đã đi mượn sách ở thư viện.",
+   "ID": "tcp2"
+ },
+ {
+   "hanzi": "明天必须还书",
+   "pinyin": "Míngtiān bìxū huán shū.",
+   "vietnam": "Ngày mai phải trả sách.",
+   "ID": "tcp3"
+ },
+ {
+   "hanzi": "我新办了一张图书馆借书卡",
+   "pinyin": "Wǒ xīn bàn le yì zhāng túshūguǎn jièshū kǎ.",
+   "vietnam": "Tôi mới làm một thẻ mượn sách ở thư viện.",
+   "ID": "tcp4"
+ },
+ {
+   "hanzi": "借书的时候要办手续",
+   "pinyin": "Jiè shū de shíhou yào bàn shǒuxù.",
+   "vietnam": "Khi mượn sách thì phải làm thủ tục.",
+   "ID": "tcp5"
+ },
+ {
+   "hanzi": "读者不可以在图书馆里大声说话",
+   "pinyin": "Dúzhě bù kěyǐ zài túshūguǎn lǐ dàshēng shuōhuà.",
+   "vietnam": "Bạn đọc không được nói to trong thư viện.",
+   "ID": "tcp6"
+ },
+ {
+   "hanzi": "他每天花两个小时阅读",
+   "pinyin": "Tā měitiān huā liǎng gè xiǎoshí yuèdú.",
+   "vietnam": "Mỗi ngày anh ấy dành hai giờ để đọc.",
+   "ID": "tcp7"
+ },
+ {
+   "hanzi": "上课要认真做笔记",
+   "pinyin": "Shàngkè yào rènzhēn zuò bǐjì.",
+   "vietnam": "Trong giờ học phải ghi chép cẩn thận.",
+   "ID": "tcp8"
+ },
+ {
+   "hanzi": "你记得还书的时间吗",
+   "pinyin": "Nǐ jìdé huán shū de shíjiān ma?",
+   "vietnam": "Bạn có nhớ thời gian trả sách không?",
+   "ID": "tcp9"
+ },
+ {
+   "hanzi": "我忘记带学生证了",
+   "pinyin": "Wǒ wàngjì dài xuéshēngzhèng le.",
+   "vietnam": "Tôi quên mang thẻ sinh viên rồi.",
+   "ID": "tcp10"
+ },
+ {
+   "hanzi": "这个星期五我们有汉语考试",
+   "pinyin": "Zhège xīngqīwǔ wǒmen yǒu Hànyǔ kǎoshì.",
+   "vietnam": "Thứ sáu tuần này chúng tôi có kỳ thi tiếng Trung.",
+   "ID": "tcp11"
+ },
+ {
+   "hanzi": "他考试成绩很好",
+   "pinyin": "Tā kǎoshì chéngjì hěn hǎo.",
+   "vietnam": "Thành tích thi của anh ấy rất tốt.",
+   "ID": "tcp12"
+ },
+ {
+   "hanzi": "我希望这次考试能及格",
+   "pinyin": "Wǒ xīwàng zhè cì kǎoshì néng jígé.",
+   "vietnam": "Tôi hy vọng kỳ thi lần này có thể đạt yêu cầu.",
+   "ID": "tcp13"
+ },
+ {
+   "hanzi": "上次他英语考试不及格",
+   "pinyin": "Shàng cì tā Yīngyǔ kǎoshì bù jígé.",
+   "vietnam": "Lần trước anh ấy thi tiếng Anh không đạt.",
+   "ID": "tcp14"
+ },
+ {
+   "hanzi": "他学习很努力",
+   "pinyin": "Tā xuéxí hěn nǔlì.",
+   "vietnam": "Anh ấy học tập rất chăm chỉ.",
+   "ID": "tcp15"
+ },
+ {
+   "hanzi": "她写作业非常认真",
+   "pinyin": "Tā xiě zuòyè fēicháng rènzhēn.",
+   "vietnam": "Cô ấy làm bài tập rất nghiêm túc.",
+   "ID": "tcp16"
+ },
+ {
+   "hanzi": "他的汉语水平提高了",
+   "pinyin": "Tā de Hànyǔ shuǐpíng tígāo le.",
+   "vietnam": "Trình độ tiếng Trung của anh ấy đã tiến bộ.",
+   "ID": "tcp17"
+ },
+ {
+   "hanzi": "我想提高口语水平",
+   "pinyin": "Wǒ xiǎng tígāo kǒuyǔ shuǐpíng.",
+   "vietnam": "Tôi muốn nâng cao trình độ khẩu ngữ.",
+   "ID": "tcp18"
+ },
+ {
+   "hanzi": "我每天晚上都预习新课",
+   "pinyin": "Wǒ měitiān wǎnshang dōu yùxí xīn kè.",
+   "vietnam": "Tôi ôn trước bài mới mỗi tối.",
+   "ID": "tcp19"
+ },
+ {
+   "hanzi": "下课以后我要复习今天的内容",
+   "pinyin": "Xiàkè yǐhòu wǒ yào fùxí jīntiān de nèiróng.",
+   "vietnam": "Sau giờ học tôi phải ôn lại nội dung hôm nay.",
+   "ID": "tcp20"
+ },
+ {
+   "hanzi": "他昨天生病了",
+   "pinyin": "Tā zuótiān shēngbìng le.",
+   "vietnam": "Hôm qua anh ấy bị ốm.",
+   "ID": "tcq1"
+ },
+ {
+   "hanzi": "我有点儿感冒",
+   "pinyin": "Wǒ yǒudiǎnr gǎnmào.",
+   "vietnam": "Tôi hơi bị cảm.",
+   "ID": "tcq2"
+ },
+ {
+   "hanzi": "妹妹发烧了",
+   "pinyin": "Mèimei fāshāo le.",
+   "vietnam": "Em gái bị sốt rồi.",
+   "ID": "tcq3"
+ },
+ {
+   "hanzi": "他咳嗽得很厉害",
+   "pinyin": "Tā késòu de hěn lìhai.",
+   "vietnam": "Anh ấy ho rất nặng.",
+   "ID": "tcq4"
+ },
+ {
+   "hanzi": "医生让我去打针",
+   "pinyin": "Yīshēng ràng wǒ qù dǎzhēn.",
+   "vietnam": "Bác sĩ bảo tôi đi tiêm.",
+   "ID": "tcq5"
+ },
+ {
+   "hanzi": "你吃药了吗",
+   "pinyin": "Nǐ chī yào le ma?",
+   "vietnam": "Bạn đã uống thuốc chưa?",
+   "ID": "tcq6"
+ },
+ {
+   "hanzi": "医生给我开了一些药",
+   "pinyin": "Yīshēng gěi wǒ kāi le yìxiē yào.",
+   "vietnam": "Bác sĩ kê cho tôi một ít thuốc.",
+   "ID": "tcq7"
+ },
+ {
+   "hanzi": "医生正在给他检查身体",
+   "pinyin": "Yīshēng zhèngzài gěi tā jiǎnchá shēntǐ.",
+   "vietnam": "Bác sĩ đang khám sức khỏe cho anh ấy.",
+   "ID": "tcq8"
+ },
+ {
+   "hanzi": "我要给医院打电话",
+   "pinyin": "Wǒ yào gěi yīyuàn dǎ diànhuà.",
+   "vietnam": "Tôi phải gọi điện thoại cho bệnh viện.",
+   "ID": "tcq9"
+ },
+ {
+   "hanzi": "他在医院工作",
+   "pinyin": "Tā zài yīyuàn gōngzuò.",
+   "vietnam": "Anh ấy làm việc ở bệnh viện.",
+   "ID": "tcq10"
+ },
+ {
+   "hanzi": "护士很耐心地照顾病人",
+   "pinyin": "Hùshi hěn nàixīn de zhàogù bìngrén.",
+   "vietnam": "Y tá chăm sóc bệnh nhân rất kiên nhẫn.",
+   "ID": "tcq11"
+ },
+ {
+   "hanzi": "病人需要休息",
+   "pinyin": "Bìngrén xūyào xiūxi.",
+   "vietnam": "Bệnh nhân cần nghỉ ngơi.",
+   "ID": "tcq12"
+ },
+ {
+   "hanzi": "他身体很健康",
+   "pinyin": "Tā shēntǐ hěn jiànkāng.",
+   "vietnam": "Anh ấy rất khỏe mạnh.",
+   "ID": "tcq13"
+ },
+ {
+   "hanzi": "要注意身体",
+   "pinyin": "Yào zhùyì shēntǐ.",
+   "vietnam": "Phải chú ý đến sức khỏe.",
+   "ID": "tcq14"
+ },
+ {
+   "hanzi": "你最好休息几天",
+   "pinyin": "Nǐ zuì hǎo xiūxi jǐ tiān.",
+   "vietnam": "Tốt nhất bạn nên nghỉ vài ngày.",
+   "ID": "tcq15"
+ },
+ {
+   "hanzi": "他昨天晚上没睡觉",
+   "pinyin": "Tā zuótiān wǎnshang méi shuìjiào.",
+   "vietnam": "Hôm qua buổi tối anh ấy không ngủ.",
+   "ID": "tcq16"
+ },
+ {
+   "hanzi": "我头很疼",
+   "pinyin": "Wǒ tóu hěn téng.",
+   "vietnam": "Tôi đau đầu lắm.",
+   "ID": "tcq17"
+ },
+ {
+   "hanzi": "牙痛得厉害",
+   "pinyin": "Yá tòng de lìhai.",
+   "vietnam": "Răng đau dữ dội.",
+   "ID": "tcq18"
+ },
+ {
+   "hanzi": "他的嗓子发炎了",
+   "pinyin": "Tā de sǎngzi fāyán le.",
+   "vietnam": "Cổ họng anh ấy bị viêm.",
+   "ID": "tcq19"
+ },
+ {
+   "hanzi": "医生给了我一些建议",
+   "pinyin": "Yīshēng gěi le wǒ yìxiē jiànyì.",
+   "vietnam": "Bác sĩ đã cho tôi vài lời khuyên.",
+   "ID": "tcq20"
+ },
+ {
+   "hanzi": "我每天坐公共汽车去上班",
+   "pinyin": "Wǒ měitiān zuò gōnggòng qìchē qù shàngbān.",
+   "vietnam": "Hàng ngày tôi đi làm bằng xe buýt.",
+   "ID": "tcr1"
+ },
+ {
+   "hanzi": "北京的地铁很方便",
+   "pinyin": "Běijīng de dìtiě hěn fāngbiàn.",
+   "vietnam": "Tàu điện ngầm ở Bắc Kinh rất tiện lợi.",
+   "ID": "tcr2"
+ },
+ {
+   "hanzi": "我打算坐火车去上海",
+   "pinyin": "Wǒ dǎsuàn zuò huǒchē qù Shànghǎi.",
+   "vietnam": "Tôi định đi Thượng Hải bằng tàu hỏa.",
+   "ID": "tcr3"
+ },
+ {
+   "hanzi": "飞机几点起飞",
+   "pinyin": "Fēijī jǐ diǎn qǐfēi?",
+   "vietnam": "Máy bay cất cánh lúc mấy giờ?",
+   "ID": "tcr4"
+ },
+ {
+   "hanzi": "我朋友来机场接我",
+   "pinyin": "Wǒ péngyou lái jīchǎng jiē wǒ.",
+   "vietnam": "Bạn tôi đến sân bay đón tôi.",
+   "ID": "tcr5"
+ },
+ {
+   "hanzi": "公共汽车站在前边",
+   "pinyin": "Gōnggòng qìchē zhàn zài qiánbian.",
+   "vietnam": "Trạm xe buýt ở phía trước.",
+   "ID": "tcr6"
+ },
+ {
+   "hanzi": "我们坐出租车回家吧",
+   "pinyin": "Wǒmen zuò chūzūchē huí jiā ba.",
+   "vietnam": "Chúng ta đi taxi về nhà nhé.",
+   "ID": "tcr7"
+ },
+ {
+   "hanzi": "他喜欢骑自行车上学",
+   "pinyin": "Tā xǐhuan qí zìxíngchē shàngxué.",
+   "vietnam": "Anh ấy thích đi học bằng xe đạp.",
+   "ID": "tcr8"
+ },
+ {
+   "hanzi": "他会开车",
+   "pinyin": "Tā huì kāichē.",
+   "vietnam": "Anh ấy biết lái xe.",
+   "ID": "tcr9"
+ },
+ {
+   "hanzi": "这里不能停车",
+   "pinyin": "Zhèlǐ bù néng tíngchē.",
+   "vietnam": "Ở đây không được đỗ xe.",
+   "ID": "tcr10"
+ },
+ {
+   "hanzi": "前面有红绿灯",
+   "pinyin": "Qiánmiàn yǒu hónglǜdēng.",
+   "vietnam": "Phía trước có đèn giao thông.",
+   "ID": "tcr11"
+ },
+ {
+   "hanzi": "在下一个路口右转",
+   "pinyin": "Zài xià yí gè lùkǒu yòu zhuǎn.",
+   "vietnam": "Rẽ phải ở ngã tư tiếp theo.",
+   "ID": "tcr12"
+ },
+ {
+   "hanzi": "马路上有很多车",
+   "pinyin": "Mǎlù shàng yǒu hěn duō chē.",
+   "vietnam": "Trên đường có rất nhiều xe.",
+   "ID": "tcr13"
+ },
+ {
+   "hanzi": "这儿的交通很拥挤",
+   "pinyin": "Zhèr de jiāotōng hěn yōngjǐ.",
+   "vietnam": "Giao thông ở đây rất tắc nghẽn.",
+   "ID": "tcr14"
+ },
+ {
+   "hanzi": "出租车司机很热情",
+   "pinyin": "Chūzūchē sījī hěn rèqíng.",
+   "vietnam": "Tài xế taxi rất nhiệt tình.",
+   "ID": "tcr15"
+ },
+ {
+   "hanzi": "他每天走路去学校",
+   "pinyin": "Tā měitiān zǒulù qù xuéxiào.",
+   "vietnam": "Mỗi ngày anh ấy đi bộ đến trường.",
+   "ID": "tcr16"
+ },
+ {
+   "hanzi": "你买票了吗",
+   "pinyin": "Nǐ mǎi piào le ma?",
+   "vietnam": "Bạn đã mua vé chưa?",
+   "ID": "tcr17"
+ },
+ {
+   "hanzi": "请快点儿上车",
+   "pinyin": "Qǐng kuài diǎnr shàng chē.",
+   "vietnam": "Xin nhanh lên xe.",
+   "ID": "tcr18"
+ },
+ {
+   "hanzi": "我在下一站下车",
+   "pinyin": "Wǒ zài xià yí zhàn xià chē.",
+   "vietnam": "Tôi sẽ xuống ở trạm tiếp theo.",
+   "ID": "tcr19"
+ },
+ {
+   "hanzi": "你要在火车站换车",
+   "pinyin": "Nǐ yào zài huǒchēzhàn huàn chē.",
+   "vietnam": "Bạn phải đổi xe ở ga tàu hỏa.",
+   "ID": "tcr20"
+ },
+ {
+   "hanzi": "今天天气很好",
+   "pinyin": "Jīntiān tiānqì hěn hǎo.",
+   "vietnam": "Thời tiết hôm nay rất đẹp.",
+   "ID": "tct1"
+ },
+ {
+   "hanzi": "这个地方的气候很干燥",
+   "pinyin": "Zhège dìfāng de qìhòu hěn gānzào.",
+   "vietnam": "Khí hậu ở nơi này rất khô.",
+   "ID": "tct2"
+ },
+ {
+   "hanzi": "春天来了天气暖和了",
+   "pinyin": "Chūntiān lái le, tiānqì nuǎnhuo le.",
+   "vietnam": "Mùa xuân đến rồi, thời tiết ấm áp.",
+   "ID": "tct3"
+ },
+ {
+   "hanzi": "晚上很凉快",
+   "pinyin": "Wǎnshàng hěn liángkuai.",
+   "vietnam": "Buổi tối rất mát mẻ.",
+   "ID": "tct4"
+ },
+ {
+   "hanzi": "南方比较潮湿",
+   "pinyin": "Nánfāng bǐjiào cháoshī.",
+   "vietnam": "Miền Nam khá ẩm ướt.",
+   "ID": "tct5"
+ },
+ {
+   "hanzi": "北方的空气很干燥",
+   "pinyin": "Běifāng de kōngqì hěn gānzào.",
+   "vietnam": "Không khí ở miền Bắc rất khô.",
+   "ID": "tct6"
+ },
+ {
+   "hanzi": "今天刮风了",
+   "pinyin": "Jīntiān guā fēng le.",
+   "vietnam": "Hôm nay có gió.",
+   "ID": "tct7"
+ },
+ {
+   "hanzi": "明天可能下雨",
+   "pinyin": "Míngtiān kěnéng xià yǔ.",
+   "vietnam": "Ngày mai có thể mưa.",
+   "ID": "tct8"
+ },
+ {
+   "hanzi": "冬天常常下雪",
+   "pinyin": "Dōngtiān chángcháng xià xuě.",
+   "vietnam": "Mùa đông thường có tuyết rơi.",
+   "ID": "tct9"
+ },
+ {
+   "hanzi": "今天的温度是多少度",
+   "pinyin": "Jīntiān de wēndù shì duōshǎo dù?",
+   "vietnam": "Nhiệt độ hôm nay là bao nhiêu độ?",
+   "ID": "tct10"
+ },
+ {
+   "hanzi": "北京夏天四十度很常见",
+   "pinyin": "Běijīng xiàtiān sìshí dù hěn chángjiàn.",
+   "vietnam": "Mùa hè ở Bắc Kinh 40 độ là bình thường.",
+   "ID": "tct11"
+ },
+ {
+   "hanzi": "外面很冷你要多穿点儿",
+   "pinyin": "Wàimiàn hěn lěng, nǐ yào duō chuān diǎnr.",
+   "vietnam": "Bên ngoài rất lạnh, bạn nên mặc thêm.",
+   "ID": "tct12"
+ },
+ {
+   "hanzi": "夏天太热了",
+   "pinyin": "Xiàtiān tài rè le.",
+   "vietnam": "Mùa hè quá nóng.",
+   "ID": "tct13"
+ },
+ {
+   "hanzi": "春天花儿开了",
+   "pinyin": "Chūntiān huār kāi le.",
+   "vietnam": "Mùa xuân hoa nở rồi.",
+   "ID": "tct14"
+ },
+ {
+   "hanzi": "夏天我们去海边游泳",
+   "pinyin": "Xiàtiān wǒmen qù hǎibiān yóuyǒng.",
+   "vietnam": "Mùa hè chúng tôi đi biển bơi lội.",
+   "ID": "tct15"
+ },
+ {
+   "hanzi": "秋天的天气很舒服",
+   "pinyin": "Qiūtiān de tiānqì hěn shūfu.",
+   "vietnam": "Thời tiết mùa thu rất dễ chịu.",
+   "ID": "tct16"
+ },
+ {
+   "hanzi": "冬天常常下雪",
+   "pinyin": "Dōngtiān chángcháng xià xuě.",
+   "vietnam": "Mùa đông thường có tuyết.",
+   "ID": "tct17"
+ },
+ {
+   "hanzi": "今天是阴天",
+   "pinyin": "Jīntiān shì yīn tiān.",
+   "vietnam": "Hôm nay là ngày âm u.",
+   "ID": "tct18"
+ },
+ {
+   "hanzi": "明天是晴天",
+   "pinyin": "Míngtiān shì qíng tiān.",
+   "vietnam": "Ngày mai là ngày nắng.",
+   "ID": "tct19"
+ },
+ {
+   "hanzi": "早上有大雾",
+   "pinyin": "Zǎoshang yǒu dà wù.",
+   "vietnam": "Buổi sáng có sương mù dày.",
+   "ID": "tct20"
+ },
+ {
+   "hanzi": "我给朋友写了一封信",
+   "pinyin": "Wǒ gěi péngyǒu xiě le yī fēng xìn.",
+   "vietnam": "Tôi đã viết một bức thư cho bạn.",
+   "ID": "tcu1"
+ },
+ {
+   "hanzi": "请把信放进信封里",
+   "pinyin": "Qǐng bǎ xìn fàng jìn xìnfēng lǐ.",
+   "vietnam": "Xin hãy bỏ thư vào phong bì.",
+   "ID": "tcu2"
+ },
+ {
+   "hanzi": "我买了一些信纸",
+   "pinyin": "Wǒ mǎi le yīxiē xìnzhǐ.",
+   "vietnam": "Tôi đã mua một ít giấy viết thư.",
+   "ID": "tcu3"
+ },
+ {
+   "hanzi": "这张邮票很漂亮",
+   "pinyin": "Zhè zhāng yóupiào hěn piàoliang.",
+   "vietnam": "Con tem này rất đẹp.",
+   "ID": "tcu4"
+ },
+ {
+   "hanzi": "邮局离这儿不远",
+   "pinyin": "Yóujú lí zhèr bù yuǎn.",
+   "vietnam": "Bưu điện cách đây không xa.",
+   "ID": "tcu5"
+ },
+ {
+   "hanzi": "我要寄一个包裹",
+   "pinyin": "Wǒ yào jì yīgè bāoguǒ.",
+   "vietnam": "Tôi muốn gửi một bưu kiện.",
+   "ID": "tcu6"
+ },
+ {
+   "hanzi": "我收到了你的信",
+   "pinyin": "Wǒ shōu dào le nǐ de xìn.",
+   "vietnam": "Tôi đã nhận được thư của bạn.",
+   "ID": "tcu7"
+ },
+ {
+   "hanzi": "你的包裹已经到了",
+   "pinyin": "Nǐ de bāoguǒ yǐjīng dào le.",
+   "vietnam": "Bưu kiện của bạn đã đến rồi.",
+   "ID": "tcu8"
+ },
+ {
+   "hanzi": "我给妈妈寄了一张明信片",
+   "pinyin": "Wǒ gěi māma jì le yī zhāng míngxìnpiàn.",
+   "vietnam": "Tôi đã gửi cho mẹ một tấm bưu thiếp.",
+   "ID": "tcu9"
+ },
+ {
+   "hanzi": "他给公司发传真",
+   "pinyin": "Tā gěi gōngsī fā chuánzhēn.",
+   "vietnam": "Anh ấy gửi fax cho công ty.",
+   "ID": "tcu10"
+ },
+ {
+   "hanzi": "我每天都收电子邮件",
+   "pinyin": "Wǒ měitiān dōu shōu diànzǐ yóujiàn.",
+   "vietnam": "Tôi nhận email mỗi ngày.",
+   "ID": "tcu11"
+ },
+ {
+   "hanzi": "你打电话给谁",
+   "pinyin": "Nǐ dǎ diànhuà gěi shéi?",
+   "vietnam": "Bạn gọi điện thoại cho ai vậy?",
+   "ID": "tcu12"
+ },
+ {
+   "hanzi": "请把你的地址写清楚",
+   "pinyin": "Qǐng bǎ nǐ de dìzhǐ xiě qīngchu.",
+   "vietnam": "Xin hãy viết rõ địa chỉ của bạn.",
+   "ID": "tcu13"
+ },
+ {
+   "hanzi": "你知道北京的邮编吗",
+   "pinyin": "Nǐ zhīdào Běijīng de yóubiān ma?",
+   "vietnam": "Bạn có biết mã bưu điện của Bắc Kinh không?",
+   "ID": "tcu14"
+ },
+ {
+   "hanzi": "航空邮件比较快",
+   "pinyin": "Hángkōng yóujiàn bǐjiào kuài.",
+   "vietnam": "Thư gửi đường hàng không khá nhanh.",
+   "ID": "tcu15"
+ },
+ {
+   "hanzi": "海运比航空便宜",
+   "pinyin": "Hǎiyùn bǐ hángkōng piányi.",
+   "vietnam": "Gửi đường biển rẻ hơn đường hàng không.",
+   "ID": "tcu16"
+ },
+ {
+   "hanzi": "这是国内邮件",
+   "pinyin": "Zhè shì guónèi yóujiàn.",
+   "vietnam": "Đây là thư trong nước.",
+   "ID": "tcu17"
+ },
+ {
+   "hanzi": "国际邮费很贵",
+   "pinyin": "Guójì yóufèi hěn guì.",
+   "vietnam": "Cước phí bưu điện quốc tế rất đắt.",
+   "ID": "tcu18"
+ },
+ {
+   "hanzi": "他寄了一封挂号信",
+   "pinyin": "Tā jì le yī fēng guàhào xìn.",
+   "vietnam": "Anh ấy gửi một bức thư bảo đảm.",
+   "ID": "tcu19"
+ },
+ {
+   "hanzi": "这个快件需要签字",
+   "pinyin": "Zhège kuàijiàn xūyào qiānzì.",
+   "vietnam": "Bưu kiện nhanh này cần ký nhận.",
+   "ID": "tcu20"
+ },
+ {
+   "hanzi": "我打算去中国旅游",
+   "pinyin": "Wǒ dǎsuàn qù Zhōngguó lǚyóu.",
+   "vietnam": "Tôi định đi du lịch Trung Quốc.",
+   "ID": "tcv1"
+ },
+ {
+   "hanzi": "旅行社帮我们安排了行程",
+   "pinyin": "Lǚxíngshè bāng wǒmen ānpái le xíngchéng.",
+   "vietnam": "Công ty du lịch đã sắp xếp lịch trình cho chúng tôi.",
+   "ID": "tcv2"
+ },
+ {
+   "hanzi": "导游正在介绍长城的历史",
+   "pinyin": "Dǎoyóu zhèngzài jièshào Chángchéng de lìshǐ.",
+   "vietnam": "Hướng dẫn viên đang giới thiệu lịch sử Vạn Lý Trường Thành.",
+   "ID": "tcv3"
+ },
+ {
+   "hanzi": "山上的景色非常美丽",
+   "pinyin": "Shān shàng de jǐngsè fēicháng měilì.",
+   "vietnam": "Cảnh trên núi rất đẹp.",
+   "ID": "tcv4"
+ },
+ {
+   "hanzi": "北京有很多名胜古迹",
+   "pinyin": "Běijīng yǒu hěn duō míngshèng gǔjì.",
+   "vietnam": "Bắc Kinh có rất nhiều danh lam thắng cảnh.",
+   "ID": "tcv5"
+ },
+ {
+   "hanzi": "这张门票多少钱",
+   "pinyin": "Zhè zhāng ménpiào duōshao qián?",
+   "vietnam": "Vé vào cửa này bao nhiêu tiền?",
+   "ID": "tcv6"
+ },
+ {
+   "hanzi": "他在天安门广场照相",
+   "pinyin": "Tā zài Tiān'ānmén guǎngchǎng zhàoxiàng.",
+   "vietnam": "Anh ấy chụp ảnh ở quảng trường Thiên An Môn.",
+   "ID": "tcv7"
+ },
+ {
+   "hanzi": "游客们在排队买票",
+   "pinyin": "Yóukèmen zài páiduì mǎipiào.",
+   "vietnam": "Du khách đang xếp hàng mua vé.",
+   "ID": "tcv8"
+ },
+ {
+   "hanzi": "中国的自然风光很壮观",
+   "pinyin": "Zhōngguó de zìrán fēngguāng hěn zhuàngguān.",
+   "vietnam": "Phong cảnh thiên nhiên Trung Quốc rất hùng vĩ.",
+   "ID": "tcv9"
+ },
+ {
+   "hanzi": "这里的风景像画一样美",
+   "pinyin": "Zhèlǐ de fēngjǐng xiàng huà yīyàng měi.",
+   "vietnam": "Cảnh ở đây đẹp như tranh vẽ.",
+   "ID": "tcv10"
+ },
+ {
+   "hanzi": "湖水很清也很安静",
+   "pinyin": "Húshuǐ hěn qīng, yě hěn ānjìng.",
+   "vietnam": "Nước hồ rất trong và yên tĩnh.",
+   "ID": "tcv11"
+ },
+ {
+   "hanzi": "这座山爬起来很累",
+   "pinyin": "Zhè zuò shān pá qǐlái hěn lèi.",
+   "vietnam": "Leo ngọn núi này rất mệt.",
+   "ID": "tcv12"
+ },
+ {
+   "hanzi": "我们参观了一座古老的寺庙",
+   "pinyin": "Wǒmen cānguān le yī zuò gǔlǎo de sìmiào.",
+   "vietnam": "Chúng tôi đã tham quan một ngôi chùa cổ.",
+   "ID": "tcv13"
+ },
+ {
+   "hanzi": "公园里有很多人锻炼身体",
+   "pinyin": "Gōngyuán lǐ yǒu hěn duō rén duànliàn shēntǐ.",
+   "vietnam": "Trong công viên có nhiều người tập thể dục.",
+   "ID": "tcv14"
+ },
+ {
+   "hanzi": "学生们去博物馆参观",
+   "pinyin": "Xuéshēngmen qù bówùguǎn cānguān.",
+   "vietnam": "Học sinh đi tham quan bảo tàng.",
+   "ID": "tcv15"
+ },
+ {
+   "hanzi": "这个博物馆很有名",
+   "pinyin": "Zhège bówùguǎn hěn yǒumíng.",
+   "vietnam": "Bảo tàng này rất nổi tiếng.",
+   "ID": "tcv16"
+ },
+ {
+   "hanzi": "你对中国的风俗了解吗",
+   "pinyin": "Nǐ duì Zhōngguó de fēngsú liǎojiě ma?",
+   "vietnam": "Bạn có hiểu phong tục Trung Quốc không?",
+   "ID": "tcv17"
+ },
+ {
+   "hanzi": "他习惯每天早起锻炼",
+   "pinyin": "Tā xíguàn měitiān zǎoqǐ duànliàn.",
+   "vietnam": "Anh ấy quen dậy sớm tập thể dục hằng ngày.",
+   "ID": "tcv18"
+ },
+ {
+   "hanzi": "我对中国文化很感兴趣",
+   "pinyin": "Wǒ duì Zhōngguó wénhuà hěn gǎn xìngqù.",
+   "vietnam": "Tôi rất hứng thú với văn hóa Trung Quốc.",
+   "ID": "tcv19"
+ },
+ {
+   "hanzi": "春节是中国最重要的传统节日",
+   "pinyin": "Chūnjié shì Zhōngguó zuì zhòngyào de chuántǒng jiérì.",
+   "vietnam": "Tết Nguyên Đán là lễ truyền thống quan trọng nhất ở Trung Quốc.",
+   "ID": "tcv20"
+ }
+]

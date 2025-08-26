@@ -1,0 +1,482 @@
+[
+ {
+   "hanzi": "妈妈",
+   "pinyin": "māma",
+   "vietnam": "Mẹ",
+   "ID": "sc1"
+ },
+ {
+   "hanzi": "爸爸",
+   "pinyin": "bàba",
+   "vietnam": "Bố",
+   "ID": "sc2"
+ },
+ {
+   "hanzi": "弟弟",
+   "pinyin": "dìdi",
+   "vietnam": "Em trai",
+   "ID": "sc3"
+ },
+ {
+   "hanzi": "姐姐",
+   "pinyin": "jiějie",
+   "vietnam": "Chị gái",
+   "ID": "sc4"
+ },
+ {
+   "hanzi": "妹妹",
+   "pinyin": "mèimei",
+   "vietnam": "Em gái",
+   "ID": "sc5"
+ },
+ {
+   "hanzi": "哥哥",
+   "pinyin": "gēge",
+   "vietnam": "Anh trai",
+   "ID": "sc6"
+ },
+ {
+   "hanzi": "你好",
+   "pinyin": "nǐ hǎo",
+   "vietnam": "Xin chào",
+   "ID": "sc7"
+ },
+ {
+   "hanzi": "你好吗",
+   "pinyin": "nǐ hǎo ma",
+   "vietnam": "Bạn có khỏe không?",
+   "ID": "sc8"
+ },
+ {
+   "hanzi": "妈妈好吗",
+   "pinyin": "māma hǎo ma",
+   "vietnam": "Mẹ có khỏe không?",
+   "ID": "sc9"
+ },
+ {
+   "hanzi": "爸爸好吗",
+   "pinyin": "bàba hǎo ma",
+   "vietnam": "Bố có khỏe không?",
+   "ID": "sc10"
+ },
+ {
+   "hanzi": "姐姐好吗",
+   "pinyin": "jiějie hǎo ma",
+   "vietnam": "Chị có khỏe không?",
+   "ID": "sc11"
+ },
+ {
+   "hanzi": "哥哥好吗",
+   "pinyin": "gēge hǎo ma",
+   "vietnam": "Anh có khỏe không?",
+   "ID": "sc12"
+ },
+ {
+   "hanzi": "弟弟好吗",
+   "pinyin": "dìdi hǎo ma",
+   "vietnam": "Em trai có khỏe không?",
+   "ID": "sc13"
+ },
+ {
+   "hanzi": "妹妹好吗",
+   "pinyin": "mèimei hǎo ma",
+   "vietnam": "Em gái có khỏe không?",
+   "ID": "sc14"
+ },
+ {
+   "hanzi": "我很好",
+   "pinyin": "wǒ hěn hǎo",
+   "vietnam": "Tôi rất khỏe",
+   "ID": "sc15"
+ },
+ {
+   "hanzi": "妈妈很好",
+   "pinyin": "māma hěn hǎo",
+   "vietnam": "Mẹ rất khỏe",
+   "ID": "sc16"
+ },
+ {
+   "hanzi": "哥哥很好",
+   "pinyin": "gēge hěn hǎo",
+   "vietnam": "Anh trai rất khỏe",
+   "ID": "sc17"
+ },
+ {
+   "hanzi": "弟弟很好",
+   "pinyin": "dìdi hěn hǎo",
+   "vietnam": "Em trai rất khỏe",
+   "ID": "sc18"
+ },
+ {
+   "hanzi": "妹妹很好",
+   "pinyin": "mèimei hěn hǎo",
+   "vietnam": "Em gái rất khỏe",
+   "ID": "sc19"
+ },
+ {
+   "hanzi": "爸爸很好",
+   "pinyin": "bàba hěn hǎo",
+   "vietnam": "Bố rất khỏe",
+   "ID": "sc20"
+ },
+ {
+   "hanzi": "你忙吗",
+   "pinyin": "nǐ máng ma",
+   "vietnam": "Bạn có bận không?",
+   "ID": "sc21"
+ },
+ {
+   "hanzi": "妈妈很忙",
+   "pinyin": "māma hěn máng",
+   "vietnam": "Mẹ rất bận",
+   "ID": "sc22"
+ },
+ {
+   "hanzi": "哥哥很忙",
+   "pinyin": "gēge hěn máng",
+   "vietnam": "Anh trai rất bận",
+   "ID": "sc23"
+ },
+ {
+   "hanzi": "弟弟很忙",
+   "pinyin": "dìdi hěn máng",
+   "vietnam": "Em trai rất bận",
+   "ID": "sc24"
+ },
+ {
+   "hanzi": "妹妹很忙",
+   "pinyin": "mèimei hěn máng",
+   "vietnam": "Em gái rất bận",
+   "ID": "sc25"
+ },
+ {
+   "hanzi": "爸爸很忙",
+   "pinyin": "bàba hěn máng",
+   "vietnam": "Bố rất bận",
+   "ID": "sc26"
+ },
+ {
+   "hanzi": "你累吗",
+   "pinyin": "nǐ lèi ma",
+   "vietnam": "Bạn có mệt không?",
+   "ID": "sc27"
+ },
+ {
+   "hanzi": "妈妈很累",
+   "pinyin": "māma hěn lèi",
+   "vietnam": "Mẹ rất mệt",
+   "ID": "sc28"
+ },
+ {
+   "hanzi": "哥哥很累",
+   "pinyin": "gēge hěn lèi",
+   "vietnam": "Anh trai rất mệt",
+   "ID": "sc29"
+ },
+ {
+   "hanzi": "弟弟很累",
+   "pinyin": "dìdi hěn lèi",
+   "vietnam": "Em trai rất mệt",
+   "ID": "sc30"
+ },
+ {
+   "hanzi": "妹妹很累",
+   "pinyin": "mèimei hěn lèi",
+   "vietnam": "Em gái rất mệt",
+   "ID": "sc31"
+ },
+ {
+   "hanzi": "爸爸很累",
+   "pinyin": "bàba hěn lèi",
+   "vietnam": "Bố rất mệt",
+   "ID": "sc32"
+ },
+ {
+   "hanzi": "妈妈不忙",
+   "pinyin": "māma bù máng",
+   "vietnam": "Mẹ không bận",
+   "ID": "sc33"
+ },
+ {
+   "hanzi": "哥哥不忙",
+   "pinyin": "gēge bù máng",
+   "vietnam": "Anh trai không bận",
+   "ID": "sc34"
+ },
+ {
+   "hanzi": "弟弟不忙",
+   "pinyin": "dìdi bù máng",
+   "vietnam": "Em trai không bận",
+   "ID": "sc35"
+ },
+ {
+   "hanzi": "妹妹不忙",
+   "pinyin": "mèimei bù máng",
+   "vietnam": "Em gái không bận",
+   "ID": "sc36"
+ },
+ {
+   "hanzi": "爸爸不忙",
+   "pinyin": "bàba bù máng",
+   "vietnam": "Bố không bận",
+   "ID": "sc37"
+ },
+ {
+   "hanzi": "妈妈不太忙",
+   "pinyin": "māma bú tài máng",
+   "vietnam": "Mẹ không quá bận",
+   "ID": "sc38"
+ },
+ {
+   "hanzi": "哥哥不太忙",
+   "pinyin": "gēge bú tài máng",
+   "vietnam": "Anh trai không quá bận",
+   "ID": "sc39"
+ },
+ {
+   "hanzi": "弟弟不太忙",
+   "pinyin": "dìdi bú tài máng",
+   "vietnam": "Em trai không quá bận",
+   "ID": "sc40"
+ },
+ {
+   "hanzi": "妹妹不太忙",
+   "pinyin": "mèimei bú tài máng",
+   "vietnam": "Em gái không quá bận",
+   "ID": "sc41"
+ },
+ {
+   "hanzi": "爸爸不太忙",
+   "pinyin": "bàba bú tài máng",
+   "vietnam": "Bố không quá bận",
+   "ID": "sc42"
+ },
+ {
+   "hanzi": "我不太忙",
+   "pinyin": "wǒ bú tài máng",
+   "vietnam": "Tôi không quá bận",
+   "ID": "sc43"
+ },
+ {
+   "hanzi": "妈妈不太好",
+   "pinyin": "māma bú tài hǎo",
+   "vietnam": "Mẹ không được khỏe lắm",
+   "ID": "sc44"
+ },
+ {
+   "hanzi": "哥哥不太好",
+   "pinyin": "gēge bú tài hǎo",
+   "vietnam": "Anh trai không được khỏe lắm",
+   "ID": "sc45"
+ },
+ {
+   "hanzi": "弟弟不太好",
+   "pinyin": "dìdi bú tài hǎo",
+   "vietnam": "Em trai không được khỏe lắm",
+   "ID": "sc46"
+ },
+ {
+   "hanzi": "妹妹不太好",
+   "pinyin": "mèimei bú tài hǎo",
+   "vietnam": "Em gái không được khỏe lắm",
+   "ID": "sc47"
+ },
+ {
+   "hanzi": "爸爸不太好",
+   "pinyin": "bàba bú tài hǎo",
+   "vietnam": "Bố không được khỏe lắm",
+   "ID": "sc48"
+ },
+ {
+   "hanzi": "我不太好",
+   "pinyin": "wǒ bú tài hǎo",
+   "vietnam": "Tôi không được khỏe lắm",
+   "ID": "sc49"
+ },
+ {
+   "hanzi": "汉语难吗",
+   "pinyin": "Hànyǔ nán ma",
+   "vietnam": "Tiếng Trung có khó không?",
+   "ID": "sc50"
+ },
+ {
+   "hanzi": "汉语不难",
+   "pinyin": "Hànyǔ bù nán",
+   "vietnam": "Tiếng Trung không khó",
+   "ID": "sc51"
+ },
+ {
+   "hanzi": "汉语不太难",
+   "pinyin": "Hànyǔ bú tài nán",
+   "vietnam": "Tiếng Trung không quá khó",
+   "ID": "sc52"
+ },
+ {
+   "hanzi": "你学英语吗",
+   "pinyin": "nǐ xué Yīngyǔ ma",
+   "vietnam": "Bạn có học tiếng Anh không?",
+   "ID": "sc53"
+ },
+ {
+   "hanzi": "我不学英语",
+   "pinyin": "wǒ bù xué Yīngyǔ",
+   "vietnam": "Tôi không học tiếng Anh",
+   "ID": "sc54"
+ },
+ {
+   "hanzi": "我妈妈不学英语",
+   "pinyin": "wǒ māma bù xué Yīngyǔ",
+   "vietnam": "Mẹ tôi không học tiếng Anh",
+   "ID": "sc55"
+ },
+ {
+   "hanzi": "英语难吗",
+   "pinyin": "Yīngyǔ nán ma",
+   "vietnam": "Tiếng Anh có khó không?",
+   "ID": "sc56"
+ },
+ {
+   "hanzi": "英语很难",
+   "pinyin": "Yīngyǔ hěn nán",
+   "vietnam": "Tiếng Anh rất khó",
+   "ID": "sc57"
+ },
+ {
+   "hanzi": "英语不太难",
+   "pinyin": "Yīngyǔ bú tài nán",
+   "vietnam": "Tiếng Anh không quá khó",
+   "ID": "sc58"
+ },
+ {
+   "hanzi": "你学法语吗",
+   "pinyin": "nǐ xué Fǎyǔ ma",
+   "vietnam": "Bạn có học tiếng Pháp không?",
+   "ID": "sc59"
+ },
+ {
+   "hanzi": "我不学法语",
+   "pinyin": "wǒ bù xué Fǎyǔ",
+   "vietnam": "Tôi không học tiếng Pháp",
+   "ID": "sc60"
+ },
+ {
+   "hanzi": "我爸爸不学法语",
+   "pinyin": "wǒ bàba bù xué Fǎyǔ",
+   "vietnam": "Bố tôi không học tiếng Pháp",
+   "ID": "sc61"
+ },
+ {
+   "hanzi": "法语难吗",
+   "pinyin": "Fǎyǔ nán ma",
+   "vietnam": "Tiếng Pháp có khó không?",
+   "ID": "sc62"
+ },
+ {
+   "hanzi": "法语很难",
+   "pinyin": "Fǎyǔ hěn nán",
+   "vietnam": "Tiếng Pháp rất khó",
+   "ID": "sc63"
+ },
+ {
+   "hanzi": "法语不太难",
+   "pinyin": "Fǎyǔ bú tài nán",
+   "vietnam": "Tiếng Pháp không quá khó",
+   "ID": "sc64"
+ },
+ {
+   "hanzi": "你学韩国语吗",
+   "pinyin": "nǐ xué Hánguóyǔ ma",
+   "vietnam": "Bạn có học tiếng Hàn không?",
+   "ID": "sc65"
+ },
+ {
+   "hanzi": "我不学韩国语",
+   "pinyin": "wǒ bù xué Hánguóyǔ",
+   "vietnam": "Tôi không học tiếng Hàn",
+   "ID": "sc66"
+ },
+ {
+   "hanzi": "我弟弟不学韩国语",
+   "pinyin": "wǒ dìdi bù xué Hánguóyǔ",
+   "vietnam": "Em trai tôi không học tiếng Hàn",
+   "ID": "sc67"
+ },
+ {
+   "hanzi": "韩国语难吗",
+   "pinyin": "Hánguóyǔ nán ma",
+   "vietnam": "Tiếng Hàn có khó không?",
+   "ID": "sc68"
+ },
+ {
+   "hanzi": "韩国语很难",
+   "pinyin": "Hánguóyǔ hěn nán",
+   "vietnam": "Tiếng Hàn rất khó",
+   "ID": "sc69"
+ },
+ {
+   "hanzi": "韩国语不太难",
+   "pinyin": "Hánguóyǔ bú tài nán",
+   "vietnam": "Tiếng Hàn không quá khó",
+   "ID": "sc70"
+ },
+ {
+   "hanzi": "谢谢哥哥",
+   "pinyin": "xièxie gēge",
+   "vietnam": "Cảm ơn anh trai",
+   "ID": "sc71"
+ },
+ {
+   "hanzi": "姐姐忙吗",
+   "pinyin": "jiějie máng ma",
+   "vietnam": "Chị gái có bận không?",
+   "ID": "sc72"
+ },
+ {
+   "hanzi": "姐姐很累",
+   "pinyin": "jiějie hěn lèi",
+   "vietnam": "Chị gái rất mệt",
+   "ID": "sc73"
+ },
+ {
+   "hanzi": "姐姐不太好",
+   "pinyin": "jiějie bú tài hǎo",
+   "vietnam": "Chị gái không được khỏe lắm",
+   "ID": "sc74"
+ },
+ {
+   "hanzi": "你妈妈学日语吗",
+   "pinyin": "nǐ māma xué Rìyǔ ma",
+   "vietnam": "Mẹ bạn có học tiếng Nhật không?",
+   "ID": "sc75"
+ },
+ {
+   "hanzi": "西班牙语难吗",
+   "pinyin": "Xībānyáyǔ nán ma",
+   "vietnam": "Tiếng Tây Ban Nha có khó không?",
+   "ID": "sc76"
+ },
+ {
+   "hanzi": "我弟弟学西班牙语",
+   "pinyin": "míngtiān wǒ dìdi xué Xībānyáyǔ",
+   "vietnam": "Ngày mai em trai tôi học tiếng Tây Ban Nha",
+   "ID": "sc77"
+ },
+ {
+   "hanzi": "姐姐不学德语",
+   "pinyin": "jiějie bù xué Déyǔ",
+   "vietnam": "Chị gái không học tiếng Đức",
+   "ID": "sc78"
+ },
+ {
+   "hanzi": "俄语难吗",
+   "pinyin": "Éyǔ nán ma",
+   "vietnam": "Tiếng Nga có khó không?",
+   "ID": "sc79"
+ },
+ {
+   "hanzi": "德语太难",
+   "pinyin": "Déyǔ tài nán",
+   "vietnam": "Tiếng Đức quá khó",
+   "ID": "sc80"
+ }
+]
