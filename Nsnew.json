@@ -457,8 +457,8 @@
  },
  {
    "hanzi": "我弟弟学西班牙语",
-   "pinyin": "míngtiān wǒ dìdi xué Xībānyáyǔ",
-   "vietnam": "Ngày mai em trai tôi học tiếng Tây Ban Nha",
+   "pinyin": "wǒ dìdi xué Xībānyáyǔ",
+   "vietnam": "Em trai tôi học tiếng Tây Ban Nha",
    "ID": "sc77"
  },
  {
@@ -479,4 +479,5 @@
    "vietnam": "Tiếng Đức quá khó",
    "ID": "sc80"
  }
+
 ]
